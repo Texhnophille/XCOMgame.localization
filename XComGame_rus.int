@@ -124,78 +124,78 @@ strCharacterName="Элитный Часовой"
 strAcquiredText="Солдаты-Часовые могут переходить в боеготовность сразу же после стандартного выстрела. У них также увеличена дальность видимости и обнаружения." 
 
 [AdvTrooperPistolM1 X2CharacterTemplate]
-strCharacterName="ADVENT Gunslinger"
-strAcquiredText="Armed with a light pistol and able to use the Faceoff skill, Gunslinger Troopers can put multiple soldiers into the hospital at once." 
+strCharacterName="Стрелок АДВЕНТа"
+strAcquiredText="Имеющие при себе лёгкий пистолет и навык "Один на один", Стрелки могут отправить в лазарет сразу нескольких бойцов." 
 [AdvTrooperPistolM2 X2CharacterTemplate]
-strCharacterName="Advanced Gunslinger"
-strAcquiredText="Armed with a light pistol and able to use the Faceoff skill, Gunslinger Troopers can put multiple soldiers into the hospital at once." 
+strCharacterName="Продвинутый Стрелок"
+strAcquiredText="Имеющие при себе лёгкий пистолет и навык "Один на один", Стрелки могут отправить в лазарет сразу нескольких бойцов." 
 [AdvTrooperPistolM3 X2CharacterTemplate]
-strCharacterName="Elite Gunslinger"
-strAcquiredText="Armed with a light pistol and able to use the Faceoff skill, Gunslinger Troopers can put multiple soldiers into the hospital at once." 
+strCharacterName="Элитный Стрелок"
+strAcquiredText="Имеющие при себе лёгкий пистолет и навык "Один на один", Стрелки могут отправить в лазарет сразу нескольких бойцов." 
 
 [AdvTrooperArmorM1 X2CharacterTemplate]
-strCharacterName="ADVENT Soldier"
+strCharacterName="Солдат АДВЕНТа"
 [AdvTrooperArmorM2 X2CharacterTemplate]
-strCharacterName="Advanced Soldier"
+strCharacterName="Продвинутый Солдат"
 [AdvTrooperArmorM3 X2CharacterTemplate]
-strCharacterName="Elite Soldier"
+strCharacterName="Элитный Солдат"
 
 [AdvTrooperShoggothM1 X2CharacterTemplate]
-strCharacterName="ADVENT Trooper"
+strCharacterName="Пехотинец АДВЕНТа"
 [AdvTrooperShoggothM2 X2CharacterTemplate]
-strCharacterName="Advanced Trooper"
+strCharacterName="Продвинутый Пехотинец"
 [AdvTrooperShoggothM3 X2CharacterTemplate]
-strCharacterName="Elite Trooper"
+strCharacterName="Элитный Пехотинец"
 
 [AdvTrooperHeavyM1 X2CharacterTemplate]
-strCharacterName="ADVENT Heavy"
-strAcquiredText="Heavy Troopers wear more advanced armor, offering better protection." 
+strCharacterName="Тяжелая Пехота АДВЕНТа"
+strAcquiredText="Тяжелые Пехотинцы носят более продвинутую броню и лучше защищены." 
 [AdvTrooperHeavyM2 X2CharacterTemplate]
-strCharacterName="Advanced Heavy"
+strCharacterName="Продвинутая Тяжелая Пехота"
 strAcquiredText="Heavy Troopers wear more advanced armor, offering better protection." 
 [AdvTrooperHeavyM3 X2CharacterTemplate]
-strCharacterName="Elite Heavy"
-strAcquiredText="Heavy Troopers wear more advanced armor, offering better protection." 
+strCharacterName="Элитная Тяжелая Пехота"
+strAcquiredText="Тяжелые Пехотинцы носят более продвинутую броню и лучше защищены." 
 
 [AdvTrooperShotgunM1 X2CharacterTemplate]
-strCharacterName="ADVENT Striker"
-strAcquiredText="With their Shotgun, the Striker Trooper can dish out a large amount of damage. They have increased mobility and will try to leverage this for flank shots." 
+strCharacterName="Ударный Боец АДВЕНТа"
+strAcquiredText="Вооруженные дробовиками Ударные Бойцы могут наносить огромный урон. С помощью более высокой мобильности они будут пытаться атаковать с фланга." 
 [AdvTrooperShotgunM2 X2CharacterTemplate]
-strCharacterName="Advanced Striker"
-strAcquiredText="With their Shotgun, the Striker Trooper can dish out a large amount of damage. They have increased mobility and will try to leverage this for flank shots." 
+strCharacterName="Продвинутый Ударный Боец"
+strAcquiredText="Вооруженные дробовиками Ударные Бойцы могут наносить огромный урон. С помощью более высокой мобильности они будут пытаться атаковать с фланга." 
 [AdvTrooperShotgunM3 X2CharacterTemplate]
-strCharacterName="Elite Striker"
-strAcquiredText="With their Shotgun, the Striker Trooper can dish out a large amount of damage. They have increased mobility and will try to leverage this for flank shots." 
+strCharacterName="Элитный Ударный Боец"
+strAcquiredText="Вооруженные дробовиками Ударные Бойцы могут наносить огромный урон. С помощью более высокой мобильности они будут пытаться атаковать с фланга." 
 
 [AdvTrooperGrenadeM1 X2CharacterTemplate]
-strCharacterName="ADVENT Demolitionist"
-strAcquiredText="The basic Demolitionist Trooper is equipped with a standard issue frag grenade." 
+strCharacterName="Подрывник АДВЕНТа"
+strAcquiredText="Обычный Подрывник вооружен стандартной осколочной гранатой." 
 [AdvTrooperGrenadeM2 X2CharacterTemplate]
-strCharacterName="Advanced Demolitionist"
-strAcquiredText="The advanced Demolitionist Trooper is equipped with a standard issue frag grenade and a grenade launcher." 
+strCharacterName="Продвинутый Подрывник"
+strAcquiredText="Продвинутый Подрывник вооружен стандартной осколочной гранатой и гранатомётом." 
 [AdvTrooperGrenadeM3 X2CharacterTemplate]
-strCharacterName="Elite Demolitionist"
-strAcquiredText="The elite Demolitionist Trooper is equipped with a plasma grenade, a grenade launcher and a wrist mounted rocket launcher." 
+strCharacterName="Элитный Подрывник"
+strAcquiredText="Элитный Подрывник вооружен плазменной гранатой, гранатомётом и наручным ракетомётом." 
 
 [AdvTrooperEnviroM1 X2CharacterTemplate]
-strCharacterName="ADVENT Wrecker"
-strAcquiredText="The Wrecker Trooper is an anti-armor unit that is able to shred and pierce armor. They also have increased environmental damage." 
+strCharacterName="Разрушитель АДВЕНТа"
+strAcquiredText="Солдат-разрушитель имеет бронебойное вооружение, способное пробивать и уничтожать броню. Они также наносят повышенный урон предметам окружения." 
 [AdvTrooperEnviroM2 X2CharacterTemplate]
-strCharacterName="Advanced Wrecker"
-strAcquiredText="The Wrecker Trooper is an anti-armor unit that is able to shred and pierce armor. They also have increased environmental damage." 
+strCharacterName="Продвинутый Разрушитель"
+strAcquiredText="Солдат-разрушитель имеет бронебойное вооружение, способное пробивать и уничтожать броню. Они также наносят повышенный урон предметам окружения." 
 [AdvTrooperEnviroM3 X2CharacterTemplate]
-strCharacterName="Elite Wrecker"
-strAcquiredText="The Wrecker Trooper is an anti-armor unit that is able to shred and pierce armor. They also have increased environmental damage." 
+strCharacterName="Элитный Разрушитель"
+strAcquiredText="Солдат-разрушитель имеет бронебойное вооружение, способное пробивать и уничтожать броню. Они также наносят повышенный урон предметам окружения." 
 
 [AdvTrooperCannonM1 X2CharacterTemplate]
-strCharacterName="ADVENT Gatling Trooper"
-strAcquiredText="Armed with a minituarized version of the MEC Cannon, Gatling Troopers are able to unleash devastating bullet storms on enemies." 
+strCharacterName="Гатлинг-Солдат АДВЕНТа"
+strAcquiredText="Гатлинг-Солдаты вооружены компактной версией пушки для МЭКов и способны поливать противников разрушительным свинцовым дождём." 
 [AdvTrooperCannonM2 X2CharacterTemplate]
-strCharacterName="Advanced Gatling Sergeant"
-strAcquiredText="Armed with a minituarized version of the MEC Cannon, Gatling Troopers are able to unleash devastating bullet storms on enemies." 
+strCharacterName="Продвинутый Гатлинг-Сержант"
+strAcquiredText="Гатлинг-Солдаты вооружены компактной версией пушки для МЭКов и способны поливать противников разрушительным свинцовым дождём." 
 [AdvTrooperCannonM3 X2CharacterTemplate]
-strCharacterName="Elite Gatling Sergeant"
-strAcquiredText="Armed with a minituarized version of the MEC Cannon, Gatling Troopers are able to unleash devastating bullet storms on enemies." 
+strCharacterName="Элитный Гатлинг-Сержант"
+strAcquiredText="Гатлинг-Солдаты вооружены компактной версией пушки для МЭКов и способны поливать противников разрушительным свинцовым дождём." 
 
 [AdvTrooperSniperM1 X2CharacterTemplate]
 strCharacterName="ADVENT Sniper"

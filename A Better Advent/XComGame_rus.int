@@ -1252,7 +1252,7 @@ LocHelpText="Make a melee attack against an adjacent target and drain its life."
 
 
 [XGLocalizedData]
-+GameplayTips_Tactical="Prime versions of enemies get an immediate bonus action whenever they are damaged."
++GameplayTips_Tactical="Элитные виды противников получают дополнительное действие, когда им наносится урон."
 +GameplayTips_Tactical="There are many different types of Chryssalid, from the puny Crawler to the colossal Abomination."
 +GameplayTips_Tactical="Boas are much tougher than regular Vipers. They use only melee and don't release targets before almost dead."
 +GameplayTips_Tactical="Mambas use a Boltcaster with Squadsight. They have a unique ability to finish off wounded soldiers."

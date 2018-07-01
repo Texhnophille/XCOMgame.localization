@@ -290,40 +290,40 @@ strAcquiredText="Полностью сформировавшийся и опыт
 strCharacterName="Криссалид-Ползун"
 strAcquiredText="Этот несформировавшийся криссалид ещё не ядовит." 
 [ABAChryssalidM2 X2CharacterTemplate]
-strCharacterName="Chryssalid Bleeder"
-strAcquiredText="The adolescent Chryssalid Drone is not poisonous, but his acid blood can hurt close combat opponents." 
+strCharacterName="Криссалид-Паразит"
+strAcquiredText="Подростающий трутень криссалидов ещё не ядовит, но его кислотная кровь наносит урон противникам в ближнем бою." 
 [ABAChryssalidM3 X2CharacterTemplate]
-strCharacterName="Chryssalid Hunter"
-strAcquiredText="Fully developed Chryssalids with some experience, the Hunter is a formidable opponent." 
+strCharacterName="Криссалид-Охотник"
+strAcquiredText="Полностью сформировавшийся и опытный Криссалид-Охотник является грозным противником." 
 [ABAChryssalidM4 X2CharacterTemplate]
-strCharacterName="Chryssalid Hunterkiller"
-strAcquiredText="The toughest of the rank and file Chryssalids, the Hunterkiller can dish out a lot of damage while itself withstanding heavy punishment." 
+strCharacterName="Криссалид-Истребитель"
+strAcquiredText="Самый опасный из рядовых криссалидов, Истребитель может наносить много урона, при этом обладая высокой выживаемостью." 
 
 [ChryssalidSpitter X2CharacterTemplate]
-strCharacterName="Chryssalid Spitter"
-strAcquiredText="Low ranked Chryssalids, the Spitter is mostly notable for its ability to spit globs of poison. Their Lightning Reflexes allow them to dodge enemy fire." 
+strCharacterName="Криссалид-Распылитель"
+strAcquiredText="Рядовой Криссалид-Распылитель выделяется среди остальных способностью выплевывать сгустки яда. Их "Молниеносные Рефлексы" позволяют им уклоняться от вражеского огня." 
 [ChryssalidDaddy X2CharacterTemplate]
-strCharacterName="Chryssalid King"
-strAcquiredText="The most physically imposing members of the Chryssalid hive are chosen as mates for the Queen. Their close connection to the hive mind makes them immune to mind altering effects. Their Lightning Reflexes allow them to dodge enemy fire." 
+strCharacterName="Криссалид-Король"
+strAcquiredText="Самые грозные члены улья криссалидов, которых Матка выбрала для спаривания. Их тесная связь с роевым сознанием дает им иммунитет к влияющим на разум эффектам. Их "Молниеносные Рефлексы" позволяют им уклоняться от вражеского огня." 
 [ChryssalidMommy X2CharacterTemplate]
-strCharacterName="Chryssalid Queen"
-strAcquiredText="Chryssalid Queens live to grow the swarm. When threatened, they can throw the still underdeveloped Chryssalid spawns into battle, thus creating instant swarms. They are the nexus of the hivemind and therefore immune to mind altering effects." 
+strCharacterName="Криссалид-Матка"
+strAcquiredText="Матки Криссалидов живут для того, чтобы выращивать многочисленное потмство. При угрозе они способны рожать недоношенных детенышей криссалидов для своей защиты, быстро создавая полчища врагов. Они - связующее звено роевого сознания и потому невосприимчивы к влияющим на разум эффектам." 
 [ChryssalidAbomination X2CharacterTemplate]
 strCharacterName="Криссалид-Отродье"
-strAcquiredText="Misformed and monstrous, the Chryssalid hive has no use for the Abomination. They roam the countrysites, causing considerable damage before finally being put down." 
+strAcquiredText="Деформированные и уродливые, Отродья никак не могут пригодиться улью криссалидов. Они блуждают по темным уголкам Земли, уничтожая всё на своем пути, пока их не убьют." 
 
 [ViperBoa X2CharacterTemplate]
 strCharacterName="Удав"
-strAcquiredText="Boas are purely melee capable enemies. They grab their prey and hold them in their coils. Unlike other Vipers, the Boa won't release its grip before it is almost dead." 
+strAcquiredText="Удавы ориентированы на ближний бой. Они хватают добычу и душат её в своих кольцах. В отличие от других Гадюк, Удавы отпустят свою жертву, только будучи на пороге смерти." 
 [Wyvern X2CharacterTemplate]
-strCharacterName="Wyvern"
-strAcquiredText="Instead of poison, the Wyvern spits a highly flammable napalm-like substance that will cause the target area to burn for several turns." 
+strCharacterName="Виверна"
+strAcquiredText="Вместо яда, Виверна плюётся легко воспламеняемой жижей, похожей на напалм, которая подожжёт область вокруг цели на несколько ходов." 
 [ViperMamba X2CharacterTemplate]
-strCharacterName="Mamba"
-strAcquiredText="Mambas are snipers. They can use their Boltcaster at squadsight range. If an enemy is almost dead, the Finish Him ability can put the final nail in the coffin with perfect accuracy." 
+strCharacterName="Мамба"
+strAcquiredText="Мамбы - это снайперы. Они пользуются Стреломётами и "Общим видом". Если противник почти мёртв, из способность "Прикончи Его" позволяет им вбить последний гвоздь в гроб противника с непревзойденной точностью." 
 [ViperM4 X2CharacterTemplate]
-strCharacterName="Viper Prime"
-strAcquiredText="These Vipers are the most ferocious of their kind, with unmatched agility in battle. Like all Primes, they take instant reactions when hit." 
+strCharacterName="Гадюка-Прайм"
+strAcquiredText="Среди прочих Гадюк Праймы считаются самыми свирепыми, обладая несравненной быстротой в бою. Как и все Праймы, они совершают моментальные ответные действия, когда по ним попадают." 
 
 [SectoidTrooper X2CharacterTemplate]
 strCharacterName="Sectoid Soldier"

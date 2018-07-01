@@ -287,8 +287,8 @@ strCharacterName="Криссалид-Охотник"
 strAcquiredText="Полностью сформировавшийся и опытный Криссалид-Охотник является грозным противником." 
 
 [ABAChryssalidM1 X2CharacterTemplate]
-strCharacterName="Chryssalid Crawler"
-strAcquiredText="This infant Chryssalid is not poisonous yet." 
+strCharacterName="Криссалид-Ползун"
+strAcquiredText="Этот несформировавшийся криссалид ещё не ядовит." 
 [ABAChryssalidM2 X2CharacterTemplate]
 strCharacterName="Chryssalid Bleeder"
 strAcquiredText="The adolescent Chryssalid Drone is not poisonous, but his acid blood can hurt close combat opponents." 
@@ -309,11 +309,11 @@ strAcquiredText="The most physically imposing members of the Chryssalid hive are
 strCharacterName="Chryssalid Queen"
 strAcquiredText="Chryssalid Queens live to grow the swarm. When threatened, they can throw the still underdeveloped Chryssalid spawns into battle, thus creating instant swarms. They are the nexus of the hivemind and therefore immune to mind altering effects." 
 [ChryssalidAbomination X2CharacterTemplate]
-strCharacterName="Chryssalid Abomination"
+strCharacterName="Криссалид-Отродье"
 strAcquiredText="Misformed and monstrous, the Chryssalid hive has no use for the Abomination. They roam the countrysites, causing considerable damage before finally being put down." 
 
 [ViperBoa X2CharacterTemplate]
-strCharacterName="Boa"
+strCharacterName="Удав"
 strAcquiredText="Boas are purely melee capable enemies. They grab their prey and hold them in their coils. Unlike other Vipers, the Boa won't release its grip before it is almost dead." 
 [Wyvern X2CharacterTemplate]
 strCharacterName="Wyvern"

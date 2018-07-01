@@ -326,14 +326,14 @@ strCharacterName="Гадюка-Прайм"
 strAcquiredText="Среди прочих Гадюк Праймы считаются самыми свирепыми, обладая несравненной быстротой в бою. Как и все Праймы, они совершают моментальные ответные действия, когда по ним попадают." 
 
 [SectoidTrooper X2CharacterTemplate]
-strCharacterName="Sectoid Soldier"
-strAcquiredText="The Soldier Sectoid can only use Psi Reanimation, but his combat abilities are much improved." 
+strCharacterName="Сектоид-Солдат"
+strAcquiredText="Сектоид-Солдат может делать только пси-реанимацию, но его боевые характеристики значительно лучше." 
 [SectoidMindbender X2CharacterTemplate]
-strCharacterName="Sectoid Mindbender"
-strAcquiredText="Mindbender Sectoids have above average psi capabilities. Their Mindspin is more likely to have better effects. Zombies risen by a Mindbender will live on without the Sectoid around." 
+strCharacterName="Сектоид-Иллюзионист"
+strAcquiredText="Сектоиды-Иллюзионисты имеют чуть более высокий пси-потенциал. Их "Ментальный штопор" куда серьезнее бьёт по психике врага. Поднятые Иллюзионистом зомби будут жить даже без самого сектоида." 
 [SectoidPuppeteer X2CharacterTemplate]
-strCharacterName="Sectoid Puppeteer"
-strAcquiredText="A unique variant of the Sectoid, the Puppeteer can raise multiple zombies per turn. Puppets will live on even when the Puppeteer dies." 
+strCharacterName="Сектоид-Кукловод"
+strAcquiredText="Уникальная разновидность сектоида, Кукловод может поднимать нескольких зомби за ход. Куклы будут жить дальше даже после смерти Кукловода." 
 
 [SectoidTrooperM4 X2CharacterTemplate]
 strCharacterName="Sectoid Prime Soldier"

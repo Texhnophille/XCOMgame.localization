@@ -336,60 +336,60 @@ strCharacterName="Сектоид-Кукловод"
 strAcquiredText="Уникальная разновидность сектоида, Кукловод может поднимать нескольких зомби за ход. Куклы будут жить дальше даже после смерти Кукловода." 
 
 [SectoidTrooperM4 X2CharacterTemplate]
-strCharacterName="Sectoid Prime Soldier"
-strAcquiredText="The Soldier Sectoid can only use Psi Reanimation, but his combat abilities are much improved. This unit is a Prime, which gives him the ability to react whenever he is hurt." 
+strCharacterName="Сектоид-Солдат Прайм"
+strAcquiredText="Сектоид-Солдат может делать только пси-реанимацию, но его боевые характеристики значительно лучше. Это Прайм-разновидность сектоида, что позволяет ему совершать ответные действия при ранениях." 
 [SectoidMindbenderM4 X2CharacterTemplate]
 strCharacterName="Sectoid Prime Mindbender"
-strAcquiredText="Mindbender Sectoids have above average psi capabilities. Their Mindspin is more likely to have better effects. Zombies risen by a Mindbender will live on without the Sectoid around. This unit is a Prime, which gives him the ability to react whenever he is hurt." 
+strAcquiredText="Сектоиды-Иллюзионисты имеют чуть более высокий пси-потенциал. Их "Ментальный штопор" куда серьезнее бьёт по психике врага. Поднятые Иллюзионистом зомби будут жить даже без самого сектоида. Это Прайм-разновидность сектоида, что позволяет ему совершать ответные действия при ранениях." 
 [SectoidPuppeteerM4 X2CharacterTemplate]
 strCharacterName="Sectoid Prime Puppeteer"
-strAcquiredText="A unique variant of the Sectoid, the Puppeteer can raise multiple zombies per turn. Puppets will live on even when the Puppeteer dies. This unit is a Prime, which gives him the ability to react whenever he is hurt." 
+strAcquiredText="Уникальная разновидность сектоида, Кукловод может поднимать нескольких зомби за ход. Куклы будут жить дальше даже после смерти Кукловода. Это Прайм-разновидность сектоида, что позволяет ему совершать ответные действия при ранениях." 
 
 [PsiPuppet X2CharacterTemplate]
-strCharacterName="Puppet"
-strAcquiredText="A regular Puppet. These are raised by Puppeteer Sectoids and Revenant Troopers." 
+strCharacterName="Кукла"
+strAcquiredText="Обычная Кукла-марионетка. Их поднимают Сектоиды-Кукловоды и Солдаты-Ревенанты." 
 [PsiPuppetArmor X2CharacterTemplate]
-strCharacterName="Armored Zombie"
-strAcquiredText="This Zombie has additional armor." 
+strCharacterName="Бронированный Зомби"
+strAcquiredText="У этого зомби есть дополнительная броня." 
 [PsiPuppetRevive X2CharacterTemplate]
-strCharacterName="Zombie Revenant"
-strAcquiredText="This Zombie will revive as a Puppet after death." 
+strCharacterName="Зомби-Ревенант"
+strAcquiredText="Этот Зомби воскреснет после смерти в качестве Куклы." 
 [PsiPuppetRunner X2CharacterTemplate]
-strCharacterName="Zombie Runner"
-strAcquiredText="This Zombie has increased mobility." 
+strCharacterName="Зомби-Бегун"
+strAcquiredText="У этого зомби увеличена мобильность." 
 
 [PsiPuppetM3 X2CharacterTemplate]
-strCharacterName="Greater Puppet"
-strAcquiredText="A tougher Puppet. These are raised by Puppeteer Prime Sectoids." 
+strCharacterName="Усиленная Кукла"
+strAcquiredText="Более опасная разновидность Куклы. Их поднимают Кукловоды-Праймы." 
 [PsiPuppetArmorM3 X2CharacterTemplate]
-strCharacterName="Zombie Brute"
-strAcquiredText="This Zombie has additional armor." 
+strCharacterName="Ужасный Зомби"
+strAcquiredText="У этого зомби есть дополнительная броня." 
 [PsiPuppetReviveM3 X2CharacterTemplate]
-strCharacterName="Greater Revenant"
-strAcquiredText="This Zombie will revive as a Puppet after death." 
+strCharacterName="Усиленный Ревенант"
+strAcquiredText="Этот Зомби воскреснет после смерти в качестве Куклы." 
 [PsiPuppetRunnerM3 X2CharacterTemplate]
-strCharacterName="Zombie Leaper"
-strAcquiredText="This Zombie has increased mobility." 
+strCharacterName="Зомби-Прыгун"
+strAcquiredText="У этого зомби увеличена мобильность." 
 
 [BerserkerM4 X2CharacterTemplate]
-strCharacterName="Berserker Prime"
-strAcquiredText="Berserker Primes are hulking monsters that get bonus activations whenever they are hurt." 
+strCharacterName="Берсерк-Прайм"
+strAcquiredText="Берсерки-Праймы - это огромные монстры, которые получают бонусное действие при ранении." 
 [BerserkerFire X2CharacterTemplate]
-strCharacterName="Firestarter"
-strAcquiredText="This Berserker variant can breathe fire in a wide but short cone in front of him." 
+strCharacterName="Поджигатель"
+strAcquiredText="Эта разновидность Берсерка может дышать огнём в виде широкого, но короткого конуса." 
 [BerserkerFireM4 X2CharacterTemplate]
-strCharacterName="Firestarter Prime"
-strAcquiredText="Firestarter Primes are hulking monsters that get bonus activations whenever they are hurt." 
+strCharacterName="Поджигатель-Прайм"
+strAcquiredText="Поджигатели-Праймы - это огромные монстры, которые получают бонусное действие при ранении." 
 
 [MutonDragonrounds X2CharacterTemplate]
-strCharacterName="Muton Pyro"
-strAcquiredText="Muton Pyros load their weapon with Dragon Rounds, making any hits from their weapon inflict the Burning effect." 
+strCharacterName="Мутон-Пиро"
+strAcquiredText="Оружие Мутонов-Пиро заряжено зажигательными патронами, в результате чего любое попадание накладывает на врага Горение." 
 [MutonVenomrounds X2CharacterTemplate]
-strCharacterName="Muton Infector"
-strAcquiredText="Muton Infectors load their weapon with Venom Rounds, making any hits from their weapon inflict the Poisoned effect." 
+strCharacterName="Мутон-Отравитель"
+strAcquiredText="Оружие Отравителей заряжено ядовитыми патронами, в результате чего любое попадание накладывает на врага Отравление." 
 [MutonM4 X2CharacterTemplate]
-strCharacterName="Muton Prime"
-strAcquiredText="Armed with a Plasma Cannon that shreads armor and thick layers of armor, these Mutons are terrifying. Like all Primes, the Muton Prime gets bonus actions whenever being hurt." 
+strCharacterName="Мутон-Прайм"
+strAcquiredText="Вооруженные Плазменными Пушками, которые уничтожают броню, и одетые в лучшую защитную экипировку, эти мутоны вселяют ужас в сердца врагов. Как и все Праймы, эти мутоны получают бонусные очки действия при ранениях." 
 
 [CodexICE X2CharacterTemplate]
 strCharacterName="Codex ICE"

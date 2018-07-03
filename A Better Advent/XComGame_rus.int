@@ -392,64 +392,64 @@ strCharacterName="Мутон-Прайм"
 strAcquiredText="Вооруженные плазменными пушками, которые уничтожают броню, и одетые в лучшую защитную экипировку, эти мутоны вселяют ужас в сердца врагов. Как и все Праймы, эти мутоны получают бонусные очки действия при ранениях." 
 
 [CodexICE X2CharacterTemplate]
-strCharacterName="Codex ICE"
-strAcquiredText="The Intrusion Countermeasure, or ICE, is a Codex that is specialized on taking down single enemies. It will aggressively teleport into flanks to cause heavy damage with its Boltcaster." 
+strCharacterName="Кодекс-ЛЁД"
+strAcquiredText="Созданный для защиты ключевых объектов от посторонних, Кодекс-ЛЁД специализируется на уничтожении одиночных целей. Он телепортируется в тыл протвника и наносит большой урон из стреломёта." 
 [CodexAdvent X2CharacterTemplate]
-strCharacterName="ADVENT Codex"
-strAcquiredText="When dropships are too slow, ADVENT will teleport onto the battlefield by Codex. This Codex will draw any enemy fire at point of entry to it, dodging it with inhuman agility." 
+strCharacterName="Кодекс АДВЕНТа"
+strAcquiredText="Когда скорости десантного корабля недостаточно, силы АДВЕНТа телепортируются на поле боя с помощью Кодекса. В момент появления этот Кодекс будет стягивать весь вражеский огонь на себя, уклоняясь от него с нечеловеческой скоростью." 
 [CodexSplitter X2CharacterTemplate]
-strCharacterName="Codex Splitter"
-strAcquiredText="Splitters roam on their own because they are able to rapidly chain clone into an instant army if they are unhindered for even a moment." 
+strCharacterName="Кодекс-Расходник"
+strAcquiredText="Расходники путешествуют в одиночку, потому что они способны создать целую армию клонов, если их не сдерживать." 
 [CodexBomber X2CharacterTemplate]
-strCharacterName="Codex Bomber"
-strAcquiredText="Bomber Codices use an empowered version of the Psi Bomb that doesn't have a cooldown. They can also use this ability on reveal." 
+strCharacterName="Кодекс-Бомбист"
+strAcquiredText="Кодексы-Бомбисты пользуются усиленной разновидностью Пси-Бомбы, у которой нет времени перезарядки. Они также могут воспользоваться этой способностью при обнаружении." 
 [CodexM4 X2CharacterTemplate]
-strCharacterName="Codex Prime"
-strAcquiredText="Prime Codices use an empowered version of the Psi Bomb that doesn't have a cooldown. They also split on reveal and can activate a personal shield when in danger." 
+strCharacterName="Кодекс-Прайм"
+strAcquiredText="Праймы используют усиленную разновидность Пси-Бомбы, у которой нет времени перезарядки. Они также делятся при обнаружении и могут активировать энергетический щит, если им грозит опасность." 
 
 [SpectreM4 X2CharacterTemplate]
-strCharacterName="Spectre Prime"
-strAcquiredText="Like all Primes, the Prime Spectre can react to incoming fire with instant reactions." 
+strCharacterName="Спектр-Прайм"
+strAcquiredText="Как и все Праймы, Спектры способны на ответные действия при ранениях." 
 
 [Shoggoth X2CharacterTemplate]
-strCharacterName="Shoggoth" 
-strAcquiredText="ADVENT started to mix Faceless disguised as Troopers into their regiments. The resistance calls them Shoggoth because of their black and oily appearance." 
+strCharacterName="Ijuujn" 
+strAcquiredText="АДВЕНТ начал внедрять Безликих в ряды собственных солдат. В сопротивлении таких Безликих называют Шогготами из-за их черного маслянистого облика." 
 
 [GatekeeperM4 X2CharacterTemplate]
-strCharacterName="Gatekeeper Prime" 
-strAcquiredText="Gatekeeper Prime are devastating laser platforms. They don't have psionic abilities, but will charge up whenever hit." 
+strCharacterName="Привратник-Прайм" 
+strAcquiredText="Привратники-Праймы - это разрушительные самоходные орудийные платформы. У них нет псионических способностей, но они начнут заряжать свое оружие при ранениях." 
 
 [AndromedonM4 X2CharacterTemplate]
-strCharacterName="Andromedon Prime" 
-strAcquiredText="Andromedon Prime use heavy acid weaponry. Like all Primes, they have instant reactions to incoming fire." 
+strCharacterName="Андромедон-Прайм" 
+strAcquiredText="Андромедоны-Праймы используют тяжелое кислотное вооружение. Как и все Праймы, они моментально реагируют ответным действием при ранении." 
 
 [AndromedonRobotM4 X2CharacterTemplate]
-strCharacterName="Andromedon Prime Shell"
-strAcquiredText="Like all Primes, this Prime Shell does have instant reactions to incoming fire." 
+strCharacterName="Каркас Андромедона-Прайма"
+strAcquiredText="Как и все Праймы, этот каркас моментально реагирует ответным действием при ранении." 
 
 [ArchonM4 X2CharacterTemplate]
-strCharacterName="Archon Prime" 
-strAcquiredText="This regal creature is a physically imposing version of the Archon. They get free actions whenever they are hurt." 
+strCharacterName="Архонт-Прайм" 
+strAcquiredText="Это царственное существо - физически более грозная разновидность Архонта. Они получают бесплатные ответные действия при ранении." 
 [ArchonMelee X2CharacterTemplate]
-strCharacterName="Archon Valkyrie" 
-strAcquiredText="The Valkyrie is melee-only variants of the Archon. She wields a lifedraining staff and has a unique area of effect ability that causes a mass panic around her." 
+strCharacterName="Архонт-Валькирия" 
+strAcquiredText="Валькирия - это разновидность Архонта, предназначенная для ближнего боя. Она вооружена высасывающим здоровье посохом, который также способен сеять панику среди противников, находящихся рядом с Валькирией." 
 [ArchonSentinel X2CharacterTemplate]
-strCharacterName="Archon Sentinel" 
-strAcquiredText="Sentinels lock down areas with Overwatch, enhanced by Covering Fire and Guardian." 
+strCharacterName="Архонт-Часовой" 
+strAcquiredText="Часовые держат поле боя под контролем с помощью режима Боеготовности, усиленного "Огневой поддержкой" и "Стражем"." 
 
 [StealthSectopod X2CharacterTemplate]
-strCharacterName="Sectopod Prime" 
-strAcquiredText="The pinnacle of alien engineering. Sectopod Prime is a massive war machine that can immediately react to any incoming hits. Thanks to a prototype stealth alloy it is also hidden from the Shadow Chamber." 
+strCharacterName="Сектопод-Прайм" 
+strAcquiredText="Вершина машиностроения пришельцев. Сектопод-Прайм - это массивная военная машина, способная моментально реагировать при ранении. Благодаря броне из передового стелс-сплава, такой сектопод невозможно засечь с помощью Зала Теней." 
 
 [DroneDistress X2CharacterTemplate]
-strCharacterName="Spotter Drone" 
-strAcquiredText="This Spotter will call in reinforcements when disturbed." 
+strCharacterName="Дрон-Наводчик" 
+strAcquiredText="Этот Наводчик начнёт вызывать подкрепления при обнаружении врагов." 
 [MECDistress X2CharacterTemplate]
-strCharacterName="Spotter MEC" 
-strAcquiredText="This Spotter will call in reinforcements when disturbed." 
+strCharacterName="МЭК-Наводчик" 
+strAcquiredText="Этот Наводчик начнёт вызывать подкрепления при обнаружении врагов." 
 [SectopodDistress X2CharacterTemplate]
-strCharacterName="Spotter Sectopod" 
-strAcquiredText="This Spotter will call in reinforcements when disturbed." 
+strCharacterName="Сектопод-Наводчик" 
+strAcquiredText="Этот Наводчик начнёт вызывать подкрепления при обнаружении врагов." 
 
 
 ;------------- WEAPONS --------------------

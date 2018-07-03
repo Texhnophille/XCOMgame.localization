@@ -455,22 +455,22 @@ strAcquiredText="Этот Наводчик начнёт вызывать под�
 ;------------- WEAPONS --------------------
 
 [AdvCannonM1_WPN X2WeaponTemplate]
-FriendlyName="Advent Cannon"
-FriendlyNamePlural="Advent Cannons"
-BriefSummary="ADVENT came up with a cannon of their own."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn.\n<Bullet/> Use upgrades looted from enemies to improve the Cannon's tactical effectiveness."
+FriendlyName="Пушка АДВЕНТа"
+FriendlyNamePlural="Пушки АДВЕНТа"
+BriefSummary="В АДВЕНТе придумали свою разновидность пушки."
+TacticalText="<Bullet/> Выстрел из основного оружия всегда завершает ход солдата.\n<Bullet/> С помощью добытых в бою обвесов можно улучшить тактическую эффективность пушки."
 
 [AdvCannonM2_WPN X2WeaponTemplate]
-FriendlyName="Advent Mag Cannon"
-FriendlyNamePlural="Advent Mag Cannons"
-BriefSummary="ADVENT came up with a cannon of their own."
-TacticalText="<Bullet/> The Mag Cannon is a much more powerful, yet equally deployable, version of the conventional Cannon.\n<Bullet/> Use upgrades looted from enemies to improve the Mag Cannon's tactical effectiveness."
+FriendlyName="Маг-Пушка АДВЕНТа"
+FriendlyNamePlural="Маг-Пушки АДВЕНТа"
+BriefSummary="В АДВЕНТе придумали свою разновидность пушки."
+TacticalText="<Bullet/> Маг-Пушка - это более сильная, но такая же компактная разновидность обыкновенной пушки.\n<Bullet/> С помощью добытых в бою обвесов можно улучшить тактическую эффективность маг-пушки."
 
 [AdvCannonM3_WPN X2WeaponTemplate]
-FriendlyName="Advent Beam Cannon"
-FriendlyNamePlural="Advent Beam Cannons"
-BriefSummary="ADVENT came up with a cannon of their own."
-TacticalText="<Bullet/> The Beam Cannon is the most powerful combat support weapon human forces can deploy.\n<Bullet/> Use upgrades looted from enemies to improve the Beam Cannon's tactical effectiveness."
+FriendlyName="Лучевая Пушка АДВЕНТа"
+FriendlyNamePlural="Лучевые Пушки АДВЕНТа"
+BriefSummary="В АДВЕНТе придумали свою разновидность пушки."
+TacticalText="<Bullet/> Лучевая пушка является самым мощным оружием боевой поддержки среди тех, что доступны людям.\n<Bullet/> С помощью добытых в бою обвесов можно улучшить тактическую эффективность лучевой пушки."
 
 [AdvCannonShredM1_WPN X2WeaponTemplate]
 FriendlyName="Shredder Cannon"

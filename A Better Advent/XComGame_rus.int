@@ -605,10 +605,10 @@ BriefSummary="This sectoid modified his Beam Weapon to include Holo Targeting ca
 TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness"
 
 [Firebreathing X2WeaponTemplate]
-FriendlyName="Firebreath"
+FriendlyName="Огненное дыхание"
 FriendlyNamePlural="Firebreath"
-BriefSummary="This alien can spew flames in a wide but short cone in front of him."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness"
+BriefSummary="Этот пришелец способен извергать огонь в радиусе широкого, но короткого конуса перед собой. This alien can spew flames in a wide but short cone in front of him."
+TacticalText="<Bullet/> Использование основного оружия всегда заканчивает ход бойца.Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness"
 
 [ChrysSpit X2WeaponTemplate]
 FriendlyName="Chryssalid Spit"

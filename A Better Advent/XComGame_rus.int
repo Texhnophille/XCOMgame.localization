@@ -581,10 +581,10 @@ BriefSummary="In response to XCOM using shotguns, Advent started fielding very s
 TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn.\n<Bullet/> Shotguns are extremely effective at close range, but their accuracy drops off quickly at longer range.\n<Bullet/> Use upgrades looted from enemies to improve the Shotgun's tactical effectiveness."
 
 [AdvSniperM1_WPN X2WeaponTemplate]
-FriendlyName="Advent Sniper Rifle"
-FriendlyNamePlural="Advent Sniper Rifles"
-BriefSummary="Just like the weapons XCOM uses, these sniper rifles are deadly across large distances."
-TacticalText="<Bullet/> The sniper rifle always takes two actions to fire.\n<Bullet/> The sniper rifle suffers a penalty to hit at close range.\n<Bullet/> Use upgrades looted from enemies to improve the Sniper Rifle's tactical effectiveness."
+FriendlyName="Снайперская винтовка АДВЕНТА Advent Sniper Rifle"
+FriendlyNamePlural="Снайперские винтовки АДВЕНТАAdvent Sniper Rifles"
+BriefSummary="Подобно тому оружию, которое использует XCOM, эти снайперские винтовки смертоносны на больших дистанциях. Just like the weapons XCOM uses, these sniper rifles are deadly across large distances."
+TacticalText="<Bullet/> Снайперская винтовка требует двух действий для выстрела. The sniper rifle always takes two actions to fire.\n<Bullet/> Снайперская винтовка имеет штраф к стрельбе с близкого расстояния.The sniper rifle suffers a penalty to hit at close range.\n<Bullet/> Используйте улучшения, добытые со врагов, чтобы улучшить тактическую эффективность снайперской винтовки.Use upgrades looted from enemies to improve the Sniper Rifle's tactical effectiveness."
 
 [AdvSniperM2_WPN X2WeaponTemplate]
 FriendlyName="Advent Gauss Rifle"

@@ -458,73 +458,73 @@ strAcquiredText="Этот Наводчик начнёт вызывать под�
 FriendlyName="Пушка АДВЕНТа"
 FriendlyNamePlural="Пушки АДВЕНТа"
 BriefSummary="В АДВЕНТе придумали свою разновидность пушки."
-TacticalText="<Bullet/> Выстрел из основного оружия всегда завершает ход солдата.\n<Bullet/> С помощью добытых в бою обвесов можно улучшить тактическую эффективность пушки."
+TacticalText="<Bullet/> Выстрел из основного оружия всегда завершает ход солдата.\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность пушки"
 
 [AdvCannonM2_WPN X2WeaponTemplate]
 FriendlyName="Маг-Пушка АДВЕНТа"
 FriendlyNamePlural="Маг-Пушки АДВЕНТа"
 BriefSummary="В АДВЕНТе придумали свою разновидность пушки."
-TacticalText="<Bullet/> Маг-Пушка - это более сильная, но такая же компактная разновидность обыкновенной пушки.\n<Bullet/> С помощью добытых в бою обвесов можно улучшить тактическую эффективность маг-пушки."
+TacticalText="<Bullet/> Маг-Пушка - это более сильная, но такая же компактная разновидность обыкновенной пушки.\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность маг-пушки"
 
 [AdvCannonM3_WPN X2WeaponTemplate]
 FriendlyName="Лучевая Пушка АДВЕНТа"
 FriendlyNamePlural="Лучевые Пушки АДВЕНТа"
 BriefSummary="В АДВЕНТе придумали свою разновидность пушки."
-TacticalText="<Bullet/> Лучевая пушка является самым мощным оружием боевой поддержки среди тех, что доступны людям.\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность лучевой пушки."
+TacticalText="<Bullet/> Лучевая пушка является самым мощным оружием боевой поддержки среди тех, что доступны людям.\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность лучевой пушки"
 
 [AdvCannonShredM1_WPN X2WeaponTemplate]
 FriendlyName="Разрывная Пушка"
 FriendlyNamePlural="Разрывные Пушки"
 BriefSummary="В АДВЕНТе придумали свою разновидность пушки. Эта, похоже, способна разрывать броню."
-TacticalText="<Bullet/> Выстрел из основного оружия всегда завершает ход солдата.\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность маг-пушки"
+TacticalText="<Bullet/> Выстрел из основного оружия всегда завершает ход солдата.\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность пушки"
 
 [AdvCannonShredM2_WPN X2WeaponTemplate]
-FriendlyName="Mag Shredder Cannon"
-FriendlyNamePlural="Mag Shredder Cannons"
-BriefSummary="ADVENT came up with a cannon of their own. Apparently they included armor shredding capabilities."
-TacticalText="<Bullet/> The Mag Cannon is a much more powerful, yet equally deployable, version of the conventional Cannon.\n<Bullet/> Use upgrades looted from enemies to improve the Mag Cannon's tactical effectiveness."
+FriendlyName="Разрывная Маг-Пушка"
+FriendlyNamePlural="Разрывные Маг-Пушки"
+BriefSummary="В АДВЕНТе придумали свою разновидность пушки. Эта, похоже, способна разрывать броню."
+TacticalText="<Bullet/> Маг-Пушка - это более сильная, но такая же компактная разновидность обыкновенной пушки.\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность маг-пушки"
 
 [AdvCannonShredM3_WPN X2WeaponTemplate]
-FriendlyName="Beam Shredder Cannon"
-FriendlyNamePlural="Beam Shredder Cannons"
-BriefSummary="ADVENT came up with a cannon of their own. Apparently they included armor shredding capabilities."
-TacticalText="<Bullet/> The Beam Cannon is the most powerful combat support weapon human forces can deploy.\n<Bullet/> Use upgrades looted from enemies to improve the Beam Cannon's tactical effectiveness."
+FriendlyName="Лучевая Разрывная Пушка"
+FriendlyNamePlural="Лучевые Разрывные Пушки"
+BriefSummary="В АДВЕНТе придумали свою разновидность пушки. Эта, похоже, способна разрывать броню."
+TacticalText="<Bullet/> Лучевая пушка является самым мощным оружием боевой поддержки среди тех, что доступны людям.\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность лучевой пушки"
 
 [AdvRifleShredM1_WPN X2WeaponTemplate]
-FriendlyName="ADVENT Shred Rifle"
-FriendlyNamePlural="ADVENT Shred Rifles"
-BriefSummary="This upgraded Advent Rifle shreds armor."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness"
+FriendlyName="Разрывная Винтовка АДВЕНТа"
+FriendlyNamePlural="Разрывные Винтовки АДВЕНТа"
+BriefSummary="Эта улучшенная винтовка АДВЕНТа разрывает вражескую броню."
+TacticalText="<Bullet/> Выстрел из основного оружия всегда завершает ход солдата\n<Bullet/> Если солдат стреляет с двумя доступными действиями, винтовка совершит три выстрела с пониженной точностью, но повышенной эффективностью\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность винтовки"
 
 [AdvRifleShredM2_WPN X2WeaponTemplate]
-FriendlyName="ADVENT Shred Rifle"
-FriendlyNamePlural="ADVENT Shred Rifles"
-BriefSummary="This upgraded Advent Rifle shreds armor."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness"
+FriendlyName="Разрывная Винтовка АДВЕНТа"
+FriendlyNamePlural="Разрывные Винтовки АДВЕНТа"
+BriefSummary="Эта улучшенная винтовка АДВЕНТа разрывает вражескую броню."
+TacticalText="<Bullet/> Выстрел из основного оружия всегда завершает ход солдата\n<Bullet/> Если солдат стреляет с двумя доступными действиями, винтовка совершит три выстрела с пониженной точностью, но повышенной эффективностью\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность винтовки"
 
 [AdvRifleShredM3_WPN X2WeaponTemplate]
-FriendlyName="ADVENT Shred Rifle"
-FriendlyNamePlural="ADVENT Shred Rifles"
-BriefSummary="This upgraded Advent Rifle shreds armor."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness"
+FriendlyName="Разрывная Винтовка АДВЕНТа"
+FriendlyNamePlural="Разрывные Винтовки АДВЕНТа"
+BriefSummary="Эта улучшенная винтовка АДВЕНТа разрывает вражескую броню."
+TacticalText="<Bullet/> Выстрел из основного оружия всегда завершает ход солдата\n<Bullet/> Если солдат стреляет с двумя доступными действиями, винтовка совершит три выстрела с пониженной точностью, но повышенной эффективностью\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность винтовки"
 
 [AdvRifleEnviroM1_WPN X2WeaponTemplate]
-FriendlyName="ADVENT Wrecking Rifle"
-FriendlyNamePlural="ADVENT Wrecking Rifles"
-BriefSummary="This upgraded Advent Rifle piercers armor and destroys environmental objects."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness"
+FriendlyName="Противотанковая Винтовка АДВЕНТа"
+FriendlyNamePlural="Противотанковые Винтовки АДВЕНТа"
+BriefSummary="Эта улучшенная винтовка АДВЕНТа пробивает броню и уничтожает объекты окружения."
+TacticalText="<Bullet/> Выстрел из основного оружия всегда завершает ход солдата\n<Bullet/> Если солдат стреляет с двумя доступными действиями, винтовка совершит три выстрела с пониженной точностью, но повышенной эффективностью\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность винтовки"
 
 [AdvRifleEnviroM2_WPN X2WeaponTemplate]
-FriendlyName="ADVENT Wrecking Rifle"
-FriendlyNamePlural="ADVENT Wrecking Rifles"
-BriefSummary="This upgraded Advent Rifle piercers armor and destroys environmental objects."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness"
+FriendlyName="Противотанковая Винтовка АДВЕНТа"
+FriendlyNamePlural="Противотанковые Винтовки АДВЕНТа"
+BriefSummary="Эта улучшенная винтовка АДВЕНТа пробивает броню и уничтожает объекты окружения."
+TacticalText="<Bullet/> Выстрел из основного оружия всегда завершает ход солдата\n<Bullet/> Если солдат стреляет с двумя доступными действиями, винтовка совершит три выстрела с пониженной точностью, но повышенной эффективностью\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность винтовки"
 
 [AdvRifleEnviroM3_WPN X2WeaponTemplate]
-FriendlyName="ADVENT Wrecking Rifle"
-FriendlyNamePlural="ADVENT Wrecking Rifles"
-BriefSummary="This upgraded Advent Rifle piercers armor and destroys environmental objects."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness"
+FriendlyName="Противотанковая Винтовка АДВЕНТа"
+FriendlyNamePlural="Противотанковые Винтовки АДВЕНТа"
+BriefSummary="Эта улучшенная винтовка АДВЕНТа пробивает броню и уничтожает объекты окружения."
+TacticalText="<Bullet/> Выстрел из основного оружия всегда завершает ход солдата\n<Bullet/> Если солдат стреляет с двумя доступными действиями, винтовка совершит три выстрела с пониженной точностью, но повышенной эффективностью\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность винтовки"
 
 [AdvRifleCoverFireM1_WPN X2WeaponTemplate]
 FriendlyName="ADVENT Sentinel Rifle"

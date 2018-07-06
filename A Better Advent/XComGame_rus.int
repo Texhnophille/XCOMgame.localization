@@ -527,194 +527,195 @@ BriefSummary="Эта улучшенная винтовка АДВЕНТа про
 TacticalText="<Bullet/> Выстрел из основного оружия всегда завершает ход солдата\n<Bullet/> Если солдат стреляет с двумя доступными действиями, винтовка совершит три выстрела с пониженной точностью, но повышенной эффективностью\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность винтовки"
 
 [AdvRifleCoverFireM1_WPN X2WeaponTemplate]
-FriendlyName="ADVENT Sentinel Rifle"
-FriendlyNamePlural="ADVENT Sentinel Rifles"
-BriefSummary="This upgraded Advent Rifle is fitted for quick reaction shots."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness"
+FriendlyName="Винтовка Часового АДВЕНТа"
+FriendlyNamePlural="Винтовки Часовых АДВЕНТа"
+BriefSummary="Эта улучшенная винтовка АДВЕНТа оборудована для быстрой ответной стрельбы."
+TacticalText="<Bullet/> Выстрел из основного оружия всегда завершает ход солдата\n<Bullet/> Если солдат стреляет с двумя доступными действиями, винтовка совершит три выстрела с пониженной точностью, но повышенной эффективностью\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность винтовки"
 
 [AdvRifleCoverFireM2_WPN X2WeaponTemplate]
-FriendlyName="ADVENT Sentinel Rifle"
-FriendlyNamePlural="ADVENT Sentinel Rifles"
-BriefSummary="This upgraded Advent Rifle is fitted for quick reaction shots."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness"
+FriendlyName="Винтовка Часового АДВЕНТа"
+FriendlyNamePlural="Винтовки Часовых АДВЕНТа"
+BriefSummary="Эта улучшенная винтовка АДВЕНТа оборудована для быстрой ответной стрельбы."
+TacticalText="<Bullet/> Выстрел из основного оружия всегда завершает ход солдата\n<Bullet/> Если солдат стреляет с двумя доступными действиями, винтовка совершит три выстрела с пониженной точностью, но повышенной эффективностью\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность винтовки"
 
 [AdvRifleCoverFireM3_WPN X2WeaponTemplate]
-FriendlyName="ADVENT Sentinel Rifle"
-FriendlyNamePlural="ADVENT Sentinel Rifles"
-BriefSummary="This upgraded Advent Rifle is fitted for quick reaction shots."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness"
+FriendlyName="Винтовка Часового АДВЕНТа"
+FriendlyNamePlural="Винтовки Часовых АДВЕНТа"
+BriefSummary="Эта улучшенная винтовка АДВЕНТа оборудована для быстрой ответной стрельбы."
+TacticalText="<Bullet/> Выстрел из основного оружия всегда завершает ход солдата\n<Bullet/> Если солдат стреляет с двумя доступными действиями, винтовка совершит три выстрела с пониженной точностью, но повышенной эффективностью\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность винтовки"
 
 [AdvShotgunM1_WPN X2WeaponTemplate]
-FriendlyName="Advent Shotgun"
-FriendlyNamePlural="Advent Shotguns"
-BriefSummary="In response to XCOM using shotguns, Advent started fielding very similar designs."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn.\n<Bullet/> Shotguns are extremely effective at close range, but their accuracy drops off quickly at longer range.\n<Bullet/> Use upgrades looted from enemies to improve the Shotgun's tactical effectiveness."
+FriendlyName="Дробовик АДВЕНТа"
+FriendlyNamePlural="Дробовики АДВЕНТа"
+BriefSummary="АДВЕНТ начал разработку вооружения, похожего на дробовики XCOM."
+TacticalText="<Bullet/> Выстрел из основного оружия всегда завершает ход солдата.\n<Bullet/> Дробовики крайне эффективны на ближней дистанции, но их точность быстро снижается с повышением расстояния до цели.\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность дробовика."
 
 [AdvShotgunM2_WPN X2WeaponTemplate]
-FriendlyName="Advent Shard Gun"
-FriendlyNamePlural="Advent Shard Guns"
-BriefSummary="In response to XCOM using shotguns, Advent started fielding very similar designs."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn.\n<Bullet/> Shotguns are extremely effective at close range, but their accuracy drops off quickly at longer range.\n<Bullet/> Use upgrades looted from enemies to improve the Shotgun's tactical effectiveness."
+FriendlyName="Осколочная Пушка АДВЕНТа"
+FriendlyNamePlural="Осколочные Пушки АДВЕНТа"
+BriefSummary="АДВЕНТ начал разработку вооружения, похожего на дробовики XCOM."
+TacticalText="<Bullet/> Выстрел из основного оружия всегда завершает ход солдата.\n<Bullet/> Дробовики крайне эффективны на ближней дистанции, но их точность быстро снижается с повышением расстояния до цели.\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность дробовика."
 
 [AdvShotgunM3_WPN X2WeaponTemplate]
-FriendlyName="Advent Storm Gun"
-FriendlyNamePlural="Advent Storm Guns"
-BriefSummary="In response to XCOM using shotguns, Advent started fielding very similar designs."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn.\n<Bullet/> Shotguns are extremely effective at close range, but their accuracy drops off quickly at longer range.\n<Bullet/> Use upgrades looted from enemies to improve the Shotgun's tactical effectiveness."
+FriendlyName="Штормовая Пушка АДВЕНТа"
+FriendlyNamePlural="Штормовые Пушки АДВЕНТа"
+BriefSummary="АДВЕНТ начал разработку вооружения, похожего на дробовики XCOM."
+TacticalText="<Bullet/> Выстрел из основного оружия всегда завершает ход солдата.\n<Bullet/> Дробовики крайне эффективны на ближней дистанции, но их точность быстро снижается с повышением расстояния до цели.\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность дробовика."
 
 [AdvShotgunCCSM1_WPN X2WeaponTemplate]
-FriendlyName="Advent Shotgun"
-FriendlyNamePlural="Advent Shotguns"
-BriefSummary="In response to XCOM using shotguns, Advent started fielding very similar designs."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn.\n<Bullet/> Shotguns are extremely effective at close range, but their accuracy drops off quickly at longer range.\n<Bullet/> Use upgrades looted from enemies to improve the Shotgun's tactical effectiveness."
+FriendlyName="Дробовик АДВЕНТа"
+FriendlyNamePlural="Дробовики АДВЕНТа"
+BriefSummary="АДВЕНТ начал разработку вооружения, похожего на дробовики XCOM."
+TacticalText="<Bullet/> Выстрел из основного оружия всегда завершает ход солдата.\n<Bullet/> Дробовики крайне эффективны на ближней дистанции, но их точность быстро снижается с повышением расстояния до цели.\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность дробовика."
 
 [AdvShotgunCCSM2_WPN X2WeaponTemplate]
-FriendlyName="Advent Shard Gun"
-FriendlyNamePlural="Advent Shard Guns"
-BriefSummary="In response to XCOM using shotguns, Advent started fielding very similar designs."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn.\n<Bullet/> Shotguns are extremely effective at close range, but their accuracy drops off quickly at longer range.\n<Bullet/> Use upgrades looted from enemies to improve the Shotgun's tactical effectiveness."
+[AdvShotgunM2_WPN X2WeaponTemplate]
+FriendlyName="Осколочная Пушка АДВЕНТа"
+FriendlyNamePlural="Осколочные Пушки АДВЕНТа"
+BriefSummary="АДВЕНТ начал разработку вооружения, похожего на дробовики XCOM."
+TacticalText="<Bullet/> Выстрел из основного оружия всегда завершает ход солдата.\n<Bullet/> Дробовики крайне эффективны на ближней дистанции, но их точность быстро снижается с повышением расстояния до цели.\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность дробовика."
 
 [AdvShotgunCCSM3_WPN X2WeaponTemplate]
-FriendlyName="Advent Storm Gun"
-FriendlyNamePlural="Advent Storm Guns"
-BriefSummary="In response to XCOM using shotguns, Advent started fielding very similar designs."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn.\n<Bullet/> Shotguns are extremely effective at close range, but their accuracy drops off quickly at longer range.\n<Bullet/> Use upgrades looted from enemies to improve the Shotgun's tactical effectiveness."
+FriendlyName="Штормовая Пушка АДВЕНТа"
+FriendlyNamePlural="Штормовые Пушки АДВЕНТа"
+BriefSummary="АДВЕНТ начал разработку вооружения, похожего на дробовики XCOM."
+TacticalText="<Bullet/> Выстрел из основного оружия всегда завершает ход солдата.\n<Bullet/> Дробовики крайне эффективны на ближней дистанции, но их точность быстро снижается с повышением расстояния до цели.\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность дробовика."
 
 [AdvSniperM1_WPN X2WeaponTemplate]
-FriendlyName="Снайперская винтовка АДВЕНТА Advent Sniper Rifle"
-FriendlyNamePlural="Снайперские винтовки АДВЕНТАAdvent Sniper Rifles"
-BriefSummary="Подобно тому оружию, которое использует XCOM, эти снайперские винтовки смертоносны на больших дистанциях. Just like the weapons XCOM uses, these sniper rifles are deadly across large distances."
-TacticalText="<Bullet/> Снайперская винтовка требует двух действий для выстрела. The sniper rifle always takes two actions to fire.\n<Bullet/> Снайперская винтовка имеет штраф к стрельбе с близкого расстояния.The sniper rifle suffers a penalty to hit at close range.\n<Bullet/> Используйте улучшения, добытые со врагов, чтобы улучшить тактическую эффективность снайперской винтовки.Use upgrades looted from enemies to improve the Sniper Rifle's tactical effectiveness."
+FriendlyName="Снайперская винтовка АДВЕНТа"
+FriendlyNamePlural="Снайперские винтовки АДВЕНТа"
+BriefSummary="Подобно тому оружию, которое использует XCOM, эти снайперские винтовки смертоносны на больших дистанциях."
+TacticalText="<Bullet/> Снайперская винтовка требует двух действий для выстрела.\n<Bullet/> Снайперская винтовка имеет штраф к стрельбе с близкого расстояния.\n<Bullet/> Используйте улучшения, добытые в бою, чтобы улучшить тактическую эффективность снайперской винтовки."
 
 [AdvSniperM2_WPN X2WeaponTemplate]
-FriendlyName="Advent Gauss Rifle"
-FriendlyNamePlural="Advent Gauss Rifles"
-BriefSummary="Just like the weapons XCOM uses, these sniper rifles are deadly across large distances."
-TacticalText="<Bullet/> The sniper rifle always takes two actions to fire.\n<Bullet/> The sniper rifle suffers a penalty to hit at close range.\n<Bullet/> Use upgrades looted from enemies to improve the Sniper Rifle's tactical effectiveness."
+FriendlyName="Гаусс-Винтовка АДВЕНТа"
+FriendlyNamePlural="Гаусс-Винтовки АДВЕНТа"
+BriefSummary="Подобно тому оружию, которое использует XCOM, эти снайперские винтовки смертоносны на больших дистанциях."
+TacticalText="<Bullet/> Снайперская винтовка требует двух действий для выстрела.\n<Bullet/> Снайперская винтовка имеет штраф к стрельбе с близкого расстояния.\n<Bullet/> Используйте улучшения, добытые в бою, чтобы улучшить тактическую эффективность снайперской винтовки."
 
 [AdvSniperM3_WPN X2WeaponTemplate]
-FriendlyName="Advent Plasma Lance"
-FriendlyNamePlural="Advent Plasma Lances"
-BriefSummary="Just like the weapons XCOM uses, these sniper rifles are deadly across large distances."
-TacticalText="<Bullet/> The sniper rifle always takes two actions to fire.\n<Bullet/> The sniper rifle suffers a penalty to hit at close range.\n<Bullet/> Use upgrades looted from enemies to improve the Sniper Rifle's tactical effectiveness."
+FriendlyName="Плазменное Копьё АДВЕНТа"
+FriendlyNamePlural="Плазменные Копья АДВЕНТа"
+BriefSummary="Подобно тому оружию, которое использует XCOM, эти снайперские винтовки смертоносны на больших дистанциях."
+TacticalText="<Bullet/> Снайперская винтовка требует двух действий для выстрела.\n<Bullet/> Снайперская винтовка имеет штраф к стрельбе с близкого расстояния.\n<Bullet/> Используйте улучшения, добытые в бою, чтобы улучшить тактическую эффективность снайперской винтовки."
 
 [Sectoid_Holo_WPN X2WeaponTemplate]
-FriendlyName="Holo Beam Pistol"
-FriendlyNamePlural="Holo Beam Pistols"
-BriefSummary="This sectoid modified his Beam Weapon to include Holo Targeting capibilities."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness"
+FriendlyName="Лучевой Голо-Пистолет"
+FriendlyNamePlural="Лучевые Голо-Пистолеты"
+BriefSummary="Этот сектоид улучшил своё лучевое оружие, добавив систему Голографического Наведения."
+TacticalText="<Bullet/> Выстрел из основного оружия всегда завершает ход солдата\n<Bullet/> Если солдат стреляет с двумя доступными действиями, винтовка совершит три выстрела с пониженной точностью, но повышенной эффективностью\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность винтовки"
 
 [Firebreathing X2WeaponTemplate]
 FriendlyName="Огненное дыхание"
-FriendlyNamePlural="Firebreath"
-BriefSummary="Этот пришелец способен извергать огонь в радиусе широкого, но короткого конуса перед собой. This alien can spew flames in a wide but short cone in front of him."
-TacticalText="<Bullet/> Использование основного оружия всегда заканчивает ход бойца.Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness"
+FriendlyNamePlural="Огненное дыхание"
+BriefSummary="Этот пришелец способен извергать огонь в виде широкого, но короткого конуса перед собой."
+TacticalText="<Bullet/> Использование основного оружия всегда заканчивает ход бойца.\n<Bullet/> Если солдат стреляет с двумя доступными действиями, винтовка совершит три выстрела с пониженной точностью, но повышенной эффективностью\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность винтовки"
 
 [ChrysSpit X2WeaponTemplate]
-FriendlyName="Chryssalid Spit"
-FriendlyNamePlural="Chryssalid Spit"
-BriefSummary="This alien can spit Chryssalid Poison."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness"
+FriendlyName="Плевок Криссалида"
+FriendlyNamePlural="Плевок Криссалида"
+BriefSummary="Этот пришелец способен плеваться ядом криссалидов."
+TacticalText="<Bullet/> Использование основного оружия всегда заканчивает ход бойца.\n<Bullet/> Если солдат стреляет с двумя доступными действиями, винтовка совершит три выстрела с пониженной точностью, но повышенной эффективностью\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность винтовки"
 
 [ViperAdder_WPN X2WeaponTemplate]
-FriendlyName="Viper Plasma Rifle"
-FriendlyNamePlural="Viper Plasma Rifles"
-BriefSummary="Supercharged Viper Rifle, allows for Chain Shot."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness"
+FriendlyName="Плазменная Винтовка Гадюки"
+FriendlyNamePlural="Плазменные Винтовки Гадюк"
+BriefSummary="Усиленная винтовка Гадюка, даёт навык "Двойной выстрел"."
+TacticalText="<Bullet/> Использование основного оружия всегда заканчивает ход бойца.\n<Bullet/> Если солдат стреляет с двумя доступными действиями, винтовка совершит три выстрела с пониженной точностью, но повышенной эффективностью\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность винтовки"
 
 [ViperMamba_WPN X2WeaponTemplate]
-FriendlyName="Mamba Boltcaster"
-FriendlyNamePlural="Mamba Boltcasters"
-BriefSummary="Sniping implement of terrible doom. Or something."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness"
+FriendlyName="Стреломёт Мамбы"
+FriendlyNamePlural="Стреломёты Мамб"
+BriefSummary="Типа снайперский инструмент ужасной погибели. Я хз."
+TacticalText="<Bullet/> Использование основного оружия всегда заканчивает ход бойца.\n<Bullet/> Если солдат стреляет с двумя доступными действиями, винтовка совершит три выстрела с пониженной точностью, но повышенной эффективностью\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность винтовки"
 
 [Stick X2WeaponTemplate]
-FriendlyName="Stick"
-FriendlyNamePlural="Sticks"
-BriefSummary="It's just a stick. It does nothing."
-TacticalText="<Bullet/> This stick has no value in combat.\n<Bullet/> You can't shoot with it.\n<Bullet/> You can't even hit someone with it."
+FriendlyName="Палка"
+FriendlyNamePlural="Палки"
+BriefSummary="Это просто палка. Она бесполезна."
+TacticalText="<Bullet/> Эта палка бесполезна в бою.\n<Bullet/> Из нее нельзя стрелять.\n<Bullet/> Ей даже нельзя никого бить."
 
 [MutonRed_WPN X2WeaponTemplate]
-FriendlyName="Beam Rifle"
-FriendlyNamePlural="Beam Rifles"
-BriefSummary="XCOM has managed to salvage a variety of standard infantry small arms; this is the most common variety, similar to the rifle used twenty years before. While decidedly inferior to ADVENT magnetic technology, it can at least be upgraded using additional weapons salvage, once a standard technical approach is discovered."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness"
+FriendlyName="Лучевая Винтовка"
+FriendlyNamePlural="Лучевые Винтовки"
+BriefSummary="XCOM удалось добыть множество разного стрелкового вооружения; это - самая распространенная разновидность, похожая на винтовки, которые состояли на вооружении двадцать лет назад. Хотя они определенно уступают магнитному вооружению АДВЕНТа, их, по-крайней мере, можно будет улучшить с помощью дополнительных деталей, как только наши технологии достигнут соответствующего уровня."
+TacticalText="<Bullet/> Использование основного оружия всегда заканчивает ход бойца.\n<Bullet/> Если солдат стреляет с двумя доступными действиями, винтовка совершит три выстрела с пониженной точностью, но повышенной эффективностью\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность винтовки"
 
 [MutonYellow_WPN X2WeaponTemplate]
-FriendlyName="Beam Rifle"
-FriendlyNamePlural="Beam Rifles"
-BriefSummary="XCOM has managed to salvage a variety of standard infantry small arms; this is the most common variety, similar to the rifle used twenty years before. While decidedly inferior to ADVENT magnetic technology, it can at least be upgraded using additional weapons salvage, once a standard technical approach is discovered."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness"
+FriendlyName="Лучевая Винтовка"
+FriendlyNamePlural="Лучевые Винтовки"
+BriefSummary="XCOM удалось добыть множество разного стрелкового вооружения; это - самая распространенная разновидность, похожая на винтовки, которые состояли на вооружении двадцать лет назад. Хотя они определенно уступают магнитному вооружению АДВЕНТа, их, по-крайней мере, можно будет улучшить с помощью дополнительных деталей, как только наши технологии достигнут соответствующего уровня."
+TacticalText="<Bullet/> Использование основного оружия всегда заканчивает ход бойца.\n<Bullet/> Если солдат стреляет с двумя доступными действиями, винтовка совершит три выстрела с пониженной точностью, но повышенной эффективностью\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность винтовки"
 
 [MutonLEU_WPN X2WeaponTemplate]
-FriendlyName="Beam Rifle"
-FriendlyNamePlural="Beam Rifles"
-BriefSummary="XCOM has managed to salvage a variety of standard infantry small arms; this is the most common variety, similar to the rifle used twenty years before. While decidedly inferior to ADVENT magnetic technology, it can at least be upgraded using additional weapons salvage, once a standard technical approach is discovered."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness"
+FriendlyName="Лучевая Винтовка"
+FriendlyNamePlural="Лучевые Винтовки"
+BriefSummary="XCOM удалось добыть множество разного стрелкового вооружения; это - самая распространенная разновидность, похожая на винтовки, которые состояли на вооружении двадцать лет назад. Хотя они определенно уступают магнитному вооружению АДВЕНТа, их, по-крайней мере, можно будет улучшить с помощью дополнительных деталей, как только наши технологии достигнут соответствующего уровня."
+TacticalText="<Bullet/> Использование основного оружия всегда заканчивает ход бойца.\n<Bullet/> Если солдат стреляет с двумя доступными действиями, винтовка совершит три выстрела с пониженной точностью, но повышенной эффективностью\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность винтовки"
 
 [AdvCannonShredM4_Muton_WPN X2WeaponTemplate]
-FriendlyName="Beam Shred Cannon"
-FriendlyNamePlural="Beam Shred Cannons"
-BriefSummary="XCOM has managed to salvage a variety of standard infantry small arms; this is the most common variety, similar to the rifle used twenty years before. While decidedly inferior to ADVENT magnetic technology, it can at least be upgraded using additional weapons salvage, once a standard technical approach is discovered."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness"
+FriendlyName="Лучевая Разрывная Пушка"
+FriendlyNamePlural="Лучевые Разрывные Пушки"
+BriefSummary="XCOM удалось добыть множество разного стрелкового вооружения; это - самая распространенная разновидность, похожая на винтовки, которые состояли на вооружении двадцать лет назад. Хотя они определенно уступают магнитному вооружению АДВЕНТа, их, по-крайней мере, можно будет улучшить с помощью дополнительных деталей, как только наши технологии достигнут соответствующего уровня."
+TacticalText="<Bullet/> Использование основного оружия всегда заканчивает ход бойца.\n<Bullet/> Если солдат стреляет с двумя доступными действиями, винтовка совершит три выстрела с пониженной точностью, но повышенной эффективностью\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность винтовки"
 
 [Firebreathing X2WeaponTemplate]
-FriendlyName="Fire Breath"
-FriendlyNamePlural="Fire Breath Weapons"
-BriefSummary="XCOM has managed to salvage a variety of standard infantry small arms; this is the most common variety, similar to the rifle used twenty years before. While decidedly inferior to ADVENT magnetic technology, it can at least be upgraded using additional weapons salvage, once a standard technical approach is discovered."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness"
+FriendlyName="Огненное дыхание"
+FriendlyNamePlural="Орудия огненного дыхания"
+BriefSummary="XCOM удалось добыть множество разного стрелкового вооружения; это - самая распространенная разновидность, похожая на винтовки, которые состояли на вооружении двадцать лет назад. Хотя они определенно уступают магнитному вооружению АДВЕНТа, их, по-крайней мере, можно будет улучшить с помощью дополнительных деталей, как только наши технологии достигнут соответствующего уровня."
+TacticalText="<Bullet/> Использование основного оружия всегда заканчивает ход бойца.\n<Bullet/> Если солдат стреляет с двумя доступными действиями, винтовка совершит три выстрела с пониженной точностью, но повышенной эффективностью\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность винтовки"
 
 [AdvCaptainM4_Wpn X2WeaponTemplate]
-FriendlyName="ADVENT Mag Rifle"
-FriendlyNamePlural="ADVENT Mag Rifles"
-BriefSummary="XCOM has managed to salvage a variety of standard infantry small arms; this is the most common variety, similar to the rifle used twenty years before. While decidedly inferior to ADVENT magnetic technology, it can at least be upgraded using additional weapons salvage, once a standard technical approach is unked."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness"
+FriendlyName="Маг-Винтовка АДВЕНТа"
+FriendlyNamePlural="Маг-Винтовки АДВЕНТа"
+BriefSummary="XCOM удалось добыть множество разного стрелкового вооружения; это - самая распространенная разновидность, похожая на винтовки, которые состояли на вооружении двадцать лет назад. Хотя они определенно уступают магнитному вооружению АДВЕНТа, их, по-крайней мере, можно будет улучшить с помощью дополнительных деталей, как только наши технологии достигнут соответствующего уровня."
+TacticalText="<Bullet/> Использование основного оружия всегда заканчивает ход бойца.\n<Bullet/> Если солдат стреляет с двумя доступными действиями, винтовка совершит три выстрела с пониженной точностью, но повышенной эффективностью\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность винтовки"
 
 [TazerPistolM1_WPN X2WeaponTemplate]
-FriendlyName="Tazer Pistol"
-FriendlyNamePlural="Tazer Pistols"
-BriefSummary="These pistols can induce stun, disorientation or even paralysis."
-TacticalText="<Bullet/> These pistols can induce a variety of effects.\n<Bullet/> They can be fired with a single action."
+FriendlyName="Пистолет-Тазер"
+FriendlyNamePlural="Пистолет-Тазер"
+BriefSummary="Эти пистолеты могут оглушать, дезориентировать или даже парализовывать."
+TacticalText="<Bullet/> Эти пистолеты могут оказывать самые разные эффекты.\n<Bullet/> Им можно стрелять с одного очка действия."
 
 [TazerPistolM2_WPN X2WeaponTemplate]
-FriendlyName="Tazer Pistol"
-FriendlyNamePlural="Tazer Pistols"
-BriefSummary="These pistols can induce stun, disorientation or even paralysis."
-TacticalText="<Bullet/> These pistols can induce a variety of effects.\n<Bullet/> They can be fired with a single action."
+FriendlyName="Пистолет-Тазер"
+FriendlyNamePlural="Пистолет-Тазер"
+BriefSummary="Эти пистолеты могут оглушать, дезориентировать или даже парализовывать."
+TacticalText="<Bullet/> Эти пистолеты могут оказывать самые разные эффекты.\n<Bullet/> Им можно стрелять с одного очка действия."
 
 [TazerPistolM3_WPN X2WeaponTemplate]
-FriendlyName="Tazer Pistol"
-FriendlyNamePlural="Tazer Pistols"
-BriefSummary="These pistols can induce stun, disorientation or even paralysis."
-TacticalText="<Bullet/> These pistols can induce a variety of effects.\n<Bullet/> They can be fired with a single action."
+FriendlyName="Пистолет-Тазер"
+FriendlyNamePlural="Пистолет-Тазер"
+BriefSummary="Эти пистолеты могут оглушать, дезориентировать или даже парализовывать."
+TacticalText="<Bullet/> Эти пистолеты могут оказывать самые разные эффекты.\n<Bullet/> Им можно стрелять с одного очка действия."
 
 [Andromedon_Acid_Wpn X2WeaponTemplate]
-FriendlyName="Andromedon Acid Cannon"
-FriendlyNamePlural="Andromedon Acid Cannons"
-BriefSummary="XCOM has managed to salvage a variety of standard infantry small arms; this is the most common variety, similar to the rifle used twenty years before. While decidedly inferior to ADVENT magnetic technology, it can at least be upgraded using additional weapons salvage, once a standard technical approach is discovered."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness"
+FriendlyName="Кислотная Пушка Андромедона"
+FriendlyNamePlural="Кислотные Пушки Андромедонов"
+BriefSummary="XCOM удалось добыть множество разного стрелкового вооружения; это - самая распространенная разновидность, похожая на винтовки, которые состояли на вооружении двадцать лет назад. Хотя они определенно уступают магнитному вооружению АДВЕНТа, их, по-крайней мере, можно будет улучшить с помощью дополнительных деталей, как только наши технологии достигнут соответствующего уровня."
+TacticalText="<Bullet/> Использование основного оружия всегда заканчивает ход бойца.\n<Bullet/> Если солдат стреляет с двумя доступными действиями, винтовка совершит три выстрела с пониженной точностью, но повышенной эффективностью\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность винтовки"
 
 [Boa_Tongue_Wpn X2WeaponTemplate]
-FriendlyName="Boa Tongue"
-FriendlyNamePlural="Boa Tongues"
-BriefSummary="XCOM has managed to salvage a variety of standard infantry small arms; this is the most common variety, similar to the rifle used twenty years before. While decidedly inferior to ADVENT magnetic technology, it can at least be upgraded using additional weapons salvage, once a standard technical approach is discovered."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness."
+FriendlyName="Язык Удава"
+FriendlyNamePlural="Языки Удавов"
+BriefSummary="XCOM удалось добыть множество разного стрелкового вооружения; это - самая распространенная разновидность, похожая на винтовки, которые состояли на вооружении двадцать лет назад. Хотя они определенно уступают магнитному вооружению АДВЕНТа, их, по-крайней мере, можно будет улучшить с помощью дополнительных деталей, как только наши технологии достигнут соответствующего уровня."
+TacticalText="<Bullet/> Использование основного оружия всегда заканчивает ход бойца.\n<Bullet/> Если солдат стреляет с двумя доступными действиями, винтовка совершит три выстрела с пониженной точностью, но повышенной эффективностью\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность винтовки"
 
 [Prime_Tongue_Wpn X2WeaponTemplate]
-FriendlyName="Viper Prime Tongue"
-FriendlyNamePlural="Viper Prime Tongues"
-BriefSummary="XCOM has managed to salvage a variety of standard infantry small arms; this is the most common variety, similar to the rifle used twenty years before. While decidedly inferior to ADVENT magnetic technology, it can at least be upgraded using additional weapons salvage, once a standard technical approach is discovered."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness."
+FriendlyName="Язык Гадюки-Прайм"
+FriendlyNamePlural="Языки Гадюк-Прайм"
+BriefSummary="XCOM удалось добыть множество разного стрелкового вооружения; это - самая распространенная разновидность, похожая на винтовки, которые состояли на вооружении двадцать лет назад. Хотя они определенно уступают магнитному вооружению АДВЕНТа, их, по-крайней мере, можно будет улучшить с помощью дополнительных деталей, как только наши технологии достигнут соответствующего уровня."
+TacticalText="<Bullet/> Использование основного оружия всегда заканчивает ход бойца.\n<Bullet/> Если солдат стреляет с двумя доступными действиями, винтовка совершит три выстрела с пониженной точностью, но повышенной эффективностью\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность винтовки"
 
 [SmokeScreen X2GrenadeTemplate]
-FriendlyName="Smoke Screen"
-FriendlyNamePlural="Smoke Screen Pellets"
-BriefSummary="Provides a defensive boost to any unit within the radius of the smoke, friend or foe."
-TacticalText="<Bullet/> Smoke can be deployed to instantly increase the defense of nearby units.<br><Bullet/> Smoke grenades can be thrown and launched significantly further than standard grenades."
-ThrownAbilityName="Throw Smoke Screen"
-ThrownAbilityHelpText="Grants a defensive boost to units within its radius."
-LaunchedAbilityname="Launch Smoke Screen"
-LaunchedAbilityHelpText="Grants a defensive boost to units within its radius."
+FriendlyName="Дымовая Завеса"
+FriendlyNamePlural="Дымовые Шашки"
+BriefSummary="Увеличивает защиту любого бойца в радиусе завесы, как союзника, так и врага."
+TacticalText="<Bullet/> Дымовую завесу можно быстро развернуть для усиления защиты ближайших юнитов.<br><Bullet/> Из гранатомета дымовые шашки летят гораздо дальше, чем из рук."
+ThrownAbilityName="Кинуть Дымовую Шашку"
+ThrownAbilityHelpText="Увеличивает защиту бойца в радиусе завесы."
+LaunchedAbilityname="Кинуть Дымовую Шашку"
+LaunchedAbilityHelpText="Увеличивает защиту бойца в радиусе завесы."
 
 [AdvCaptainSuppressionRifleM1 X2WeaponTemplate]
 FriendlyName="ADVENT Suppression Rifle"

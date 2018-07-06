@@ -718,41 +718,41 @@ LaunchedAbilityname="Кинуть Дымовую Шашку"
 LaunchedAbilityHelpText="Увеличивает защиту бойца в радиусе завесы."
 
 [AdvCaptainSuppressionRifleM1 X2WeaponTemplate]
-FriendlyName="ADVENT Suppression Rifle"
-FriendlyNamePlural="ADVENT Suppression Rifles"
-BriefSummary="XCOM has managed to salvage a variety of standard infantry small arms; this is the most common variety, similar to the rifle used twenty years before. While decidedly inferior to ADVENT magnetic technology, it can at least be upgraded using additional weapons salvage, once a standard technical approach is unked."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness"
+FriendlyName="Автомат АДВЕНТа"
+FriendlyNamePlural="Автоматы АДВЕНТа"
+BriefSummary="XCOM удалось добыть множество разного стрелкового вооружения; это - самая распространенная разновидность, похожая на винтовки, которые состояли на вооружении двадцать лет назад. Хотя они определенно уступают магнитному вооружению АДВЕНТа, их, по-крайней мере, можно будет улучшить с помощью дополнительных деталей, как только наши технологии достигнут соответствующего уровня."
+TacticalText="<Bullet/> Использование основного оружия всегда заканчивает ход бойца.\n<Bullet/> Если солдат стреляет с двумя доступными действиями, винтовка совершит три выстрела с пониженной точностью, но повышенной эффективностью\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность винтовки"
 
 [AdvCaptainSuppressionRifleM2 X2WeaponTemplate]
 FriendlyName="ADVENT Suppression Rifle"
 FriendlyNamePlural="ADVENT Suppression Rifles"
-BriefSummary="XCOM has managed to salvage a variety of standard infantry small arms; this is the most common variety, similar to the rifle used twenty years before. While decidedly inferior to ADVENT magnetic technology, it can at least be upgraded using additional weapons salvage, once a standard technical approach is unked."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness"
+BriefSummary="XCOM удалось добыть множество разного стрелкового вооружения; это - самая распространенная разновидность, похожая на винтовки, которые состояли на вооружении двадцать лет назад. Хотя они определенно уступают магнитному вооружению АДВЕНТа, их, по-крайней мере, можно будет улучшить с помощью дополнительных деталей, как только наши технологии достигнут соответствующего уровня."
+TacticalText="<Bullet/> Использование основного оружия всегда заканчивает ход бойца.\n<Bullet/> Если солдат стреляет с двумя доступными действиями, винтовка совершит три выстрела с пониженной точностью, но повышенной эффективностью\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность винтовки"
 
 [AdvCaptainSuppressionRifleM3 X2WeaponTemplate]
-FriendlyName="ADVENT Suppression Rifle"
-FriendlyNamePlural="ADVENT Suppression Rifles"
-BriefSummary="XCOM has managed to salvage a variety of standard infantry small arms; this is the most common variety, similar to the rifle used twenty years before. While decidedly inferior to ADVENT magnetic technology, it can at least be upgraded using additional weapons salvage, once a standard technical approach is unked."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness"
+FriendlyName="Автомат АДВЕНТа"
+FriendlyNamePlural="Автоматы АДВЕНТа"
+BriefSummary="XCOM удалось добыть множество разного стрелкового вооружения; это - самая распространенная разновидность, похожая на винтовки, которые состояли на вооружении двадцать лет назад. Хотя они определенно уступают магнитному вооружению АДВЕНТа, их, по-крайней мере, можно будет улучшить с помощью дополнительных деталей, как только наши технологии достигнут соответствующего уровня."
+TacticalText="<Bullet/> Использование основного оружия всегда заканчивает ход бойца.\n<Bullet/> Если солдат стреляет с двумя доступными действиями, винтовка совершит три выстрела с пониженной точностью, но повышенной эффективностью\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность винтовки"
 
 
 [AdvSensorTurretM1_Wpn X2WeaponTemplate]
-FriendlyName="Turret Cannon"
-FriendlyNamePlural="Turret Cannons"
-BriefSummary="XCOM has managed to salvage a variety of standard infantry small arms; this is the most common variety, similar to the rifle used twenty years before. While decidedly inferior to ADVENT magnetic technology, it can at least be upgraded using additional weapons salvage, once a standard technical approach is discovered."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness"
+FriendlyName="Пушка Турели"
+FriendlyNamePlural="Пушки Турелей"
+BriefSummary="XCOM удалось добыть множество разного стрелкового вооружения; это - самая распространенная разновидность, похожая на винтовки, которые состояли на вооружении двадцать лет назад. Хотя они определенно уступают магнитному вооружению АДВЕНТа, их, по-крайней мере, можно будет улучшить с помощью дополнительных деталей, как только наши технологии достигнут соответствующего уровня."
+TacticalText="<Bullet/> Использование основного оружия всегда заканчивает ход бойца.\n<Bullet/> Если солдат стреляет с двумя доступными действиями, винтовка совершит три выстрела с пониженной точностью, но повышенной эффективностью\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность винтовки"
 
 [AdvSensorTurretM2_Wpn X2WeaponTemplate]
-FriendlyName="Heavy Turret Cannon"
-FriendlyNamePlural="Heavy Turret Cannons"
-BriefSummary="XCOM has managed to salvage a variety of standard infantry small arms; this is the most common variety, similar to the rifle used twenty years before. While decidedly inferior to ADVENT magnetic technology, it can at least be upgraded using additional weapons salvage, once a standard technical approach is discovered."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness"
+FriendlyName="Пушка Тяжелой Турели"
+FriendlyNamePlural="Пушки Тяжелых Турелей"
+BriefSummary="XCOM удалось добыть множество разного стрелкового вооружения; это - самая распространенная разновидность, похожая на винтовки, которые состояли на вооружении двадцать лет назад. Хотя они определенно уступают магнитному вооружению АДВЕНТа, их, по-крайней мере, можно будет улучшить с помощью дополнительных деталей, как только наши технологии достигнут соответствующего уровня."
+TacticalText="<Bullet/> Использование основного оружия всегда заканчивает ход бойца.\n<Bullet/> Если солдат стреляет с двумя доступными действиями, винтовка совершит три выстрела с пониженной точностью, но повышенной эффективностью\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность винтовки"
 
 [AdvSensorTurretM3_Wpn X2WeaponTemplate]
-FriendlyName="Superheavy Turret Cannon"
-FriendlyNamePlural="Superheavy Turret Cannons"
-BriefSummary="XCOM has managed to salvage a variety of standard infantry small arms; this is the most common variety, similar to the rifle used twenty years before. While decidedly inferior to ADVENT magnetic technology, it can at least be upgraded using additional weapons salvage, once a standard technical approach is discovered."
-TacticalText="<Bullet/> Firing the primary weapon always ends the soldier's turn\n<Bullet/> If the soldier fires with both actions available, three shots will be taken at reduced accuracy, but overall increased efficiency\n<Bullet/> Use upgrades looted from enemies to improve assault rifle tactical effectiveness"
+FriendlyName="Пушка Сверхтяжелой Турели"
+FriendlyNamePlural="Пушки Сверхтяжелых Турелей"
+BriefSummary="XCOM удалось добыть множество разного стрелкового вооружения; это - самая распространенная разновидность, похожая на винтовки, которые состояли на вооружении двадцать лет назад. Хотя они определенно уступают магнитному вооружению АДВЕНТа, их, по-крайней мере, можно будет улучшить с помощью дополнительных деталей, как только наши технологии достигнут соответствующего уровня."
+TacticalText="<Bullet/> Использование основного оружия всегда заканчивает ход бойца.\n<Bullet/> Если солдат стреляет с двумя доступными действиями, винтовка совершит три выстрела с пониженной точностью, но повышенной эффективностью\n<Bullet/> С помощью добытых в бою улучшений можно улучшить тактическую эффективность винтовки"
 
 ; ---------------- ABILITIES -------------------
 
@@ -763,11 +763,11 @@ LocHelpText="Снять с цели эффекты воздействия на �
 LocFlyOverText="Очищение"
 
 [AcidBlood X2AbilityTemplate]
-LocFriendlyName="Acid Blood"
-LocFlyOverText="Acid Blood"
-LocHelpText="Acid splashes at melee attackers."
-LocLongDescription="Acid splashes at melee attackers."
-LocPromotionPopupText="Acid splashes at melee attackers."
+LocFriendlyName="Кислотная Кровь"
+LocFlyOverText="Кислотная Кровь"
+LocHelpText="Брызжет кислотой на бьющих рукопашными атаками противников."
+LocLongDescription="Брызжет кислотой на бьющих рукопашными атаками противников."
+LocPromotionPopupText="Брызжет кислотой на бьющих рукопашными атаками противников."
 
 [CloseCombatSpecialist_ABA X2AbilityTemplate]
 LocFriendlyName="Close Combat Specialist"

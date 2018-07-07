@@ -770,46 +770,46 @@ LocLongDescription="Брызжет кислотой на бьющих рукоп
 LocPromotionPopupText="Брызжет кислотой на бьющих рукопашными атаками противников."
 
 [CloseCombatSpecialist_ABA X2AbilityTemplate]
-LocFriendlyName="Close Combat Specialist"
-LocFlyOverText="Close Combat Specialist"
-LocLongDescription="During enemy turns, fire a free reaction shot with your primary weapon at any visible enemy within four tiles who moves or fires."
-LocHelpText="During enemy turns, Fire a free reaction shot at any visible enemy within four tiles who moves or fires."
-LocPromotionPopupText="<Bullet/> Will not trigger if soldier is concealed.<br/><Bullet/> You may shoot at each enemy with this ability once per turn."
+LocFriendlyName="Мастер Ближнего Боя"
+LocFlyOverText="Мастер Ближнего Боя"
+LocLongDescription="Во время вражеского хода, боец бесплатно стреляет из основного оружия по любому видимому врагу, который двигается или атакует в радиусе четырех клеток."
+LocHelpText="Во время вражеского хода, боец бесплатно стреляет из основного оружия по любому видимому врагу, который двигается или атакует в радиусе четырех клеток."
+LocPromotionPopupText="<Bullet/> Не работает в режиме скрытности.<br/><Bullet/> Раз в ход эта способность позволяет стрелять по каждому врагу."
 
 [CloseCombatSpecialistAttack_ABA X2AbilityTemplate]
-LocFriendlyName="Close Combat Specialist"
-LocFlyOverText="Close Combat Specialist"
-LocLongDescription="During enemy turns, fire a free reaction shot with your primary weapon at any visible enemy within four tiles who moves or fires."
-LocHelpText="During enemy turns, Fire a free reaction shot at any visible enemy within four tiles who moves or fires."
-LocPromotionPopupText="<Bullet/> Will not trigger if soldier is concealed.<br/><Bullet/> You may shoot at each enemy with this ability once per turn."
+LocFriendlyName="Мастер Ближнего Боя"
+LocFlyOverText="Мастер Ближнего Боя"
+LocLongDescription="Во время вражеского хода, боец бесплатно стреляет из основного оружия по любому видимому врагу, который двигается или атакует в радиусе четырех клеток."
+LocHelpText="Во время вражеского хода, боец бесплатно стреляет из основного оружия по любому видимому врагу, который двигается или атакует в радиусе четырех клеток."
+LocPromotionPopupText="<Bullet/> Не работает в режиме скрытности.<br/><Bullet/> Раз в ход эта способность позволяет стрелять по каждому врагу."
 
 [TacticalFire X2AbilityTemplate]
-LocFriendlyName="Tactical Fire"
-LocFlyOverText="Overwatch: Tactical Fire"
-LocHelpText="Enter overwatch after firing a standard shot with your primary weapon."
-LocLongDescription="Enter overwatch after firing a standard shot with your primary weapon."
-LocPromotionPopupText="<Bullet/> Enter overwatch after firing a standard shot with your primary weapon."
+LocFriendlyName="Тактическая Стрельба"
+LocFlyOverText="Overwatch: Тактическая Стрельба"
+LocHelpText="Войдите в режим боеготовности после стандартного выстрела из основного оружия."
+LocLongDescription="Войдите в режим боеготовности после стандартного выстрела из основного оружия."
+LocPromotionPopupText="<Bullet/> Войдите в режим боеготовности после стандартного выстрела из основного оружия."
 
 [TacticalFireFlyover X2AbilityTemplate]
-LocFriendlyName="Tactical Fire"
-LocFlyOverText="Overwatch: Tactical Fire"
-LocHelpText="Enter Overwatch after firing a standard shot with your primary weapon."
-LocLongDescription="Enter Overwatch after firing a standard shot with your primary weapon."
-LocPromotionPopupText="<Bullet/> Enter Overwatch after firing a standard shot with your primary weapon."
+LocFriendlyName="Тактическая Стрельба"
+LocFlyOverText="Overwatch: Тактическая Стрельба"
+LocHelpText="Войдите в режим боеготовности после стандартного выстрела из основного оружия."
+LocLongDescription="Войдите в режим боеготовности после стандартного выстрела из основного оружия."
+LocPromotionPopupText="<Bullet/> Войдите в режим боеготовности после стандартного выстрела из основного оружия."
 
 [LightEmUp_ABA X2AbilityTemplate]
-LocFriendlyName="Light'Em Up"
-LocFlyOverText="Light 'Em Up!"
-LocLongDescription="Taking a standard shot with your primary weapon as your first action no longer ends your turn."
-LocHelpText="Taking a standard shot with your primary weapon as your first action no longer ends your turn."
-LocPromotionPopupText="<Bullet/> Taking a standard shot with your primary weapon as your first action no longer ends your turn.<br/>"
+LocFriendlyName="Свинцовый Дождь"
+LocFlyOverText="Свинцовый Дождь"
+LocLongDescription="Стандартный выстрел из основного оружия в качестве первого действия больше не заканчивает ваш ход."
+LocHelpText="Стандартный выстрел из основного оружия в качестве первого действия больше не заканчивает ваш ход."
+LocPromotionPopupText="<Bullet/> Стандартный выстрел из основного оружия в качестве первого действия больше не заканчивает ваш ход.<br/>"
 
 [AcidShot X2AbilityTemplate]
-LocFriendlyName="Acid Shot"
-LocFlyOverText="Acid Shot"
-LocLongDescription="Taking a standard shot with your primary weapon and covering hit enemies in acid."
-LocHelpText="Taking a standard shot with your primary weapon, adding acid effects."
-LocPromotionPopupText="<Bullet/> Taking a standard shot with your primary weapon, adding acid effects.<br/>"
+LocFriendlyName="Кислотный Выстрел"
+LocFlyOverText="Кислотный Выстрел"
+LocLongDescription="Стандартный выстрел из основного оружия при попадании покрывает врагов кислотой."
+LocHelpText="Стандартный выстрел из основного оружия накладывает эффекты кислоты при попадании."
+LocPromotionPopupText="<Bullet/> Стандартный выстрел из основного оружия накладывает эффекты кислоты при попадании.<br/>"
 
 [Muton_WarCry X2AbilityTemplate]
 LocFriendlyName="War Cry"

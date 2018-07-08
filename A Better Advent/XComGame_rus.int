@@ -1239,11 +1239,11 @@ LocHelpText="Open a small Psionic rift that disables the weapons of any units ca
 LocFlyOverText="Empowered Psi Bomb"
 
 [CodexReflexes X2AbilityTemplate]
-LocFriendlyName="Codex Reflexes"
-LocFlyOverText="Codex Reflexes"
-LocLongDescription="Reaction fire shots against you have a significantly decreased chance to hit. The bonus goes down with each additional reaction shot you face."
-LocHelpText="Reaction fire shots against you have a decreased chance to hit."
-LocPromotionPopupText="<Bullet/> Reaction fire shots against you have a significantly decreased chance to hit.<br/><Bullet/> The first reaction shot against you during a turn is at -100 to hit; the second at -80; the third at -60; the fourth at -40, and the fifth at -20. Further reaction shots at are normal to hit chances.<br/>"
+LocFriendlyName="Рефлексы Кодекса"
+LocFlyOverText="Рефлексы Кодекса"
+LocLongDescription="Ответные выстрелы по вам имеют значительно уменьшенный шанс попадания. Этот бонус уменьшается с каждым следующим выстрелом по вам."
+LocHelpText="Ответные выстрелы по вам имеют уменьшенный шанс попадания."
+LocPromotionPopupText="<Bullet/> Ответные выстрелы по вам имеют значительно уменьшенный шанс попадания.<br/><Bullet/> Первый ответный выстрел в этот ход имеет -100 к шансу попадания; второй — -80; третий — -60; четвёртый — -40, а пятый — -20. Последующие ответные выстрелы будут иметь обычные шансы на попадание.<br/>"
 
 [StandardMeleeLifeLeech X2AbilityTemplate]
 LocFriendlyName="Вытягивание жизни"

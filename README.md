@@ -99,4 +99,59 @@ Zombie Brute — Ужасный Зомби
 Zombie Leaper — Зомби-Прыгун
 Zombie Revenant — Зомби-Ревенант
 Zombie Runner — Зомби-Бегун
+Berserker Prime — Берсерк-Прайм
+Firestarter — Поджигатель
+Firestarter Prime — Поджигатель-Прайм
+Muton Pyro — Мутон-Пиро
+Muton Infector — Мутон-Отравитель
+Muton Prime — Мутон-Прайм
+Codex ICE — Кодекс-ЛЁД
+ADVENT Codex — Кодекс АДВЕНТа
+Codex Splitter — Кодекс-Расходник
+Codex Bomber — Кодекс-Бомбист
+Codex Prime — Кодекс-Прайм
+Spectre Prime — Спектр-Прайм
+Shoggoth — Шоггот
+Gatekeeper Prime — Привратник-Прайм
+Andromedon Prime — Андромедон-Прайм
+Andromedon Prime Shell — Каркас Андромедона-Прайма
+Archon Prime — Архонт-Прайм
+Archon Valkyrie — Архонт-Валькирия
+Archon Sentinel — Архонт-Часовой
+Sectopod Prime — Сектопод-Прайм
+Spotter Drone — Дрон-Наводчик
+Spotter MEC — МЭК-Наводчик
+Spotter Sectopod — Сектопод-Наводчик
+Advent Cannon — Пушка АДВЕНТа
+Advent Mag Cannon — Маг-Пушка АДВЕНТа
+Advent Beam Cannon — Лучевая Пушка АДВЕНТа
+Shredder Cannon — Разрывная Пушка
+Mag Shredder Cannon — Разрывная Маг-Пушка
+Beam Shredder Cannon — Лучевая Разрывная Пушка
+ADVENT Shred Rifle — Разрывная Винтовка АДВЕНТа
+ADVENT Wrecking Rifle — Противотанковая Винтовка АДВЕНТа
+ADVENT Sentinel Rifle — Винтовка Часового АДВЕНТа
+Advent Shotgun — Дробовик АДВЕНТа
+Advent Shard Gun — Осколочная Пушка АДВЕНТа
+Advent Storm Gun — Штормовая Пушка АДВЕНТа
+Advent Shotgun — Дробовик АДВЕНТа
+Advent Sniper Rifle — Снайперская винтовка АДВЕНТа
+Advent Gauss Rifle — Гаусс-Винтовка АДВЕНТа
+Advent Plasma Lance — Плазменное Копьё АДВЕНТа
+Holo Beam Pistol — Лучевой Голо-Пистолет
+Firebreath — Огненное дыхание
+Chryssalid Spit — Плевок Криссалида
+Viper Plasma Rifle — Плазменная Винтовка Гадюки
+Mamba Boltcaster — Стреломёт Мамбы
+Stick — Палка
+Beam Rifle — Лучевая Винтовка
+Beam Shred Cannon — Лучевая Разрывная Пушка
+ADVENT Mag Rifle — Маг-Винтовка АДВЕНТа
+Tazer Pistol — Пистолет-Тазер
+Andromedon Acid Cannon — Кислотная Пушка Андромедона
+Boa Tongue — Язык Удава
+Viper Prime Tongue — Язык Гадюки-Прайм
+Smoke Screen — Дымовая Завеса
+ADVENT Suppression Rifle — Подавляющая винтовка АДВЕНТа
+Turret Cannon — Пушка Турели
 ```

@@ -979,22 +979,22 @@ LocPromotionPopupText="Сделать выпад."
 LocFriendlyName="Родить Ползуна"
 LocLongDescription="Королева может рождать несколько криссалидов."
 LocHelpText="Королева может рождать несколько криссалидов."
-LocFlyOverText="Родить Ползуна"
+LocFlyOverText="Рождение Ползуна"
 [SpawnABAChryssalidM2ForMommy X2AbilityTemplate]
 LocFriendlyName="Родить Трутня"
 LocLongDescription="Королева может рождать несколько криссалидов."
 LocHelpText="Королева может рождать несколько криссалидов."
-LocFlyOverText="Родить Трутня"
+LocFlyOverText="Рождение Трутня"
 [SpawnABAChryssalidM3ForMommy X2AbilityTemplate]
 LocFriendlyName="Родить Охотника"
 LocLongDescription="Королева может рождать несколько криссалидов."
 LocHelpText="Королева может рождать несколько криссалидов."
-LocFlyOverText="Родить Охотника"
+LocFlyOverText="Рождение Охотника"
 [SpawnABAChryssalidM4ForMommy X2AbilityTemplate]
 LocFriendlyName="Родить Истребителя"
 LocLongDescription="Королева может рождать несколько криссалидов."
 LocHelpText="Королева может рождать несколько криссалидов."
-LocFlyOverText="Родить Истребителя"
+LocFlyOverText="Рождение Истребителя"
 
 [ChangeForm_Shoggoth X2AbilityTemplate]
 LocFriendlyName="Изменить Форму"

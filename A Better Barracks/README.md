@@ -8,3 +8,5 @@ ENG — RU
 ENG — RU
 ENG — RU
 ```
+Agent -- Агент
+Operative -- Оперативник

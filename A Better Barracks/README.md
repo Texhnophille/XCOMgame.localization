@@ -4,9 +4,6 @@
 
 ### Glossary:
 ```
-ENG — RU
-ENG — RU
-ENG — RU
+Agent — Агент
+Operative — Оперативник
 ```
-Agent -- Агент
-Operative -- Оперативник

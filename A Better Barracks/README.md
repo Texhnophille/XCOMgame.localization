@@ -15,6 +15,7 @@ Covert — Скрытный
 Demolition — Подрыв
 Disarming Strike — Обезоруживающий Удар
 EM Disruptor — ЭМ Подрыв
+Fire Heavy Weapon — Стрельба из тяжёлого оружия
 Hamstring — Подрезка Сухожилий
 Hidef Holo — Наведение Высокой Четкости
 High Voltage — Высокое Напряжение

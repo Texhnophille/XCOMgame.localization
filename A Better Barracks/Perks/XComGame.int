@@ -17,9 +17,9 @@ LocHelpText="Совершить по цели выстрел с низкой т�
 LocLongDescription="Сделать выстрел со штрафом -20 к меткости. Не заканчивает ход. Не считается выстрелом в голову для Сгинувших."
 
 [PinningShot X2AbilityTemplate]
-LocFriendlyName="Pin Down"
-LocHelpText="Fire a shot at a target, at the same time reducing their aim and movement. Uses 2 ammo."
-LocLongDescription="Fire a shot at a target, at the same time reducing their aim and movement. Uses 2 ammo. Heavy weapons requires two actions to fire."
+LocFriendlyName="Прижать к земле"
+LocHelpText="Совершить выстрел в цель, одновременно с этим понижая её меткость и мобильность. Расходует 2 единицы боезапаса."
+LocLongDescription="Совершить выстрел по цели и ограничить её точность и мобильность. Расходует 2 единицы боезапаса. Выстрелы из тяжёлого оружия требуют 2 очка действия."
 
 [SniperStandardFire X2AbilityTemplate]
 LocFriendlyName="Fire Heavy Weapon"

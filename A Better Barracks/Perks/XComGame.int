@@ -12,9 +12,9 @@ LocHelpText="Enter overwatch after firing a standard shot with your primary weap
 LocLongDescription="Enter overwatch after firing a standard shot with your primary weapon."
 
 [Spray X2AbilityTemplate]
-LocFriendlyName="Spray"
-LocHelpText="Fire a shot at a target with low accuracy. Doesn't end the turn. Can not headshot."
-LocLongDescription="Fire a shot at -20 aim. Doesn't end the turn. Does not count as a headshot on the Lost."
+LocFriendlyName="Вразлёт"
+LocHelpText="Совершить по цели выстрел с низкой точностью. Не заканчивает ход. Не может убить выстрелом в голову."
+LocLongDescription="Сделать выстрел со штрафом -20 к меткости. Не заканчивает ход. Не считается выстрелом в голову для Сгинувших."
 
 [PinningShot X2AbilityTemplate]
 LocFriendlyName="Pin Down"

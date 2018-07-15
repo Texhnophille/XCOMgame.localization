@@ -1,8 +1,8 @@
 ﻿[SmokeAndMirrors X2AbilityTemplate]
-LocFriendlyName="Контроль беспорядков"
+LocFriendlyName="Борьба с беспорядками"
 LocLongDescription="На каждой миссии вы имеете одну дополнительную дымовую гранату и одну дополнительную светошумовую гранату."
 LocHelpText="На каждой миссии вы имеете дополнительные дымовую и светошумовую гранаты."
-LocFlyOverText="Контроль беспорядков"
+LocFlyOverText="Борьба с беспорядками"
 LocPromotionPopupText="<Bullet/>Эти дымовые и светошумовые гранаты будут экипированы, даже если вы взяли с собой другие гранаты.<br/>"
 
 [ReadyForAnything X2AbilityTemplate]

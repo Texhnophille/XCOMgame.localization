@@ -22,9 +22,9 @@ LocHelpText="Совершить выстрел в цель, одновремен
 LocLongDescription="Совершить выстрел по цели и ограничить её точность и мобильность. Расходует 2 единицы боезапаса. Выстрелы из тяжёлого оружия требуют 2 очка действия."
 
 [SniperStandardFire X2AbilityTemplate]
-LocFriendlyName="Fire Heavy Weapon"
-LocHelpText="Fire a shot at a target. Requires two actions."
-LocLongDescription="Heavy weapons requires two actions to fire."
+LocFriendlyName="Выстрел из тяжёлого оружия"
+LocHelpText="Открыть огонь по цели. Требует двух очков действия."
+LocLongDescription="Тяжёлые виды вооружения требуют двух очков действия для стрельбы."
 
 [FireShot X2AbilityTemplate]
 LocFriendlyName="Shoot Flammenwerfer"

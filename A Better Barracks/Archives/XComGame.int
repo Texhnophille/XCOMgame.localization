@@ -21,14 +21,14 @@ DescriptionTitle="Agent"
 DescriptionEntry="Agents are highly mobile infiltrators that can strike at enemies from stealth, long range or simply leverage their high mobility to assassinate the target.\n\nPrimaries: Shotgun, Sniper Rifle\nSecondaries: Combat Knife\nSquaddie Perk: Run And Slice, which allows the Agent to make a full dash and a knife strike, all with one action and without ending the turn. Has a cooldown of 4 turns that can be reset with other knife perks like Lacerate, Shadowmelt or Hamstring.\n\nClass Perks:\nTier 1: Bladestorm, Combatives\nTier 2: Covert, Infiltrator, Disarming Strike, Lacerate\nTier 3: Anatomy, Conceal, Shadowmelt, Combat Fitness\nTier 4: Assassinate, Hamstring\n\n Agents get one Tier1, three Tier2, two Tier3 and one Tier4 class perk." 
 
 [CLSaboteur X2EncyclopediaTemplate]
-ListTitle="Saboteur"
-DescriptionTitle="Saboteur"
-DescriptionEntry="Saboteurs are demolition experts, able to disable structures just as well as soft targets.\n\nPrimaries: Shotgun, Cannon\nSecondaries: Arc Thrower\nSquaddie Perk: Zap, which jolts a target for a little damage and disorientation.\n\nClass Perks:\nTier 1: Stun, EM Disruptor\nTier 2: Stungunner, Tear Down, Demolition, Bombard\nTier 3: Slug Shot, High Voltage, Spare Battery, Salvo\nTier 4: Torture, Rocketeer\n\nSaboteurs get one Tier1, three Tier2, two Tier3 and one Tier4 class perk." 
+ListTitle="Диверсант"
+DescriptionTitle="Диверсант"
+DescriptionEntry="Диверсанты - эксперты-подрывники, способные обезвреживать как строения, так и живые мишени.\n\nОсновное оружие: Дробовик, Пушка\nДополнительное оружие: Дугомёт\nНачальная способность: Разряд, бьёт цель током, нанося небольшой урон и дезориентируя.\n\nКлассовые способности:\nУровень 1: Оглушение, ЭМ Подрыв\nУровень 2: Шокер, Разрушитель, Подрыв, Бомбардир\nУровень 3: Жакан, Высокое Напряжение, Запасная Батарея, Залп\nУровень 4: Пытка, Ракетчик\n\nДиверсанты получают следующее количество классовых способностей: одна на Уровне 1, три на Уровне 2, две на Уровне 3 и одну на Уровне 4." 
 
 [CLScout X2EncyclopediaTemplate]
-ListTitle="Scout"
-DescriptionTitle="Scout"
-DescriptionEntry="Scouts act as spotters for the squad, making everyone perform better.\n\nPrimaries: Asault Rifle, Sniper Rifle\nSecondaries: Target Painter\nSquaddie Perk: Paint Target, which makes a target easier to hit. Uses one action and doesn't end the turn.\n\nClass Perks:\nTier 1: Rapid Targeting, HDHolo\nTier 2: Low Profile, Independent Tracking, Multitargeting, Vital Point Targeting\nTier 3: Tactical Sense, Precision Shot\nTier 4: Rupture, Airstrike\n\nScouts get two Tier1, three Tier2, one Tier3 and one Tier4 class perk." 
+ListTitle="Разведчик"
+DescriptionTitle="Разведчик"
+DescriptionEntry="В отряде разведчики выполняют роль наводчиков, улучшая эффективность всего отряда.\n\nОсновное оружие: Штурмовая винтовка, Снайперская винтовка\nДополнительное оружие: Целеуказатель\nНачальная способность: Подсветка цели, повышает меткость выстрелов против цели. Тратит одно действие и не заканчивает ход бойца.\n\nКлассовые способности:\nУровень 1: Быстрое наведение, Наведение высокой чёткости\nУровень 2: Низкий профиль, Независимое отслеживание, Мультинаведение, Поиск уязвимостей\nУровень 3: Тактическое чутьё, Точный выстрел\nУровень 4: Разрыв, Удар с воздуха\n\nРазведчики получают следующее количество классовых способностей: две на Уровне 1, три на Уровне 2, одна на Уровне 3 и одна на Уровне 4." 
 
 [CLInfantry X2EncyclopediaTemplate]
 ListTitle="Infantry"

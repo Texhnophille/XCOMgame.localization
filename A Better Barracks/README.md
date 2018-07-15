@@ -20,4 +20,5 @@ Combat Fitness — Боевая Подготовка
 Assassinate — Ликвидация
 Hamstring — Подрезка Сухожилий
 Riot Control — Борьба с беспорядками
+Spray — Вразлёт
 ```

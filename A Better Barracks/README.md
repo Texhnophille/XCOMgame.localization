@@ -44,5 +44,5 @@ Precision Shot — Точный Выстрел
 Rupture — Разрыв
 Airstrike — Удар с Воздуха
 Demolition — Подрыв
-
+Spray — Вразлёт
 ```

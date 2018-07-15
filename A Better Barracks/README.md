@@ -6,4 +6,5 @@
 ```
 Agent — Агент
 Operative — Оперативник
+Riot Control — Борьба с беспорядками
 ```

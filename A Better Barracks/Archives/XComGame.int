@@ -36,14 +36,14 @@ DescriptionTitle="Пехотинец"
 DescriptionEntry="Пехотинцы - это гибкие бойцы, способные вести огонь на подавление или устранять противников с помощью автоматического оружия. На близких дистанциях они добивают противника выстрелом из своего обреза.\n\nОсновное оружие: Штурмовая винтовка, Пушка\nДополнительное оружие: Обрез\nНачальная способность: Подавление, накладывает на цель штраф -50 к меткости и позволяет совершить ответный выстрел, если мишень сдвинется с места.\n\nКлассовые способности:\nУровень 1: Помповик, Сбивание с Ног\nУровень 2: Два Ствола, Хаос, Блокировка\nTier 3: Зона Поражения, Центр Тяжести, Пристрелка, Короткая Очередь\nУровень 4: Массированный Огонь, Чистильщик\n\nПехотинец получает следующее количество классовых способностей: одна на Уровне 1, три на Уровне 2, две на Уровне 3 и одна на Уровне 4."  
 
 [CLSpecialist X2EncyclopediaTemplate]
-ListTitle="Specialist"
-DescriptionTitle="Specialist"
-DescriptionEntry="Specialists are combat hackers and medics, just as able to operate from long range as on the front line.\n\nPrimaries: Asault Rifle, Sniper Rifle\nSecondaries: Gremlin Drone\nSquaddie Perk: Aid Protocol, which dedicates the Gremlin drone to protecting a target for a turn, increasing its defense.\n\nClass Perks:\nTier 1: Haywire Protocol, Combat Protocol\nTier 2: Field Medic, Revival Protocol, Scanning Protocol\nTier 3: Covering Fire, Threat Assessment, Ever Vigilant, Guardian\nTier 4: Restoration, Capacitor Discharge\n\nSpecialists get one Tier1, three Tier2, two Tier3 and one Tier4 class perk."  
+ListTitle="Специалистt"
+DescriptionTitle="Специалист"
+DescriptionEntry="Специалисты - это боевые хакеры и медики, способные работать как с дальних дистанций,  так и на фронтовой.\n\nОсновное оружие: Штурмовая винтовка, Снайперская винтовка\nДополнительное оружие: Дрон-Гремлин\nНачальная способность: Протокол Поддержки, посылает гремлина на помощь выбранному бойцу, повышая его защиту.\n\nКлассовые способности:\nУровень 1: Протокол Взлома, Боевой Протокол\nУровень 2: Полевой Медик, Протокол Восстановления, Протокол Сканирования\nУровень 3: Огневая Поддержка, Оценка Угрозы, Всегда Начеку, Страж\nУровень 4: Восстановление, Разряд Конденсатора\n\nСпециалисты получают следующее количество классовых способностей: одна на Уровне 1, три на Уровне 2, две на Уровне 3 и одна на Уровне 4."  
 
 [CLGrenadier X2EncyclopediaTemplate]
-ListTitle="Grenadier"
-DescriptionTitle="Grenadier"
-DescriptionEntry="Grenadiers are heavily armed. Of special note is their launcher which allows to deliver explosives payloads directly into enemy groups.\n\nPrimaries: Asault Rifle, Cannon\nSecondaries: Launcher\nSquaddie Perk: Launch Grenade, which allows for increased area of effect and range for grenades. It also provides an additional grenade pocket.\n\nClass Perks:\nTier 1: Shredder, Blast Padding, Demolition\nTier 2: Salvo, Holotargeting, Hail of Bullets, Chain Shot\nTier 3: Volatile Mix, Heavy Ordnance\nTier 4: Saturation Fire, Rupture\n\nGrenadiers get two Tier1, three Tier2, one Tier3 and one Tier4 class perk."  
+ListTitle="Гренадёр"
+DescriptionTitle="Гренадёр"
+DescriptionEntry="Гренадёры тяжело вооружены. Стоит отметить их гранатмёт, с помощью которого можно забрасывать взрывчатку прямо в гущу врагов.\n\nОсновное оружие: Штурмовая винтовка, Пушка\nДополнительное оружие: Гранатомёт\nНачальная способность: Выстрел Гранатой, имеет повышенный радиус взрыва и дальность полёта гранаты. Также даёт дополнительный слот для гранаты.\n\nКлассовые способности:\nУровень 1: Дырокол, Противоударная Подкладка, Подрыв\nУровень 2: Залп, Голографическая Наводка, Шквальный Огонь, Двойной Выстрел\nУровень 3: Гремучая Смесь, Тяжелое Вооружение\nУровень 4: Массированный Огонь, Разрыв\n\nГренадёры получают следующее количество классовых способностей: две на Уровне 1, три на Уровне 2, одна на Уровне 3 и одна на Уровне 4."  
 
 [CLRanger X2EncyclopediaTemplate]
 ListTitle="Ranger"

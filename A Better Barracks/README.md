@@ -10,6 +10,8 @@ Airstrike — Удар с Воздуха
 Anatomy — Анатомия
 Assassinate — Ликвидация
 Beatdown — Сбивание с Ног
+Blademaster — Мастер Клинка
+Bladestorm — Мясорубка
 Blast Padding — Противоударная Подкладка
 Bombard — Бомбардир
 Both Barrels — Два Ствола
@@ -19,6 +21,7 @@ Chain Shot — Двойной Выстрел
 Combat Fitness — Боевая Подготовка
 Combat Protocol — Боевой Протокол
 Combatives — Задира
+Conceal — Скрытность
 Covering Fire — Огневая Поддержка
 Covert — Скрытный
 Demolition — Подрыв
@@ -35,6 +38,7 @@ Heavy Ordnance — Тяжелое Вооружение
 Hidef Holo — Наведение Высокой Четкости
 High Voltage — Высокое Напряжение
 Holotargeting — Голографическая Наводка
+Implacable — Неприкаянный
 Independent Tracking — Независимое Отслеживание
 Infantry — Пехотинец
 Infiltrator — Лазутчик
@@ -48,14 +52,18 @@ Multitargeting — Мультинаведение
 Operative — Оперативник
 Paint Target — Подсветка Цели
 Perk — Способность
+Phantom — Фантом
 Pin Down — Прижать к земле
 Precision Shot — Точный Выстрел
 Pump Action — Помповик
+Rapid Fire — Беглый Огонь
 Rapid Targeting — Быстрое Наведение
+Reaper — Жнец
 Restoration — Восстановление
 Revival Protocol — Протокол Восстановления
 Riot Control — Борьба с беспорядками
 Rocketeer — Ракетчик
+Run and Gun — Стрельба на Бегу
 Run and Slice — Удар с Разбега
 Rupture — Разрыв
 Saboteur — Диверсант
@@ -64,7 +72,10 @@ Saturation Fire — Массированный Огонь
 Scanning Protocol — Протокол Сканирования
 Scout — Разведчик
 Shadowmelt — Уход в Тень
+Shadowstep — Теневой Шаг
+Shadowstrike — Удар из Тени
 Shredder — Дырокол
+Slash — Удар Мечом
 Slug Shot — Жакан
 Spare Battery — Запасная Батарея
 Spray — Вразлёт
@@ -77,6 +88,7 @@ Tear Down — Разрушитель
 Threat Assessment — Оценка Угрозы
 Tier — Уровень
 Torture — Пытка
+Untouchable — Неприкасаемый
 Vital Point Targeting — Поиск Уязвимостей
 Volatile Mix — Гремучая Смесь
 Walk Fire — Пристрелка

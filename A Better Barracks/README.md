@@ -60,6 +60,6 @@ Tear Down — Разрушитель
 Tier — Уровень
 Torture — Пытка
 Vital Point Targeting — Поиск Уязвимостей
-Walk Fire — Короткая Очередь
+Walk Fire — Пристрелка
 Zap — Разряд
 ```

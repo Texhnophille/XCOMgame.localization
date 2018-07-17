@@ -51,9 +51,9 @@ DescriptionTitle="Рейнджер"
 DescriptionEntry="Рейнджеры специализируются на ближнем бою, способные постоять за себя как в рукопашной схватке, так и в перестрелке.\n\nОсновное оружие: Дробовик, Пушка\nДополнительное оружие: Меч\nНачальная способность: Удар Мечом, мощная рукопашная атака, которую можно использовать после рывка.\n\nКлассовые способности:\nУровень 1: Фантом, Мастер Клинка, Удар из Тени, Теневой Шаг\nУровень 2: Скрытность, Стрельба На Бегу\nУровень 3: Неприкаянный, Мясорубка, Неприкасаемый\nУровень 4: Беглый Огонь, Жнец\n\nРейнджеры получают следующее количество классовых способностей: три на Уровне 1, одна на Уровне 2, две на Уровне 3 и одна на Уровне 4."   
 
 [CLSharpshooter X2EncyclopediaTemplate]
-ListTitle="Sharpshooter"
-DescriptionTitle="Sharpshooter"
-DescriptionEntry="Sharpshooters are our best marksmen, and are fielded as snipers and shotgun surgeons.\n\nPrimaries: Shotgun, Sniper Rifle\nSecondaries: Pistol\nSquaddie Perk: Fire Pistol, a shot from the signature sidearm of the Sharpshooter that costs no ammo.\n\nClass Perks:\nTier 1: Steady Hands, Lightning Hands\nTier 2: Deadeye, Aim\nTier 3: Death From Above, Faceoff, Sidearm Specialist, Low Profile, Killzone\nTier 4: Serial, Fan Fire\n\nSharpshooters get one Tier1, two Tier2, three Tier3 and one Tier4 class perk." 
+ListTitle="Снайпер"
+DescriptionTitle="Снайпер"
+DescriptionEntry="Снайперы - наши лучшие стрелки, имеющие доступ к крупнокалиберным винтовкам и дробовикам.\n\nОсновное оружие: Дробовик, Снайперская винтовка\nДополнительное оружие: Пистолет\nНачальная способность: Выстрел из Пистолета, не тратящий боезапас.\n\nКлассовые способности:\nУровень 1: Твердая Рука, Руки-Молнии\nУровень 2: Меткий Глаз, Прицел\nУровень 3: Смерть с Небес, Один на Один, Спец по Личному Оружию, Низкий Профиль, Зона Поражения\nУровень 4: Серия, Расстрел\n\nСнайперы получают следующее количество классовых способностей: одна на Уровне 1, две на Уровне 2, три на Уровне 3 и одна на Уровне 4." 
 
 [CLReaper X2EncyclopediaTemplate]
 ListTitle="Reaper"

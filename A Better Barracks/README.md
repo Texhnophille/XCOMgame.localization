@@ -6,7 +6,8 @@
 ```
 Absolutely Critical — Стопроцентно Критический
 Agent — Агент
-Aid Protocol —
+Aid Protocol — Протокол Поддержки
+Aim — Прицел
 Airstrike — Удар с Воздуха
 Anatomy — Анатомия
 Assassinate — Ликвидация
@@ -25,10 +26,14 @@ Combatives — Задира
 Conceal — Скрытность
 Covering Fire — Огневая Поддержка
 Covert — Скрытный
+Dead Eye — Меткий Глаз
+Death from Above — Смерть с Небес
 Demolition — Подрыв
 Disarming Strike — Обезоруживающий Удар
 EM Disruptor — ЭМ Подрыв
 Ever Vigilant — Всегда Начеку
+Face Off — Один на Один
+Fan Fire — Расстрел
 Field Medic — Полевой Медик
 Fire Heavy Weapon — Стрельба из тяжёлого оружия
 Guardian — Страж
@@ -46,6 +51,7 @@ Infiltrator — Лазутчик
 Killzone — Зона Поражения
 Lacerate — Вскрытие
 Launch Grenade — Выстрел Гранатой
+Lightning Hands — Руки-Молнии
 Lockdown — Блокировка
 Low Profile — Низкий Профиль
 Mayhem — Хаос
@@ -72,14 +78,17 @@ Salvo — Залп
 Saturation Fire — Массированный Огонь
 Scanning Protocol — Протокол Сканирования
 Scout — Разведчик
+Serial — Серия
 Shadowmelt — Уход в Тень
 Shadowstep — Теневой Шаг
 Shadowstrike — Удар из Тени
 Shredder — Дырокол
+Sidearm Specialist — Спец по Личному Оружию
 Slash — Удар Мечом
 Slug Shot — Жакан
 Spare Battery — Запасная Батарея
 Spray — Вразлёт
+Steady Hands — Твердая Рука
 Street Sweeper — Чистильщик
 Stun — Оглушение
 Stungunner — Шокер

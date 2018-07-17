@@ -37,10 +37,10 @@ LocHelpText="Fire on the first enemy that moves within your line of sight, with 
 LocLongDescriptionWhenConcealed="Heavy weapons require two actions to fire."
 
 [XMBExample_AbsolutelyCritical X2AbilityTemplate]
-LocFriendlyName="Absolutely Critical"
-LocFlyOverText="Absolutely Critical"
-LocHelpText="You get an additional 50 Crit chance against flanked targets."
-LocLongDescription="You get an additional 50 Crit chance against flanked targets."
+LocFriendlyName="Стопроцентно Критический"
+LocFlyOverText="Стопроцентно Критический"
+LocHelpText="Вы получаете дополнительные 50% к вашему шансу критического выстрела при стрельбе по целям с фланга."
+LocLongDescription="Вы получаете дополнительные 50% к шансу критического выстрела при атаке с фланга."
 
 [XMBExample_AdrenalineSurge X2AbilityTemplate]
 LocFriendlyName="Adrenaline Surge"

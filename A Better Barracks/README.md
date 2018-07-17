@@ -4,6 +4,7 @@
 
 ### Glossary:
 ```
+Absolutely Critical — Стопроцентно Критический
 Agent — Агент
 Aid Protocol —
 Airstrike — Удар с Воздуха

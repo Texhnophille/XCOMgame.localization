@@ -85,10 +85,10 @@ LocHelpText="Confers a reaction shot against any enemy who closes to within 4 ti
 LocLongDescription="Confers a reaction shot against any enemy who closes to within 4 tiles. Does not require Overwatch and can trigger multiple times per enemy."
 
 [XMBExample_DamnGoodGround X2AbilityTemplate]
-LocFriendlyName="Damn Good Ground"
-LocFlyOverText="Damn Good Ground"
-LocHelpText="You get an additional 10 Aim and 10 Defense against targets at lower elevation."
-LocLongDescription="You get an additional 10 Aim and 10 Defense against targets at lower elevation."
+LocFriendlyName="Высотное Преимущество"
+LocFlyOverText="Высотное Преимущество"
+LocHelpText="Вы получаете дополнительные 10 Меткости и 10 Защиты против целей, перед которыми имеете преимущество в высоте."
+LocLongDescription="Вы получаете дополнительные 10 Меткости и 10 Защиты против целей, перед которыми имеете преимущество в высоте."
 
 [XMBExample_DangerZone X2AbilityTemplate]
 LocFriendlyName="Danger Zone"

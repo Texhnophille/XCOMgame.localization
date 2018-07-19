@@ -109,10 +109,10 @@ LocHelpText="<Ability:+Will/> Will and <Ability:+Defense/> Defense."
 LocLongDescription="Squad receives <Ability:+Will/> Will and <Ability:+Defense/> Defense in battle."
 
 [XMBExample_Focus X2AbilityTemplate]
-LocFriendlyName="Focus"
-LocFlyOverText="Focus"
-LocHelpText="Your first reaction shot each turn always hits."
-LocLongDescription="Your first reaction shot each turn always hits."
+LocFriendlyName="Внимание"
+LocFlyOverText="Внимание"
+LocHelpText="Ваш первый ответный выстрел в этом ходу всегда попадает в цель."
+LocLongDescription="Ваш первый ответный выстрел в этом ходу всегда попадает в цель."
 
 [XMBExample_HitAndRun X2AbilityTemplate]
 LocFriendlyName="Hit and Run"

@@ -61,10 +61,10 @@ LocHelpText="When you kill a flanked or uncovered enemy with your <Ability:Weapo
 LocLongDescription="When you kill a flanked or uncovered enemy with your <Ability:WeaponName/>, you gain concealment."
 
 [XMBExample_BulletSwarm X2AbilityTemplate]
-LocFriendlyName="Bullet Swarm"
-LocFlyOverText="Bullet Swarm"
-LocHelpText="Firing your <Ability:WeaponName/> as your first action no longer ends your turn."
-LocLongDescription="Firing your <Ability:WeaponName/> as your first action no longer ends your turn."
+LocFriendlyName="Свинцовый Дождь"
+LocFlyOverText="Свинцовый Дождь"
+LocHelpText="Первое действие стрельбы из вашего оружия больше не завершает ваш ход."
+LocLongDescription="Первое действие стрельбы из вашего оружия больше не завершает ваш ход."
 
 [XMBExample_BullRush X2AbilityTemplate]
 LocFriendlyName="Bull Rush"

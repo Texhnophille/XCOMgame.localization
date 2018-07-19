@@ -43,7 +43,7 @@ Face Off — Один на Один
 Fan Fire — Расстрел
 Field Medic — Полевой Медик
 Fire Heavy Weapon — Стрельба из тяжёлого оружия
-Focus — Фокус
+Focus — Внимание
 Guardian — Страж
 Hail of Bullets — Шквальный Огонь
 Hamstring — Подрезка Сухожилий

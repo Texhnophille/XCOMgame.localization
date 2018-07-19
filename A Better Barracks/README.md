@@ -20,6 +20,7 @@ Bladestorm — Мясорубка
 Blast Padding — Противоударная Подкладка
 Bombard — Бомбардир
 Both Barrels — Два Ствола
+Bullet Swarm — Свинцовый Дождь
 Bulwark — Бастион
 Capacitor Discharge — Разряд Конденсатора
 Center Mass — Центр Тяжести

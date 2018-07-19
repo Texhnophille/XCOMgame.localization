@@ -83,9 +83,9 @@ DescriptionEntry="ИСКРЫ получили пару значительных 
 ListTitle="A BETTER BARRACKS: PRIMARIES"
 
 [PRRifle X2EncyclopediaTemplate]
-ListTitle="Assault Rifle"
-DescriptionTitle="Assault Rifle"
-DescriptionEntry="Name: Assault Rifle\nClassification: Light Primary Weapon\n\nThe assault rifle is the bread and butter of our arsenal. It offers balanced capabilities in almost all combat situations. Of all weapons, the assault rifle is the one that is most customizable, being able to be used with many different weapon modifications at the same time.\n\nConventional Assault Rifle\nDamage: 3-5\nCrit Damage: 2\nPierce: 0\nShred: 0\nAmmo: 4\nRange: medium\nModslots: 2\nActions to fire: 1\nActions to reload:1\nAbilities provided: none\n\n" 
+ListTitle="Штурмовая Винтовка"
+DescriptionTitle="Штурмовая Винтовка"
+DescriptionEntry="Название: Штурмовая Винтовка\nКлассификация: Лёгкое Основное Оружие\n\nШтурмовая винтовка - это хлеб с маслом нашего арсенала. Она имеет сбалансированные характеристики для практически любых ситуаций. Из всех видов оружия, штурмовая винтовка является самой настраиваемой, имея большое количество слотов для модификаций.\n\nОбычная Штурмовая Винтовка\nУрон: 3-5\nКрит. Урон: 2\nПробивание брони: 0\nРазрывание брони: 0\nБоезапас: 4\nДальность: средняя\nСлотов для модификаций: 2\nДействий на стрельбу: 1\nДействий на перезарядку:1\nДополнительные способности: нет\n\n" 
 
 [PRShotgun X2EncyclopediaTemplate]
 ListTitle="Shotgun"

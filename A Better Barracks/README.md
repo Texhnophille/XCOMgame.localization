@@ -39,7 +39,7 @@ Demolition — Подрыв
 Disarming Strike — Обезоруживающий Удар
 EM Disruptor — ЭМ Подрыв
 Ever Vigilant — Всегда Начеку
-Face Off — Один на Один
+Face Off — Перестрелка
 Fan Fire — Расстрел
 Field Medic — Полевой Медик
 Fire Heavy Weapon — Стрельба из тяжёлого оружия

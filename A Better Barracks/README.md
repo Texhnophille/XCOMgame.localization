@@ -13,6 +13,7 @@ Aim — Прицел
 Airstrike — Удар с Воздуха
 Anatomy — Анатомия
 Assassinate — Ликвидация
+Autoloader — Авто-Зарядник
 Battlelord — Повелитель Битвы
 Beatdown — Сбивание с Ног
 Blademaster — Мастер Клинка
@@ -35,6 +36,7 @@ Covert — Скрытный
 Damn Good Ground — Высотное Преимущество
 Dead Eye — Меткий Глаз
 Death from Above — Смерть с Небес
+Deep Cover — Глубокое Прикрытие
 Demolition — Подрыв
 Disarming Strike — Обезоруживающий Удар
 EM Disruptor — ЭМ Подрыв

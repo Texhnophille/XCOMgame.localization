@@ -41,7 +41,7 @@ ADVENT Heavy — Тяжелая Пехота АДВЕНТа
 ADVENT Kommissar — Комиссар АДВЕНТа
 Advent Mag Cannon — Маг-Пушка АДВЕНТа
 ADVENT Mag Rifle — Маг-Винтовка АДВЕНТа
-ADVENT Medi Drone — Меддрон АДВЕНТа
+ADVENT Medi Drone — Медицинский дрон АДВЕНТа
 Advent Plasma Lance — Плазменное Копьё АДВЕНТа
 ADVENT Sentinel — Часовой АДВЕНТа
 ADVENT Sentinel Rifle — Винтовка Часового АДВЕНТа
@@ -78,10 +78,10 @@ Beam Shredder Cannon — Лучевая Разрывная Пушка
 Berserker Prime — Берсерк-Прайм
 Berserker Rush — Бросок Берсерка
 Bind and Crush — Связать и раздавить
-Boa — Удав
-Boa Bind and Crush — Кольца Удава
-Boa Pull — Захват Удава
-Boa Tongue — Язык Удава
+Boa — Вайпера-Удав
+Boa Bind and Crush — Кольца Вайпера-Удава
+Boa Pull — Захват Вайпера-Удава
+Boa Tongue — Язык Вайпера-Удава
 Boomer — Бумер
 Breathe Fire — Огненное Дыхание
 Call Reinforcements — Запрос подкреплений
@@ -103,7 +103,7 @@ Codex ICE — Кодекс-ЛЁД
 Codex Prime — Кодекс-Прайм
 Codex Reflexes — Рефлексы Кодекса
 Codex Speed — Скорость Кодекса
-Codex Splitter — Кодекс-Расходник
+Codex Splitter — Кодекс-Разделитель
 Commandeer — Перехват
 Crawler Birth — Рождение Ползуна
 Detonate Explosive — Подорвать Взрывчатку
@@ -138,8 +138,8 @@ Fire Spit — Огненный Плевок
 Fire Tazer — Выстрелить Тазером
 Firebomb — Огненная Бомба
 Firebreath — Огненное дыхание
-Firestarter — Поджигатель
-Firestarter Prime — Поджигатель-Прайм
+Firestarter — Берсерк-Поджигатель
+Firestarter Prime — Берсерк-Поджигатель-Прайм
 Flash Rain — Сверкающий Дождь
 Gatekeeper Prime — Привратник-Прайм
 Gatekeepers Call — Зов Привратника
@@ -163,8 +163,8 @@ Lifedrain Attack — Вытягивание жизни
 Light'Em Up — Свинцовый Дождь
 Lost Boomer — Сгинувший-Бумер
 Mag Shredder Cannon — Разрывная Маг-Пушка
-Mamba — Мамба
-Mamba Boltcaster — Стреломёт Мамбы
+Mamba — Вайпер-Мамба
+Mamba Boltcaster — Стреломёт Вайпера-Мамбы
 Mindspin - minor — Малое помутнение разума
 Mindspin — Помутнение Разума
 Mindspin and Mark — Помутнение Разума и Метка
@@ -173,13 +173,13 @@ Muton Captain — Мутон-Капитан
 Muton Champion — Мутон-Поборник
 Muton Infector — Мутон-Отравитель
 Muton Prime — Мутон-Прайм
-Muton Pyro — Мутон-Пиро
+Muton Pyro — Мутон-Выжигатель
 Personal Shield — Энергетический Щит
-Puppet — Кукла
+Puppet — Марионетка
 Puppeteering — Кукловодство
 Repair — Ремонт
-Sectoid Mindbender — Сектоид-Иллюзионист
-Sectoid Prime Mindbender — Сектоид-Иллюзионист Прайм
+Sectoid Mindbender — Сектоид-Мозголом
+Sectoid Prime Mindbender — Сектоид-Мозголом Прайм
 Sectoid Prime Puppeteer — Сектоид-Кукловод Прайм
 Sectoid Prime Soldier — Сектоид-Солдат Прайм
 Sectoid Puppeteer — Сектоид-Кукловод
@@ -196,8 +196,8 @@ Spawn Crawler — Родить Ползуна
 Spawn Drone — Родить Трутня
 Spawn Hunter — Родить Охотника
 Spawn Hunterkiller — Родить Истребителя
-Spectre Prime — Спектр-Прайм
-Spectre Speed — Скорость Спектра
+Spectre Prime — Призрак-Прайм
+Spectre Speed — Скорость Призрака
 Spotter Drone — Дрон-Наводчик
 Spotter MEC — МЭК-Наводчик
 Spotter Sectopod — Сектопод-Наводчик
@@ -207,14 +207,15 @@ Superheavy Turret Cannon — Пушка Сверхтяжелой Турели
 Tactical Fire — Тактическая Стрельба
 Tazer Pistol — Пистолет-Тазер
 Turret Cannon — Пушка Турели
+Viper — Вайпер
 Viper Agility — Змеиная ловкость
-Viper Plasma Rifle — Плазменная Винтовка Гадюки
-Viper Prime — Гадюка-Прайм
-Viper Prime Pull — Захват Гадюки-Прайм
-Viper Prime Tongue — Язык Гадюки-Прайм
+Viper Plasma Rifle — Плазменная Винтовка Вайпера
+Viper Prime — Вайпер-Прайм
+Viper Prime Pull — Захват Вайпера-Прайм
+Viper Prime Tongue — Язык Вайпера-Прайм
 War Cry — Боевой Клич
 Will of the Swarm — Воля Роя
-Wyvern — Виверна
+Wyvern — Вайпер-Виверна
 Zombie Brute — Ужасный Зомби
 Zombie Leaper — Зомби-Прыгун
 Zombie Revenant — Зомби-Ревенант

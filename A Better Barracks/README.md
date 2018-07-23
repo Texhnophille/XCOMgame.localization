@@ -73,6 +73,7 @@ Multitargeting — Мультинаведение
 Nova — Нова
 Operative — Оперативник
 Overdrive — Форсаж
+Overwatch (Heavy weapon) — Боеготовность (Тяжёлое оружие)
 Paint Target — Подсветка Цели
 Parkour — Паркур
 Perk — Способность

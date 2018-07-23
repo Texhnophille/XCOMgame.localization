@@ -107,6 +107,8 @@ Shredder — Дырокол
 Sidearm Specialist — Спец по Личному Оружию
 Slash — Удар Мечом
 Slug Shot — Жакан
+Smartgun — Смартган
+Smart Overwatch — Быстрая боеготовность
 Smoke and Mirrors — Туманные Берега
 Spare Battery — Запасная Батарея
 Spray — Вразлёт

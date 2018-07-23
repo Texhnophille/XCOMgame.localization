@@ -32,9 +32,9 @@ LocHelpText="Shoot at a target. Will light the target on fire if not immune. Can
 LocLongDescription="Firing the primary weapon always ends a unit's turn. Fire immune enemies aren't affected by this shot at all. Does not count as a headshot on the Lost."
 
 [SniperRifleOverwatch X2AbilityTemplate]
-LocFriendlyName="Overwatch (Heavy weapon)"
-LocHelpText="Fire on the first enemy that moves within your line of sight, with a penalty to to aim. Requires two actions."
-LocLongDescriptionWhenConcealed="Heavy weapons require two actions to fire."
+LocFriendlyName="Боеготовность (Тяжёлое оружие)"
+LocHelpText="Выстрелить со штрафом к меткости в первого движущегося противника в поле вашего зрения. Требует двух действий."
+LocLongDescriptionWhenConcealed="Тяжёлые виды вооружения требуют двух очков действия для стрельбы."
 
 [XMBExample_AbsolutelyCritical X2AbilityTemplate]
 LocFriendlyName="Стопроцентно Критический"

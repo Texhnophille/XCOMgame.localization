@@ -43,10 +43,10 @@ LocHelpText="Вы получаете дополнительные 50% к ваш�
 LocLongDescription="Вы получаете дополнительные 50% к шансу критического выстрела при атаке с фланга."
 
 [XMBExample_AdrenalineSurge X2AbilityTemplate]
-LocFriendlyName="Adrenaline Surge"
-LocFlyOverText="Adrenaline Surge"
-LocHelpText="When you get a kill, you and nearby friendly units get 10 Crit chance and 3 Mobility until the end of your turn."
-LocLongDescription="When you get a kill, you and nearby friendly units get 10 Crit chance and 3 Mobility until the end of your turn."
+LocFriendlyName="Всплеск Адреналина"
+LocFlyOverText="Всплеск Адреналина"
+LocHelpText="Когда вы убиваете противника, у вас и у ближайших к вам союзников увеличивается шанс критического удара на 10 и мобильность на 3 до конца вашего хода."
+LocLongDescription="Когда вы убиваете противника, у вас и у ближайших к вам союзников увеличивается шанс критического удара на 10 и мобильность на 3 до конца вашего хода."
 
 [XMBExample_ArcticWarrior X2AbilityTemplate]
 LocFriendlyName="Arctic Warrior"

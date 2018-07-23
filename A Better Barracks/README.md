@@ -7,6 +7,7 @@
 Absolutely Critical — Стопроцентно Критический
 Absorption Field — Поглощающее Поле
 Adaptive Aim — Адаптивный Прицел
+Adrenaline Surge — Всплеск Адреналина
 Agent — Агент
 Aid Protocol — Протокол Поддержки
 Aim — Прицел

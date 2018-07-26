@@ -116,6 +116,7 @@ Spare Battery — Запасная Батарея
 Spray — Вразлёт
 Squadsight — Общий Вид
 Steady Hands — Твердая Рука
+Strafing Shot — Беглый Выстрел
 Street Sweeper — Чистильщик
 Strike — Удар
 Stun — Оглушение

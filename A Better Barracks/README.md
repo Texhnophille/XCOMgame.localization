@@ -85,6 +85,7 @@ Pump Action — Помповик
 Rainmaker — Ливень
 Rapid Fire — Беглый Огонь
 Rapid Targeting — Быстрое Наведение
+Reactive Fire — Реактивная Стрельба
 Reaper — Жнец
 Reckoning — Возмездие
 Repair — Ремонт

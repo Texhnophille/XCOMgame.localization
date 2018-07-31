@@ -112,6 +112,7 @@ Slug Shot — Жакан
 Smartgun — Смартган
 Smart Overwatch — Быстрая боеготовность
 Smoke and Mirrors — Туманные Берега
+Snapshot — Выстрел Навскидку
 Spare Battery — Запасная Батарея
 Spray — Вразлёт
 Squadsight — Общий Вид

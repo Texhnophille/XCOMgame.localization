@@ -13,6 +13,8 @@ Aid Protocol — Протокол Поддержки
 Aim — Прицел
 Airstrike — Удар с Воздуха
 Anatomy — Анатомия
+Arctic Warrior — Зимний Солдат
+Assassin — Убийца
 Assassinate — Ликвидация
 Autoloader — Авто-Зарядник
 Battlelord — Повелитель Битвы
@@ -23,11 +25,13 @@ Blast Padding — Противоударная Подкладка
 Bombard — Бомбардир
 Both Barrels — Два Ствола
 Bullet Swarm — Свинцовый Дождь
+Bull Rush — Свирепый Натиск
 Bulwark — Бастион
 Capacitor Discharge — Разряд Конденсатора
 Center Mass — Центр Тяжести
 Chain Lightning — Цепная Молния
 Chain Shot — Двойной Выстрел
+Close and Personal — Лицом к лицу
 Combat Fitness — Боевая Подготовка
 Combat Protocol — Боевой Протокол
 Combatives — Задира
@@ -85,7 +89,7 @@ Pump Action — Помповик
 Rainmaker — Ливень
 Rapid Fire — Беглый Огонь
 Rapid Targeting — Быстрое Наведение
-Reactive Fire — Реактивная Стрельба
+Reactive Fire — Ответный Огонь
 Reaper — Жнец
 Reckoning — Возмездие
 Repair — Ремонт

@@ -24,6 +24,7 @@ Bladestorm — Мясорубка
 Blast Padding — Противоударная Подкладка
 Bombard — Бомбардир
 Both Barrels — Два Ствола
+Bulletstorm — Град Пуль
 Bullet Swarm — Свинцовый Дождь
 Bull Rush — Свирепый Натиск
 Bulwark — Бастион
@@ -49,6 +50,7 @@ Ever Vigilant — Всегда Начеку
 Face Off — Перестрелка
 Fan Fire — Расстрел
 Field Medic — Полевой Медик
+Fire And Advance — Передислокация
 Fire Heavy Weapon — Стрельба из тяжёлого оружия
 Flammenwerfer — Огнебой
 Focus — Внимание
@@ -57,6 +59,7 @@ Hail of Bullets — Шквальный Огонь
 Hamstring — Подрезка Сухожилий
 Haywire Protocol — Протокол Взлома
 Heavy Ordnance — Тяжелое Вооружение
+Hidden Reserves — Второе Дыхание
 Hidef Holo — Наведение Высокой Четкости
 High Voltage — Высокое Напряжение
 Holotargeting — Голографическая Наводка
@@ -75,11 +78,15 @@ Lockdown — Блокировка
 Lone Wolf — Волк-Одиночка
 Low Profile — Низкий Профиль
 Mayhem — Хаос
+Mine Layer — Миномётчик
 Multitargeting — Мультинаведение
+Nimble — Подвижность
+Nimble Hands — Ловкость Рук
 Nova — Нова
 Operative — Оперативник
 Overdrive — Форсаж
 Overwatch (Heavy weapon) — Боеготовность (Тяжёлое оружие)
+Pack Rat — Барахольщик
 Paint Target — Подсветка Цели
 Parkour — Паркур
 Perk — Способность
@@ -95,16 +102,19 @@ Reaper — Жнец
 Reckoning — Возмездие
 Repair — Ремонт
 Restoration — Восстановление
+Reverse Engineering — Инженерный Анализ
 Revival Protocol — Протокол Восстановления
 Riot Control — Борьба с беспорядками
 Rocketeer — Ракетчик
 Run and Gun — Стрельба на Бегу
 Run and Slice — Удар с Разбега
+Runner — Бегун
 Rupture — Разрыв
 Saboteur — Диверсант
 Sacrifice — Жертва
 Salvo — Залп
 Saturation Fire — Массированный Огонь
+Scanner — Наблюдатель
 Scanning Protocol — Протокол Сканирования
 Scout — Разведчик
 Scout Rifle — Разведвинтовка
@@ -133,6 +143,8 @@ Suppression — Подавление
 Sustain — Спасение
 Tactical Rigging — Тактическая Разгрузка
 Tactical Sense — Тактическое Чутьё
+Take Under — Удар по больному
+Taunt — Насмешка
 Tear Down — Разрушитель
 Threat Assessment — Оценка Угрозы
 Tier — Уровень

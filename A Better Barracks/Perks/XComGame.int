@@ -49,16 +49,16 @@ LocHelpText="Когда вы убиваете противника, у вас и
 LocLongDescription="Когда вы убиваете противника, у вас и у ближайших к вам союзников увеличивается шанс критического удара на 10 и мобильность на 3 до конца вашего хода."
 
 [XMBExample_ArcticWarrior X2AbilityTemplate]
-LocFriendlyName="Arctic Warrior"
-LocFlyOverText="Arctic Warrior"
-LocHelpText="<Ability:+Defense/> Defense and <Ability:+Mobility/> Mobility due to climate."
-LocLongDescription="You gain <Ability:+Defense/> Defense and <Ability:+Mobility/> Mobility in cold climates."
+LocFriendlyName="Зимний Солдат"
+LocFlyOverText="Зимний Солдат"
+LocHelpText="Добавляет <Ability:+Defense/> Защиты и <Ability:+Mobility/> Мобильности."
+LocLongDescription="Вы получаете <Ability:+Defense/> Защиты и <Ability:+Mobility/> Мобильности в холодном климате."
 
 [XMBExample_Assassin X2AbilityTemplate]
-LocFriendlyName="Assassin"
-LocFlyOverText="Assassin"
-LocHelpText="When you kill a flanked or uncovered enemy with your <Ability:WeaponName/>, you gain concealment."
-LocLongDescription="When you kill a flanked or uncovered enemy with your <Ability:WeaponName/>, you gain concealment."
+LocFriendlyName="Убийца"
+LocFlyOverText="Убийца"
+LocHelpText="Когда вы убиваете врага с фланга или врага, лишённого укрытия, с помощью вашего основного оружия, вы входите в режим сокрытия."
+LocLongDescription="Когда вы убиваете врага с фланга или врага, лишённого укрытия, с помощью вашего основного оружия, вы входите в режим сокрытия."
 
 [XMBExample_BulletSwarm X2AbilityTemplate]
 LocFriendlyName="Свинцовый Дождь"
@@ -67,22 +67,22 @@ LocHelpText="Первое действие стрельбы из вашего о
 LocLongDescription="Первое действие стрельбы из вашего оружия больше не завершает ваш ход."
 
 [XMBExample_BullRush X2AbilityTemplate]
-LocFriendlyName="Bull Rush"
-LocFlyOverText="Bull Rush"
-LocHelpText="Make an unarmed melee attack that stuns the target. Whenever you take damage, this ability's cooldown resets."
-LocLongDescription="Make an unarmed melee attack that stuns the target. Whenever you take damage, this ability's cooldown resets."
+LocFriendlyName="Свирепый Натиск"
+LocFlyOverText="Свирепый Натиск"
+LocHelpText="Совершить атаку без применения оружия, чтобы оглушить цель. Когда вы получаете урон, перезарядка этой способности сбрасывается."
+LocLongDescription="Совершить атаку без применения оружия, чтобы оглушить цель. Когда вы получаете урон, перезарядка этой способности сбрасывается."
 
 [XMBExample_CloseAndPersonal X2AbilityTemplate]
-LocFriendlyName="Close and Personal"
-LocFlyOverText="Close and Personal"
-LocHelpText="The first standard shot made within 4 tiles of the target does not cost an action."
-LocLongDescription="The first standard shot made within 4 tiles of the target does not cost an action."
+LocFriendlyName="Лицом к лицу"
+LocFlyOverText="Лицом к лицу"
+LocHelpText="Первое действие стрельбы, совершённое в радиусе 4 клеток от цели, не отнимает очко действия."
+LocLongDescription="Первое действие стрельбы, совершённое в радиусе 4 клеток от цели, не отнимает очко действия."
 
 [XMBExample_CloseCombatSpecialist X2AbilityTemplate]
-LocFriendlyName="Reactive Fire"
-LocFlyOverText="Reactive Fire"
-LocHelpText="Confers a reaction shot against any enemy who closes to within 4 tiles. Does not require Overwatch and can trigger multiple times per enemy."
-LocLongDescription="Confers a reaction shot against any enemy who closes to within 4 tiles. Does not require Overwatch and can trigger multiple times per enemy."
+LocFriendlyName="Ответный Огонь"
+LocFlyOverText="Ответный Огонь"
+LocHelpText="Совершить ответный выстрел в противника, приближающегося к вам на расстояние 4 клеток. Не требует режима Боеготовности и может срабатывать несколько раз на одного и того же врага."
+LocLongDescription="Совершить ответный выстрел в противника, приближающегося к вам на расстояние 4 клеток. Не требует режима Боеготовности и может срабатывать несколько раз на одного и того же врага."
 
 [XMBExample_DamnGoodGround X2AbilityTemplate]
 LocFriendlyName="Высотное Преимущество"

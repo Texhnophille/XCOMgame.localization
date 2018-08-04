@@ -50,6 +50,7 @@ Face Off — Перестрелка
 Fan Fire — Расстрел
 Field Medic — Полевой Медик
 Fire Heavy Weapon — Стрельба из тяжёлого оружия
+Flammenwerfer — Огнебой
 Focus — Внимание
 Guardian — Страж
 Hail of Bullets — Шквальный Огонь
@@ -106,6 +107,7 @@ Salvo — Залп
 Saturation Fire — Массированный Огонь
 Scanning Protocol — Протокол Сканирования
 Scout — Разведчик
+Scout Rifle — Разведвинтовка
 Serial — Серия
 Shadowmelt — Уход в Тень
 Shadowstep — Теневой Шаг

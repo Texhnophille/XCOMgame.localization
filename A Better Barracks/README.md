@@ -24,6 +24,7 @@ Bladestorm — Мясорубка
 Blast Padding — Противоударная Подкладка
 Bombard — Бомбардир
 Both Barrels — Два Ствола
+Both Barrels — Два Ствола
 Bulletstorm — Град Пуль
 Bullet Swarm — Свинцовый Дождь
 Bull Rush — Свирепый Натиск
@@ -92,6 +93,7 @@ Parkour — Паркур
 Perk — Способность
 Phantom — Фантом
 Pin Down — Прижать к земле
+Point Blank — В Упор
 Precision Shot — Точный Выстрел
 Pump Action — Помповик
 Rainmaker — Ливень
@@ -100,6 +102,7 @@ Rapid Targeting — Быстрое Наведение
 Reactive Fire — Ответный Огонь
 Reaper — Жнец
 Reckoning — Возмездие
+Remote Hack — Удаленный Взлом
 Repair — Ремонт
 Restoration — Восстановление
 Reverse Engineering — Инженерный Анализ

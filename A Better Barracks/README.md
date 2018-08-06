@@ -18,6 +18,7 @@ Assassin — Убийца
 Assassinate — Ликвидация
 Autoloader — Авто-Зарядник
 Battlelord — Повелитель Битвы
+Beam weapons - Плазменное оружие
 Beatdown — Сбивание с Ног
 Blademaster — Мастер Клинка
 Bladestorm — Мясорубка

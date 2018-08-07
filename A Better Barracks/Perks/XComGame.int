@@ -732,3 +732,151 @@ LocHelpText="Sprint to an allies side and heal up to 4 HP. Does not affect robot
 LocFriendlyName="Medic Sprint (Nanokit)"
 LocLongDescription="Sprint to an allies side and heal up to 6 HP. Does not affect robotic allies."
 LocHelpText="Sprint to an allies side and heal up to 6 HP. Does not affect robotic allies."
+
+[TakeUnder X2AbilityTemplate]
+LocFriendlyName="Take Under"
+LocLongDescription="A Slash attack with your sword that always hits and doesn't end the turn. Can only be used against wounded targets on 3 or less health."
+LocHelpText="Finish off an enemy."
+LocFlyOverText="Take Under"
+LocPromotionPopupText="<Bullet/>Mechanically this works just like the standard slash.<br/><Bullet/>Dashing to a target and slashing him will still only cost one action, but you need to have two actions currently available to dash.<br/>"
+
+[Resilience X2AbilityTemplate]
+LocFriendlyName="Resilience"
+LocLongDescription="This soldier is immune to critical hits."
+LocHelpText="Confers immunity to critical hits."
+
+[NimbleHands X2AbilityTemplate]
+LocFriendlyName="Nimble Hands"
+LocLongDescription="As a free action, reload your weapon. Can be used every 3 turns."
+LocHelpText="Reload your weapon as a free action."
+LocFlyOverText="Nimble Hands"
+
+[MineLayer X2AbilityTemplate]
+LocFriendlyName="Minelayer"
+LocHelpText="Provides one free proximity mine."
+LocLongDescription="Provides one free proximity mine."
+
+[Bulletstorm X2AbilityTemplate]
+LocFriendlyName="Bulletstorm"
+LocLongDescription="For two actions, fire three times at an enemy. Each shot suffers an Aim penalty of -20."
+LocHelpText="For two actions, fire three times at an enemy. Each shot suffers an Aim penalty of -20."
+LocFlyOverText="Bulletstorm"
+
+[FreeScanner X2AbilityTemplate]
+LocFriendlyName="Scanner"
+LocHelpText="Every 4 turns, as a free action, you can use a Battlescanner."
+LocLongDescription="Every 4 turns, as a free action, you can use a Battlescanner."
+
+[ScoutScanner X2AbilityTemplate]
+LocFriendlyName="Scanner"
+LocHelpText="Every 4 turns, as a free action, you can use a Battlescanner."
+LocLongDescription="Every 4 turns, as a free action, you can use a Battlescanner."
+
+[Parkour X2AbilityTemplate]
+LocFriendlyName="Parkour"
+LocHelpText="This soldier is able to climb walls."
+LocLongDescription="This soldier is able to climb walls."
+
+[ShootAndMove X2AbilityTemplate]
+LocFriendlyName="Fire And Advance"
+LocLongDescription="For two actions, first fire your primary weapon, then move. 3 turns cooldown."
+LocHelpText="Fire a shot at a target and move."
+LocPromotionPopupText="<Bullet/>This ability is particularly useful with a cannon or sniper rifle.<br/><Bullet/>Counts as a headshot against the Lost."
+
+[Taunt X2AbilityTemplate]
+LocFriendlyName="Taunt"
+LocLongDescription="Try to draw enemy fire towards you. Decrease Defense by 30, and increase Dodge by 70. Is used like Hunker Down, ending the turn."
+LocHelpText="Try to draw enemy fire towards you. Decrease Defense by 30, and increase Dodge by 70."
+LocFlyOverText="Taunt"
+LocPromotionPopupText="<Bullet/>Especially useful on soldiers with high armor to mitigate the incoming damage.<br/><Bullet/>Is used like Hunker Down, but doesn't require cover. It also doesn't interact with Aim or Deep Cover."
+
+[HiddenReserves X2AbilityTemplate]
+LocFriendlyName="Hidden Reserves"
+LocLongDescription="Once per mission, as a free action, set all your cooldowns on abilities back to zero."
+LocHelpText="Reset all your ability cooldowns."
+LocFlyOverText="Hidden Reserves"
+
+[Runner X2AbilityTemplate]
+LocFriendlyName="Runner"
+LocFlyOverText="Runner"
+LocLongDescription="You have +3 mobility."
+LocHelpText="You have +3 mobility."
+LocPromotionPopupText="<Bullet/> This is an unconditional passive bonus."
+
+[XMBExample_Packmaster X2AbilityTemplate]
+LocFriendlyName="Packrat"
+LocLongDescription="You gain an additional charge on all your utility items. This includes grenades, but not heavy weapons."
+LocHelpText="You gain additional item charges."
+
+[SkirmisherInterrupt X2AbilityTemplate]
+LocFriendlyName="Interrupt"
+LocLongDescription="A powerful form of Overwatch. Instead of firing automatically, perform any single action. 5 charges, 2 turn cooldown."
+LocHelpText="A powerful form of Overwatch. Instead of firing automatically, perform any single action."
+LocFlyOverText="Interrupt"
+LocPromotionPopupText="<Bullet/> Some actions are not available during Interrupt, like Overwatch. <br/>"
+
+[SkirmisherInterruptInput X2AbilityTemplate]
+LocFriendlyName="Interrupt"
+LocLongDescription="A powerful form of Overwatch. Instead of firing automatically, perform any single action. 5 charges, 2 turn cooldown."
+LocHelpText="A powerful form of Overwatch. Instead of firing automatically, perform any single action."
+LocFlyOverText="Interrupt"
+LocPromotionPopupText="<br/><Bullet/> Some actions are not available during Interrupt, like Overwatch. <br/>"
+
+[DriveOut X2AbilityTemplate]
+LocFriendlyName="Drive Out"
+LocLongDescription="Strike an enemy with the butt of your weapon, dealing only little damage, but knocking the target back, possibly out of cover."
+LocHelpText="Deals 2 damage, knocks back target."
+LocFlyOverText="Drive Out"
+
+[TriggerHappy X2AbilityTemplate]
+LocFriendlyName="Trigger Happy"
+FriendlyName="Trigger Happy"
+LocFlyOverText="Trigger Happy"
+LocLongDescription="Allows to use Spray with all weapons. On cannons, reduces the aim penalty on Spray from -20 to -15."
+LocHelpText="Allows to use Spray with all weapons. On cannons, reduces the aim penalty on Spray from -20 to -15."
+LocPromotionPopupText="<Bullet/> Spray usually allows to shoot a cannon for one action and without ending the turn, but at a -20 aim penalty.<br/><Bullet/> This perk reduces this aim penalty to -15 for cannons and allows to use Spray on rifles, shotguns and sniper rifles."
+
+[TriggerHappyBonus X2AbilityTemplate]
+LocFriendlyName="Trigger Happy"
+FriendlyName="Trigger Happy"
+LocFlyOverText="Trigger Happy"
+LocLongDescription="Allows to use Spray with all weapons. On cannons, reduces the aim penalty on Spray from -20 to -15."
+LocHelpText="Allows to use Spray with all weapons. On cannons, reduces the aim penalty on Spray from -20 to -15."
+LocPromotionPopupText="<Bullet/> Spray usually allows to shoot a cannon for one action and without ending the turn, but at a -20 aim penalty.<br/><Bullet/> This perk reduces this aim penalty to -15 for cannons and allows to use Spray on rifles, shotguns and sniper rifles."
+
+[DrivenByVengeance X2AbilityTemplate]
+LocFriendlyName="Driven By Vengeance"
+LocLongDescription="Whenever you get hit, you gain 5 aim and 10 crit for the next turn. Also, you gain +3 Will permanently."
+LocHelpText="Whenever you get hit, you gain 5 aim and 10 crit for the next turn. Also, you gain +3 Will permanently."
+LocFlyOverText="Vengeant"
+LocPromotionPopupText="<br/><Bullet/>The Will bonus persists through missions.<br/><Bullet/>The aim and crit bonuses do not stack.<br/>"
+
+[Breach X2AbilityTemplate]
+LocFriendlyName="Breach"
+LocHelpText="Fire at an enemy. Should you miss, you rip apart the target's cover. Uses 2 ammo."
+LocLongDescription="Fire at an enemy, using 2 ammo. Should you miss, you destroy the target's cover instead."
+
+[Multitasking X2AbilityTemplate]
+LocFriendlyName="Multitasking"
+LocHelpText="Whenever you Aid Protocol a target, also Aid Protocol yourself."
+LocLongDescription="Whenever you Aid Protocol a target, you also Aid Protocol yourself. This includes Threat Assessment, if available."
+
+[LowCoverIsNoCover X2AbilityTemplate]
+LocFriendlyName="Perforating Shots"
+LocLongDescription="Your shots ignore all defense from half cover."
+LocHelpText="Your shots ignore all defense from half cover."
+LocPromotionPopupText="<Bullet/> Against targets in half cover, provides an aim bonus of +20, cancelling out the defense.<br/>"
+
+[TrialByFire X2AbilityTemplate]
+LocFriendlyName="Trial By Fire"
+LocLongDescription="Permanently gain +1 Aim and +1 Will at the start of each mission."
+LocHelpText="Gain 1 Aim and 1 Will at the start of each mission."
+LocPromotionPopupText="<Bullet/>Triggers at the start of each mission.<br/>"
+LocFlyOverText="Trial By Fire: +1 aim/will"
+
+[DenseSmoke X2AbilityTemplate]
+LocFriendlyName="Dense Smoke"
+LocFlyOverText="Dense Smoke"
+LocLongDescription="Your smoke grenades confer an additional 20 defense."
+LocHelpText="Your smoke grenades confer an additional 20 defense."
+LocPromotionPopupText="<Bullet/> Your smoke grenades confer an additional 20 defense to those within the smoke, for a total of 40.<br/>"

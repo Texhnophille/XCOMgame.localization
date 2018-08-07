@@ -26,6 +26,7 @@ Blast Padding — Противоударная Подкладка
 Bombard — Бомбардир
 Both Barrels — Два Ствола
 Both Barrels — Два Ствола
+Breach — Пролом
 Bulletstorm — Град Пуль
 Bullet Swarm — Свинцовый Дождь
 Bull Rush — Свирепый Натиск
@@ -47,7 +48,10 @@ Dead Eye — Меткий Глаз
 Death from Above — Смерть с Небес
 Deep Cover — Глубокое Укрытие
 Demolition — Подрыв
+Dense Smoke — Густой Дым
 Disarming Strike — Обезоруживающий Удар
+Drive Out — Вышибала
+Driven by Vengeance — Жажда Мести
 EM Disruptor — ЭМ Подрыв
 Esprit de Corps — Боевой Дух
 Ever Vigilant — Всегда Начеку
@@ -87,6 +91,7 @@ Mayhem — Хаос
 Mine Layer — Миномётчик
 Moving Target — Подвижная Мишень
 Multitargeting — Мультинаведение
+Multitasking — Мультизадачность
 Nimble — Подвижность
 Nimble Hands — Ловкость Рук
 Nova — Нова
@@ -97,6 +102,7 @@ Pack Rat — Барахольщик
 Paint Target — Подсветка Цели
 Parkour — Паркур
 Perk — Способность
+Perforating Shots — Пробивные Выстрелы
 Phantom — Фантом
 Pin Down — Прижать к земле
 Point Blank — В Упор
@@ -160,6 +166,8 @@ Tear Down — Разрушитель
 Threat Assessment — Оценка Угрозы
 Tier — Уровень
 Torture — Пытка
+Trial by Fire — Испытание Огнём
+Trigger Happy — Сорвиголова
 Untouchable — Неприкасаемый
 Vital Point Targeting — Поиск Уязвимостей
 Volatile Mix — Гремучая Смесь

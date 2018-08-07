@@ -42,12 +42,14 @@ Conceal — Скрытность
 Covering Fire — Огневая Поддержка
 Covert — Скрытный
 Damn Good Ground — Высотное Преимущество
+Danger Zone — Опасная Зона
 Dead Eye — Меткий Глаз
 Death from Above — Смерть с Небес
-Deep Cover — Глубокое Прикрытие
+Deep Cover — Глубокое Укрытие
 Demolition — Подрыв
 Disarming Strike — Обезоруживающий Удар
 EM Disruptor — ЭМ Подрыв
+Esprit de Corps — Боевой Дух
 Ever Vigilant — Всегда Начеку
 Face Off — Перестрелка
 Fan Fire — Расстрел
@@ -64,6 +66,7 @@ Heavy Ordnance — Тяжелое Вооружение
 Hidden Reserves — Второе Дыхание
 Hidef Holo — Наведение Высокой Четкости
 High Voltage — Высокое Напряжение
+Hit and Run — Бей и Беги
 Holotargeting — Голографическая Наводка
 Hunter Protocol — Протокол Охоты
 Implacable — Неприкаянный
@@ -79,8 +82,10 @@ Lightning Hands — Руки-Молнии
 Lockdown — Блокировка
 Lone Wolf — Волк-Одиночка
 Low Profile — Низкий Профиль
+Magnum — Магнум
 Mayhem — Хаос
 Mine Layer — Миномётчик
+Moving Target — Подвижная Мишень
 Multitargeting — Мультинаведение
 Nimble — Подвижность
 Nimble Hands — Ловкость Рук

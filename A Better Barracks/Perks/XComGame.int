@@ -157,16 +157,16 @@ LocHelpText="Your fire attacks deal +1 damage, and your burn effects deal +1 dam
 LocLongDescription="Your fire attacks deal +1 damage, and your burn effects deal +1 damage per turn. You get a free incendiary grenade on each mission."
 
 [XMBExample_ReverseEngineering X2AbilityTemplate]
-LocFriendlyName="Reverse Engineering"
-LocFlyOverText="Reverse Engineering"
-LocHelpText="When you kill an enemy robotic unit you gain a permanent Hacking increase of 5."
-LocLongDescription="When you kill an enemy robotic unit you gain a permanent Hacking increase of 5."
+LocFriendlyName="Инженерный Анализ"
+LocFlyOverText="Инженерный Анализ"
+LocHelpText="Когда вы убиваете роботизированного противника, ваш навык Взлома навсегда увеличивается на 5."
+LocLongDescription="Когда вы убиваете роботизированного противника, ваш навык Взлома навсегда увеличивается на 5."
 
 [XMBExample_Rocketeer X2AbilityTemplate]
-LocFriendlyName="Rocketeer"
-LocFlyOverText="Rocketeer"
-LocHelpText="Your equipped heavy weapon gets an additional use."
-LocLongDescription="Your equipped heavy weapon gets an additional use."
+LocFriendlyName="Ракетчик"
+LocFlyOverText="Ракетчик"
+LocHelpText="Ваше экипированное тяжёлое оружие может быть использовано повторно."
+LocLongDescription="Ваше экипированное тяжёлое оружие может быть использовано повторно."
 
 [XMBExample_SlamFire X2AbilityTemplate]
 LocFriendlyName="Slam Fire"

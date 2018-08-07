@@ -175,22 +175,22 @@ LocHelpText="For the rest of the turn, whenever you get a critical hit with your
 LocLongDescription="For the rest of the turn, whenever you get a critical hit with your <Ability:WeaponName/>, your actions are refunded."
 
 [XMBExample_Sprint X2AbilityTemplate]
-LocFriendlyName="Sprint"
-LocFlyOverText="Sprint"
-LocHelpText="Gain a bonus move action. 2 charges, 1 turn of cooldown."
-LocLongDescription="Gain a bonus move action. 2 charges, 1 turn of cooldown."
+LocFriendlyName="Спринт"
+LocFlyOverText="Спринт"
+LocHelpText="Получить бонусное действие движения. Может использоваться дважды, время перезарядки 1 ход."
+LocLongDescription="Получить бонусное действие движения. Может использоваться дважды, время перезарядки 1 ход."
 
 [XMBExample_SurvivalInstinct X2AbilityTemplate]
-LocFriendlyName="Survival Instinct"
-LocFlyOverText="Survival Instinct"
-LocHelpText="20 Defense and 10 Crit chance due to injury."
-LocLongDescription="Gain 20 Defense and 10 Crit chance while injured."
+LocFriendlyName="Инстинкт Выживания"
+LocFlyOverText="Инстинкт Выживания"
+LocHelpText="Раненый боец получает 20 к Защите и 10 к шансу Критического удара."
+LocLongDescription="Раненый боец получает 20 к Защите и 10 к шансу Критического удара."
 
 [XMBExample_TacticalSense X2AbilityTemplate]
-LocFriendlyName="Tactical Sense"
-LocFlyOverText="Tactical Sense"
-LocHelpText="<Ability:+CurDodge/> Dodge due to visible enemies."
-LocLongDescription="You get 10 Dodge per visible enemy, to a max of 50."
+LocFriendlyName="Тактическое Чутьё"
+LocFlyOverText="Тактическое Чутьё"
+LocHelpText="<Ability:+CurDodge/> Уклонения в зависимости от количества видимых противников."
+LocLongDescription="Вы получаете 10 Уклонения за каждого видимого врага, вплоть до максимума в 50."
 
 [XMBExample_Weaponmaster X2AbilityTemplate]
 LocFriendlyName="Weaponmaster"

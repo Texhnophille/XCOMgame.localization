@@ -141,6 +141,7 @@ Smoke and Mirrors — Туманные Берега
 Snapshot — Выстрел Навскидку
 Spare Battery — Запасная Батарея
 Spray — Вразлёт
+Sprint — Спринт
 Squadsight — Общий Вид
 Steady Hands — Твердая Рука
 Strafing Shot — Беглый Выстрел
@@ -149,6 +150,7 @@ Strike — Удар
 Stun — Оглушение
 Stungunner — Шокер
 Suppression — Подавление
+Survival Instinct — Инстинкт Выживания
 Sustain — Спасение
 Tactical Rigging — Тактическая Разгрузка
 Tactical Sense — Тактическое Чутьё

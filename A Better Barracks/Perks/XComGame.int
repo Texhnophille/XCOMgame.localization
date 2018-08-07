@@ -91,22 +91,22 @@ LocHelpText="Вы получаете дополнительные 10 Метко�
 LocLongDescription="Вы получаете дополнительные 10 Меткости и 10 Защиты против целей, перед которыми имеете преимущество в высоте."
 
 [XMBExample_DangerZone X2AbilityTemplate]
-LocFriendlyName="Danger Zone"
-LocFlyOverText="Danger Zone"
-LocHelpText="The radius of all your grenades is increased by 2."
-LocLongDescription="The radius of all your grenades is increased by 2."
+LocFriendlyName="Опасная Зона"
+LocFlyOverText="Опасная Зона"
+LocHelpText="Площадь поражения для всех ваших гранат увеличена на 2."
+LocLongDescription="Площадь поражения для всех ваших гранат увеличена на 2."
 
 [XMBExample_DeepCover X2AbilityTemplate]
-LocFriendlyName="Deep Cover"
-LocFlyOverText="Deep Cover"
-LocHelpText="If you did not attack this turn, hunker down automatically."
-LocLongDescription="If you did not attack this turn, hunker down automatically."
+LocFriendlyName="Глубокое Укрытие"
+LocFlyOverText="Глубокое Укрытие"
+LocHelpText="Если вы не атаковали в этом ходу, вы автоматически переходите в режим глухой обороны."
+LocLongDescription="Если вы не атаковали в этом ходу, вы автоматически переходите в режим глухой обороны."
 
 [XMBExample_EspritDeCorps X2AbilityTemplate]
-LocFriendlyName="Esprit de Corps"
-LocFlyOverText="Esprit de Corps"
-LocHelpText="<Ability:+Will/> Will and <Ability:+Defense/> Defense."
-LocLongDescription="Squad receives <Ability:+Will/> Will and <Ability:+Defense/> Defense in battle."
+LocFriendlyName="Боевой Дух"
+LocFlyOverText="Боевой Дух"
+LocHelpText="<Ability:+Will/> Воли и <Ability:+Defense/> Защиты."
+LocLongDescription="Отряд получает <Ability:+Will/> Воли и <Ability:+Defense/> Защиты в бою."
 
 [XMBExample_Focus X2AbilityTemplate]
 LocFriendlyName="Внимание"
@@ -115,10 +115,10 @@ LocHelpText="Ваш первый ответный выстрел в этом х�
 LocLongDescription="Ваш первый ответный выстрел в этом ходу всегда попадает в цель."
 
 [XMBExample_HitAndRun X2AbilityTemplate]
-LocFriendlyName="Hit and Run"
-LocFlyOverText="Hit and Run"
-LocHelpText="Move after taking a single action that would normally end your turn."
-LocLongDescription="Move after taking a single action that would normally end your turn."
+LocFriendlyName="Бей и Беги"
+LocFlyOverText="Бей и Беги"
+LocHelpText="Вы можете двигаться после совершения отдельного действия, которое обычно заканчивает ваш ход."
+LocLongDescription="Вы можете двигаться после совершения отдельного действия, которое обычно заканчивает ваш ход."
 
 [XMBExample_InspireAgility X2AbilityTemplate]
 LocFriendlyName="Inspire Agility"
@@ -133,16 +133,16 @@ LocHelpText="Fire your pistol at a target. This attack does not cost an action."
 LocLongDescription="Fire your pistol at a target. This attack does not cost an action."
 
 [XMBExample_Magnum X2AbilityTemplate]
-LocFriendlyName="Magnum"
-LocFlyOverText="Magnum"
-LocHelpText="Your pistol attacks get <Ability:+ToHit/> Aim and deal <Ability:+Damage/> damage."
-LocLongDescription="Your pistol attacks get <Ability:+ToHit/> Aim and deal <Ability:+Damage/> damage."
+LocFriendlyName="Магнум"
+LocFlyOverText="Магнум"
+LocHelpText="Выстрелы из вашего пистолета имеют <Ability:+ToHit/> Меткости и наносят <Ability:+Damage/> урона."
+LocLongDescription="Выстрелы из вашего пистолета имеют <Ability:+ToHit/> Меткости и наносят <Ability:+Damage/> урона."
 
 [XMBExample_MovingTarget X2AbilityTemplate]
-LocFriendlyName="Moving Target"
-LocFlyOverText="Moving Target"
-LocHelpText="You get an additional 30 Defense and 50 Dodge against reaction fire."
-LocLongDescription="You get an additional 30 Defense and 50 Dodge against reaction fire."
+LocFriendlyName="Подвижная Мишень"
+LocFlyOverText="Подвижная Мишень"
+LocHelpText="Вы получаете дополнительные 30 Защиты и 50 Уклонения от ответной стрельбы."
+LocLongDescription="Вы получаете дополнительные 30 Защиты и 50 Уклонения от ответной стрельбы."
 
 [XMBExample_PowerShot X2AbilityTemplate]
 LocFriendlyName="Power Shot"

@@ -62,6 +62,7 @@ Fire And Advance — Передислокация
 Fire Heavy Weapon — Стрельба из тяжёлого оружия
 Flammenwerfer — Огнебой
 Focus — Внимание
+Full Reload — Перезарядка
 Guardian — Страж
 Hail of Bullets — Шквальный Огонь
 Hamstring — Подрезка Сухожилий
@@ -83,6 +84,7 @@ Lacerate — Вскрытие
 Launch Grenade — Выстрел Гранатой
 Lightning Fury — Электрическая Ярость
 Lightning Hands — Руки-Молнии
+Lock And Load — Оружие к бою!
 Lockdown — Блокировка
 Lone Wolf — Волк-Одиночка
 Low Profile — Низкий Профиль
@@ -140,6 +142,7 @@ Shadowstep — Теневой Шаг
 Shadowstrike — Удар из Тени
 Shredder — Дырокол
 Sidearm Specialist — Спец по Личному Оружию
+Single Reload — Зарядить патрон
 Slash — Удар Мечом
 Slug Shot — Жакан
 Smartgun — Смартган

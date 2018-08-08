@@ -151,10 +151,10 @@ LocHelpText="Make an attack that has <Ability:+Crit:XMBExample_PowerShotBonuses/
 LocLongDescription="Make an attack that has <Ability:+Crit:XMBExample_PowerShotBonuses/> crit chance and deals <Ability:+CritDamage:XMBExample_PowerShotBonuses/> damage on crit."
 
 [XMBExample_Pyromaniac X2AbilityTemplate]
-LocFriendlyName="Pyromaniac"
-LocFlyOverText="Pyromaniac"
-LocHelpText="Your fire attacks deal +1 damage, and your burn effects deal +1 damage per turn. You get a free incendiary grenade on each mission."
-LocLongDescription="Your fire attacks deal +1 damage, and your burn effects deal +1 damage per turn. You get a free incendiary grenade on each mission."
+LocFriendlyName="Пироманьяк"
+LocFlyOverText="Пироманьяк"
+LocHelpText="Ваши атаки огнём имеют +1 к урону, и эффекты горения, которые вы накладываете, наносят дополнительно +1 урона за ход. Вы получаете бесплатную зажигательную гранату на каждую миссию."
+LocLongDescription="Ваши атаки огнём имеют +1 к урону, и эффекты горения, которые вы накладываете, наносят дополнительно +1 урона за ход. Вы получаете бесплатную зажигательную гранату на каждую миссию."
 
 [XMBExample_ReverseEngineering X2AbilityTemplate]
 LocFriendlyName="Инженерный Анализ"
@@ -193,10 +193,10 @@ LocHelpText="<Ability:+CurDodge/> Уклонения в зависимости �
 LocLongDescription="Вы получаете 10 Уклонения за каждого видимого врага, вплоть до максимума в 50."
 
 [XMBExample_Weaponmaster X2AbilityTemplate]
-LocFriendlyName="Weaponmaster"
-LocFlyOverText="Weaponmaster"
-LocHelpText="Your <Ability:WeaponName/> attacks deal <Ability:+Damage/> damage."
-LocLongDescription="Your <Ability:WeaponName/> attacks deal <Ability:+Damage/> damage."
+LocFriendlyName="Знаток вооружения"
+LocFlyOverText="Знаток вооружения"
+LocHelpText="Атаки, совершенные при помощи оружия <Ability:WeaponName/> наносят <Ability:+Damage/> урона."
+LocLongDescription="Атаки, совершенные при помощи оружия <Ability:WeaponName/> наносят <Ability:+Damage/> урона."
 
 [XMBExample_ZeroIn X2AbilityTemplate]
 LocFriendlyName="Zero In"
@@ -213,11 +213,11 @@ LocHelpText="Special shot: +30 aim, -30 crit, half damage. Uses both actions."
 LocPromotionPopupText="<Bullet/> This is a special shot in which the soldier adjusts their aim in the middle of an automatic weapon burst, conferring +30 aim and -30 crit and doing half damage.<br/><Bullet/> Consumes <Ability:SelfAmmoCost/> ammo.<br/><Bullet/> Usable once per turn.<br/>"
 
 [DamnGoodGround X2AbilityTemplate]
-LocFriendlyName="Damn Good Ground"
-LocFlyOverText="Damn Good Ground"
-LocLongDescription="Confers +10 aim and +10 defense against targets at a lower elevation."
-LocHelpText="Confers +10 aim and +10 defense against targets at a lower elevation."
-LocPromotionPopupText="<Bullet/> Confers +10 aim and +10 defense against targets at a lower elevation.<br/>"
+LocFriendlyName="Высотное Преимущество"
+LocFlyOverText="Высотное Преимущество"
+LocLongDescription="Даёт +10 Меткости и +10 Защиты против целей, занимающих меньшую высоту."
+LocHelpText="Даёт +10 Меткости и +10 Защиты против целей, занимающих меньшую высоту."
+LocPromotionPopupText="<Bullet/> Даёт +10 Меткости и +10 Защиты против целей, занимающих меньшую высоту<br/>"
 
 [CenterMass X2AbilityTemplate]
 LocFriendlyName="Competent"

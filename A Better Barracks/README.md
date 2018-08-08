@@ -153,6 +153,7 @@ Spare Battery — Запасная Батарея
 Spray — Вразлёт
 Sprint — Спринт
 Squadsight — Общий Вид
+Stabilize and Fire — Прицельный Выстрел
 Steady Hands — Твердая Рука
 Strafing Shot — Беглый Выстрел
 Street Sweeper — Чистильщик

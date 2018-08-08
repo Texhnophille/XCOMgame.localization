@@ -226,11 +226,11 @@ LocLongDescription="You do one additional point of base damage with your primary
 LocHelpText="You do one additional point of base damage with your primary weapon."
 
 [LockAndLoad X2AbilityTemplate]
-LocFriendlyName="Lock And Load"
-LocLongDescription="Reload your primary weapon for free whenever you make a kill. Does not work with shotguns."
-LocHelpText="Free Reload on Kill"
-LocFlyOverText="Lock And Load"
-LocPromotionPopupText="<Bullet/> Reloads the primary weapon immediately after each kill.<br/><Bullet/> Costs no action, also triggers on kills not made with the primary weapon."
+LocFriendlyName="Оружие к бою!"
+LocLongDescription="Ваше оружие перезаряжается автоматически, когда вы убиваете врага. Не работает с дробовиками."
+LocHelpText="Автоматическая перезарядка при убийстве цели"
+LocFlyOverText="Оружие к бою!"
+LocPromotionPopupText="<Bullet/> Ваше основное оружие будет перезаряжаться после каждого убийства.<br/><Bullet/> Не требует действия, срабатывает даже при убийствах, которые совершённых не при помощи основного оружия."
 
 [TacticalFire X2AbilityTemplate]
 LocFriendlyName="Tactical Fire"
@@ -259,24 +259,24 @@ LocHelpText="You gain +3 sight radius from Battlespace."
 LocPromotionPopupText=""
 
 [SingleReload X2AbilityTemplate]
-LocFriendlyName="Single Reload"
-LocHelpText="Reload a single shell into your primary weapon."
-LocFlyOverText="Reloading"
+LocFriendlyName="Зарядить патрон"
+LocHelpText="Зарядить один патрон в ваше основное оружие."
+LocFlyOverText="Перезарядка"
 
 [FullReload X2AbilityTemplate]
-LocFriendlyName="Full Reload"
-LocHelpText="Completely reload your shotgun. Takes two actions."
-LocFlyOverText="Reloading"
+LocFriendlyName="Перезарядка"
+LocHelpText="Полностью перезарядить обойму. Требует двух очков действия."
+LocFlyOverText="Перезарядка"
 
 [FullReloadCannon X2AbilityTemplate]
-LocFriendlyName="Full Reload"
-LocHelpText="Reload your cannon. Takes two actions."
-LocFlyOverText="Reloading"
+LocFriendlyName="Перезарядка"
+LocHelpText="Перезарядить орудие. Требует двух очков действия."
+LocFlyOverText="Перезарядка"
 
 [StrafingShot X2AbilityTemplate]
-LocFriendlyName="Strafing Shot"
-LocLongDescription="If you fire your weapon, you are granted a single bonus move at half your movement speed."
-LocHelpText="Fire a shot at a target and half-move."
+LocFriendlyName="Беглый Выстрел"
+LocLongDescription="Если вы совершаете выстрел из оружия, вы получаете одноразовое бонусное действие движения на половину от вашей обычной дистанции."
+LocHelpText="Выстрелить в цель и совершить неполное движение."
 
 [DoubleShot X2AbilityTemplate]
 LocFriendlyName="Double Shot"

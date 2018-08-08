@@ -108,6 +108,7 @@ Pin Down — Прижать к земле
 Point Blank — В Упор
 Precision Shot — Точный Выстрел
 Pump Action — Помповик
+Pyromaniac — Пироманьяк
 Rainmaker — Ливень
 Rapid Fire — Беглый Огонь
 Rapid Targeting — Быстрое Наведение
@@ -173,6 +174,7 @@ Vital Point Targeting — Поиск Уязвимостей
 Volatile Mix — Гремучая Смесь
 Volt — Вольт
 Walk Fire — Пристрелка
+Weaponmaster — Знаток вооружения
 Whiplash — Удар Хлыстом
 Wrecking Ball — Таран
 Zap — Разряд

@@ -108,12 +108,6 @@ LocFlyOverText="Боевой Дух"
 LocHelpText="<Ability:+Will/> Воли и <Ability:+Defense/> Защиты."
 LocLongDescription="Отряд получает <Ability:+Will/> Воли и <Ability:+Defense/> Защиты в бою."
 
-[XMBExample_Focus X2AbilityTemplate]
-LocFriendlyName="Внимание"
-LocFlyOverText="Внимание"
-LocHelpText="Ваш первый ответный выстрел в этом ходу всегда попадает в цель."
-LocLongDescription="Ваш первый ответный выстрел в этом ходу всегда попадает в цель."
-
 [XMBExample_HitAndRun X2AbilityTemplate]
 LocFriendlyName="Бей и Беги"
 LocFlyOverText="Бей и Беги"

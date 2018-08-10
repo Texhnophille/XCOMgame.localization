@@ -61,7 +61,7 @@ Field Medic — Полевой Медик
 Fire And Advance — Передислокация
 Fire Heavy Weapon — Стрельба из тяжёлого оружия
 Flammenwerfer — Огнебой
-Focus — Внимание
+Focus — Внимание (УДАЛЕНО ИЗ ИГРЫ)
 Full Reload — Перезарядка
 Guardian — Страж
 Hail of Bullets — Шквальный Огонь

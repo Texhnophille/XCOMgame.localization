@@ -223,51 +223,51 @@ DescriptionTitle="Предметы: Осколочные и Противопех
 DescriptionEntry="Базовая осколочная граната из оригинальной игры теперь разделена на два вида, каждый из которых специализируется на своей области.\n\nОсколочная граната\nОсколочная граната наносит 1-3 урона, но гарантирует разрушить любое укрытие и прочие объекты окружения в радиусе взрыва. Они также разрывают 2 очка брони.\n\nПротивопехотная граната\nПротивопехотная граната функционирует во многом диаметрально противоположно осколочной. Наносит больше урона целям (3-5), но никакого урона — объектам окружения и укрытию. Противопехотные гранаты пробивают 2 очка брони, что гарантирует нанесение полного урона." 
 
 [ITVests X2EncyclopediaTemplate]
-ListTitle="Items: Vests"
-DescriptionTitle="Items: Vests"
-DescriptionEntry="New vest items in A Better Barracks:\n\nTravel Light\nInstead of equipping something in an item slot, soldiers have the option to travel light. By doing this, they gain +2 movement. Of course, his option doesn't need to be researched or built, you can just pick this pseudo-item and fill an inventory slot with it. It does count as a vest, so it can not be combined with an actual vest. You can also only equip one of them.\n\nCivilian Disguise\nThis vest item can be bought for cheap from the start of the game, there is no research required. It uses an inventory slot and provides the Phantom ability.\n\nSealed Nanoscale Vest\nThe Nanoscale Vest now offers immunity to poison in addition to its vanilla benefits." 
+ListTitle="Предметы: Жилеты"
+DescriptionTitle="Предметы: Жилеты"
+DescriptionEntry="Новые жилеты в A Better Barracks:\n\nНалегке\nВместо экипировки предмета в слот, солдат может отправиться налегке. Таким образом, он получает +2 к мобильности. Понятное дело, эта опция не требует специального исследования, чтобы быть доступной, можно просто взять данный псевдо-предмет и вставить его в слот инвентаря. Предмет считается за жилет, поэтому с другими жилетами его сочетать нельзя. Для экипировки каждому солдату доступен только один такой жилет.\n\nГражданская Маскировка\nЭтот жилет можно дешево купить с начала кампании, исследовать ничего не надо. Занимает слот инвентаря и даёт способность Фантом.\n\nИзолированный Наножилет\nНаножилет теперь даёт иммунитет к яду вдобавок к стандартным бонусам." 
 
 [ITTraumakit X2EncyclopediaTemplate]
-ListTitle="Items: Traumakit"
-DescriptionTitle="Items: Traumakit"
-DescriptionEntry="The basic Medkit does not need to be built, it is available in unlimited number. It also doesn't provide immunity to Poison anymore. To indicate these changes, it has been renamed from Medikit to Aidkit.\n\nHowever, there is now a more expensive version around, the Traumakit.\n\nTraumakits offer the following benefits:\nMedic Sprint: Using a way of targeting similar to melee skills, this ability allows a dash and heal, targeting an ally. The soldier carrying the Traumakit can not heal himself with it. Unlike the standard Medkit heal, Medic Sprint does end the turn.\nImmunities: Traumakits offer immunity to poison.\nStabilize: Stabilize an adjacent soldier who is currently bleeding out, just like with the basic Medkit.\nRevive: Traumakits can be used to put unconscious soldiers back on their feet.\n\nTraumakits can be upgraded to Nanotraumakits with the Battlefield Medicine project.\n\nSpecialists will overwrite Medic Sprint with their Medical Protocol perk if they have it. So for Medical Specialists, the Revive ability is the only benefit over a basic Medkit.\n\nTraumakits do of course benefit from the Fieldmedic perk, gaining additional charges to Medic Sprint.\n\n" 
+ListTitle="Предметы: Медкомплект"
+DescriptionTitle="Предметы: Медкомплект"
+DescriptionEntry="Базовую аптечку строить не надо, она доступна в неограниченных количествах. А ещё она больше не даёт иммунитета от яда. Для обозначения этих изменений, она переименована в аптечку первой помощи.\n\nОднако, теперь есть более дорогая версия аптечки, медкомплект.\n\nМедкомплекты дают следующие бонусы:\nНеотложная Помощь: С помощью наведения вроде рукопашной атаки, эта способность позволяет совершить рывок к союзнику и исцелить его. Солдат с медкомплектом в руках не может лечить самого себя. В отличие от обычной аптечки, Неотложная Помощь заканчивает ход бойца.\nИммунитеты: Медкомплекты дают иммунитет от яда.\nСтабилизировать: Стабилизировать солдата поблизости, который истекает кровью, прямо как у обычной аптечки.\nВосстановить: Медкомплектом можно поставить солдата без сознания обратно на ноги.\n\nМедкомплекты можно улучшить до наномедкомплектов с помощью проекта Боевая Медицина.\n\nСпециалисты заменят Неотложную Помощь на Медицинский Протокол, если он у них есть. Для специалистов-медиков, единственное преимущество медкомплекта по сравнению с аптечкой — это способность Восстановить.\n\nМедкомплекты подвержены изменениям от способности Полевой Медик, получая дополнительные заряды Неотложной Помощи.\n\n" 
 
 [ITMimicBeacon X2EncyclopediaTemplate]
-ListTitle="Items: Mimic Beacon"
-DescriptionTitle="Items: Mimic Beacon"
-DescriptionEntry="With A Better Barracks, there are two Mimic Beacons. You gain access to both of them with the Faceless autopsy. The original Mimic Beacon is a lot more expensive now and uses two Codex Brains as part of its costs. For that reason, you will likely not be able to buy them immediately after doing the research and will be restricted in how many you build over the course of your campaign. You will however be able to buy consumable Mimic Beacons that each only cost a Faceless corpse and a few supplies, but can only be used once (similar to the Berserker Serum in the unmodded game)." 
+ListTitle="Предметы: Маяк-Имитатор"
+DescriptionTitle="Предметы: Маяк-Имитатор"
+DescriptionEntry="В A Better Barracks существует два маяка-имитатора. Доступ к обоим можно получить с помощью вскрытия безликого. Оригинальный маяк-имитатор теперь гораздо более дорогой требует два мозга кодекса для постройки. Поэтому вы, скорее всего, не сможете купить маяк сразу после вскрытия и будете ограничены в количестве. Но вы сможете приобрести потребляемый маяк-имитатор за один труп безликого и несколько припасов, но сможете использовать этот предмет лишь единожды (похоже на сыворотку берсерков из ванильной игры)." 
 
 ; ------------------
-; PSI
+; ПСИ
 ; ------------------
 
 [Header_ABBPSI X2EncyclopediaTemplate]
-ListTitle="A BETTER BARRACKS: PSI OVERHAUL"
+ListTitle="A BETTER BARRACKS: ПЕРЕРАБОТКА ПСИОНИКИ"
 
 [PSISummary X2EncyclopediaTemplate]
-ListTitle="Summary"
-DescriptionTitle="Summary"
-DescriptionEntry="If you chose to use the ABB Psi system, you will get the following changes:\n\n- There is no Psi Chamber and there is no Psi Operative.\n- Psi abilities are acquired by equipping one of your soldiers with a psi amp.\n- Psi Amps can be built after doing the autopsies for Sectoid or Priest.\n- There are different types of Amp, giving access to different abilities. \n- The use of psi amps will lead to feedback damage to the user. \n- This feedback damage can be counteracted by building and equipping psi armors. \n- To get psi armors, you need to have at least Predator armor. \n- Upgrade your amps by researching Elerium, Battlefield Medicine and Gatekeeper Autopsy." 
+ListTitle="Обзор"
+DescriptionTitle="Обзор"
+DescriptionEntry="Если вы выберете Пси-систему ABB, изменения будут следующие:\n\n- Пси-камеры и Пси-оперативников больше нет.\n- Пси-способности можно получить, дав любому солдату пси-усилитель.\n- Пси-усилители можно приобрести после вскрытия сектоида или священника.\n- Существуют рзные усилители, дающие разные способности. \n- Использования пси-усилителя будет наносить владельцу ответный урон. \n- Этот урон можно уменьшить, дав солдату пси-броню. \n- Для приобретения пси-брони вы должны иметь хотя бы хищник-броню. \n- Усилители можно улучшить с помощью исследования Элерия, Боевой Медицины и вскрытия Привратника." 
 
 [PSIAmpAgg X2EncyclopediaTemplate]
-ListTitle="Psi Amp: Aggressor"
-DescriptionTitle="Psi Amp: Aggressor"
-DescriptionEntry="The Agressor Amp is the combat line of psi amps and likely the first that is available to the player.\n\nTier 1: Provides Fuse.\nTier 2: Provides Soulfire.\nTier 3: Provides Null Lance.\nIn addition, Amps increase the psionic offense stat of the soldier carrying them. Better Amps give better bonuses, of course.\n\nTo unlock the first tier of this item, complete the Sectoid Autopsy. Tier 2 is unlocked with Elerium Research, Tier 3 needs both Psionics and the Gatekeeper Autopsy.\n\nThe construction of Oppressor Amps requires Sectoid corpses.\n\nAll abilities provided by an Amp cause feedback damage: tier 1 causes 2 damage, tier 2 causes 4 damage and tier 3 abilities cause 8 damage to the caster. Protect against this by using psi armors." 
+ListTitle="Пси-усилитель: Агрессор"
+DescriptionTitle="Пси-усилитель: Агрессор"
+DescriptionEntry="Усилитель-агрессор — боевая разновидность усилителя и, вероятнее всего, первая доступная игроку.\n\nУровень 1: даёт способность Запал.\nУровень 2: даёт Ожог Души.\nУровень 3: даёт Нуль-Копьё.\nВ добавок усилитель улучшает параметр псионической атаки солдата-владельца. Чем лучше усилители, тем лучше бонусы.\n\nДля разблокирования первого уровня нужно вскрыть сектоида. Второй появляется через исследование элерия, а третий — через вскрытие Привратника.\n\nПостройка усилителей требует трупы сектоидов.\n\nВсе способности от усилителя вызывают ответный урон: уровень 1 наносит 2 урона, уровень 2 наносит 4 урона, а уровень 3 наносит 6 урона владельцу. Защиту от этого урона даёт пси-броня." 
 
 [PSIAmpDom X2EncyclopediaTemplate]
-ListTitle="Psi Amp: Dominator"
-DescriptionTitle="Psi Amp: Dominator"
-DescriptionEntry="The Dominator Amp is the control line of psi amps.\n\nTier 1: Provides Insanity.\nTier 2: Provides Stasis.\nTier 3: Provides Domination.\nIn addition, Amps increase the psionic offense stat of the soldier carrying them. Better Amps give better bonuses, of course.\n\nTo unlock the first tier of this item, complete the Priest Autopsy. Tier 2 is unlocked with Elerium Research, Tier 3 needs both Psionics and the Gatekeeper Autopsy.\n\nThe construction of Dominator Amps requires Priest corpses.\n\nAll abilities provided by an Amp cause feedback damage: tier 1 causes 2 damage, tier 2 causes 4 damage and tier 3 abilities cause 8 damage to the caster. Protect against this by using psi armors." 
+ListTitle="Пси-усилитель: Доминатор"
+DescriptionTitle="Пси-усилитель: Доминатор"
+DescriptionEntry="Усилитель-доминатор — это разновидность усилителя, заточенная на контроль разума.\n\nУровень 1: даёт Безумие.\nУровень 2: даёт Стазис.\nУровень 3: даёт Доминирование.\nВ добавок усилитель улучшает параметр псионической атаки солдата-владельца. Чем лучше усилители, тем лучше бонусы.\n\nДля разблокирования первого уровня нужно вскрыть священника. Второй появляется через исследование элерия, а третий — через вскрытие Привратника.\n\nПостройка усилителей требует трупы священников.\n\nВсе способности от усилителя вызывают ответный урон: уровень 1 наносит 2 урона, уровень 2 наносит 4 урона, а уровень 3 наносит 6 урона владельцу. Защиту от этого урона даёт пси-броня." 
 
 [PSIAmpSav X2EncyclopediaTemplate]
-ListTitle="Psi Amp: Savior"
-DescriptionTitle="Psi Amp: Savior"
-DescriptionEntry="The Savior Amp is the support line of psi amps.\n\nTier 1: Provides Holy Warrior. Better Amps provide better versions of this ability.\nTier 2: Provides Restore, which heals a target in line of sight.\nTier 3: Provides Cleanse, which removes all status effects from a target in line of sight.\nIn addition, Amps increase the psionic offense stat of the soldier carrying them. Better Amps give better bonuses, of course.\n\nTo unlock the first tier of this item, complete the Sectoid and Priest Autopsies. Tier 2 is unlocked with the Battlefield Medicine project, Tier 3 needs both Psionics and the Gatekeeper Autopsy.\n\nThe construction of Savior Amps requires both Sectoid and Priest corpses.\n\nAll abilities provided by an Amp cause feedback damage: tier 1 causes 2 damage, tier 2 causes 4 damage and tier 3 abilities cause 8 damage to the caster. Protect against this by using psi armors." 
+ListTitle="Пси-усилитель: Спаситель"
+DescriptionTitle="Пси-усилитель: Спаситель"
+DescriptionEntry="Спас-усилитель — разновидность усилителя, ориентированная на поддержку.\n\nУровень 1: даёт способность Святой Воин. Чем лучше усилитель, тем лучше эта способность.\nУровень 2: даёт Исцеление, которое исцеляет союзника в пределах видимости.\nУровень 3: даёт Очищение, которое убирает все негативные эффекты с цели в пределах видимости.\nВ добавок усилитель улучшает параметр псионической атаки солдата-владельца. Чем лучше усилители, тем лучше бонусы.\n\nДля разблокирования первого уровня нужно вскрыть священника и сектоида. Уровень 2 появляется после завершения проекта Боевая Медицина, Уровень 3 требует завершения исследований по Псионике и Привратникам.\n\nПостройка усилителей требует трупы священников.\n\nВсе способности от усилителя вызывают ответный урон: уровень 1 наносит 2 урона, уровень 2 наносит 4 урона, а уровень 3 наносит 8 урона владельцу. Защиту от этого урона даёт пси-броня." 
 
 [PSIArmor X2EncyclopediaTemplate]
-ListTitle="Psi Armors: Medea and Hecate"
-DescriptionTitle="Psi Armors"
-DescriptionEntry="Psi Armors protect the wearer against the feedback damage effects of psi amp use.\nThe also provide some psi offense, which is especially needed to make full use of the Dominator Amp.\n\nPsi Armors are built individually from Shen's workshop.\nThere are two different psi armors:\n\n'Medea' Armor\nThe Medea armor is the Predator tier psi armor. If offers slightly lower protection than Predator, but provides these bonuses:\n+25 Psi offense\nReduces feedback damage by 50%\nProvides Fortress\n\n'Hecate' Armor\nThe Hecate is the Warden tier psi armor and allows for unhindered psi ability use in exchange for slightly lower protection.\n\nBonuses:\n+50 Psi Offense\nReduces psi feedback damage by 100%\nProvides Fortress." 
+ListTitle="Пси-броня: Медея и Геката"
+DescriptionTitle="Пси-броня"
+DescriptionEntry="Пси-броня защищает владельца от ответного урона псионических способностей.\nОни также повышают пси-атаку владельца, что особо важно для владельцев усилителей-доминаторов.\n\nКаждая броня строится отдельно в мастерской Шэнь.\nЕсть две разные пси-брони:\n\nБроня-медея\nМедея — это броня на одном уровне с хищник-бронёй. Она даёт чуть меньше защиты, чем хищник, но даёт следующие бонусы:\n+25 к пси-атаке\nСнижает ответный урон на 50%\nДаёт способность Крепость\n\nБроня-геката\nГеката — это броня уровня страж-брони, позволяющая полностью использовать пси-способности за чуть меньшую защиту.\n\nБонусы:\n+50 к пси-атаке\nСнижает ответный урон на 100%\nДаёт способность Крепость." 
 
 ; ------------------
 ; OTHER

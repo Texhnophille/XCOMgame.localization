@@ -171,6 +171,7 @@ Tear Down — Разрушитель
 Threat Assessment — Оценка Угрозы
 Tier — Уровень
 Torture — Пытка
+Traumakit — Медкомплект
 Trial by Fire — Испытание Огнём
 Trigger Happy — Сорвиголова
 Untouchable — Неприкасаемый

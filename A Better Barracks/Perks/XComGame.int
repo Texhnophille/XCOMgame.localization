@@ -376,11 +376,11 @@ LocHelpText="Take a special shot with +30 bonus to critical chance and 33% bonus
 LocPromotionPopupText="<Bullet/> Take a special shot with +30 bonus to critical chance and 33% bonus critical damage. Three-turn cooldown.<br/><Bullet/> Requires both actions to use.<br/>"
 
 [Airstrike X2AbilityTemplate]
-LocFriendlyName="Airstrike"
-LocLongDescription="Once per mission, call in the Avenger to do an airstrike that does 6-10 damage in a large area, causing massive destruction and covering everything in flames. Costs both actions."
-LocHelpText="Call in an airstrike that does 6-10 damage in a large area. Costs both actions."
-LocFlyOverText="Airstrike"
-LocPromotionPopupText="<Bullet/> The airstrike will destroy almost all cover in the area of effect.<br/>"
+LocFriendlyName="Удар с воздуха"
+LocLongDescription="Единожды на миссии вы имеете возможность вызвать Мститель для нанесения удара с воздуха, наносящего 6-10 урона в большой области, вызывающего обширные разрушения и распространение огня по территории. Стоимость — оба действия."
+LocHelpText="Запросить удар с воздуха, который нанесёт 6-10 урона в зоне поражения. Требует двух очков действия."
+LocFlyOverText="Удар с воздуха"
+LocPromotionPopupText="<Bullet/> Воздушный удар уничтожит практически все укрытия в указанной области.<br/>"
 
 [RifleSuppression X2AbilityTemplate]
 LocFriendlyName="Suppressive Fire"

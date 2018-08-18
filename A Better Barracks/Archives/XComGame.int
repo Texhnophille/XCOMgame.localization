@@ -270,35 +270,35 @@ DescriptionTitle="Пси-броня"
 DescriptionEntry="Пси-броня защищает владельца от ответного урона псионических способностей.\nОни также повышают пси-атаку владельца, что особо важно для владельцев усилителей-доминаторов.\n\nКаждая броня строится отдельно в мастерской Шэнь.\nЕсть две разные пси-брони:\n\nБроня-медея\nМедея — это броня на одном уровне с хищник-бронёй. Она даёт чуть меньше защиты, чем хищник, но даёт следующие бонусы:\n+25 к пси-атаке\nСнижает ответный урон на 50%\nДаёт способность Крепость\n\nБроня-геката\nГеката — это броня уровня страж-брони, позволяющая полностью использовать пси-способности за чуть меньшую защиту.\n\nБонусы:\n+50 к пси-атаке\nСнижает ответный урон на 100%\nДаёт способность Крепость." 
 
 ; ------------------
-; OTHER
+; ПРОЧЕЕ
 ; ------------------
 
 [Header_ABBOTHER X2EncyclopediaTemplate]
-ListTitle="A BETTER BARRACKS: OTHER CHANGES"
+ListTitle="A BETTER BARRACKS: ПРОЧИЕ ИЗМЕНЕНИЯ"
 
 [OTResOrders X2EncyclopediaTemplate]
-ListTitle="Rebalanced: Resistance Orders"
-DescriptionTitle="Resistance Orders"
-DescriptionEntry="A Better Barracks does some rebalancing with regards to Resistance Order cards. Some of them have been put into higher or lower tiers, others had their effects buffed. The following things are changed:\n\nREAPERS\nMunitions Expert: was tier 3, is now tier 2.\nScavengers: Was tier 1, is now tier 2\nLive Fire Training: Was tier 2, is now tier 1.\nGuardian Angels: Was tier 1, is now tier 2.\nVolunteer Army: Was tier 3, is now tier 2.\nBetween The Eyes: Was tier 1, is now tier 2.\n\nSKIRMISHER\nBombsquad: Was tier 3, is now tier 2.\nSabotage: Was tier 2, is now tier 3.\nDouble Agent: Was tier 3, is now tier 2.\nTactical Analysis: Removed from the game.\nInformation War: Now provides a bonus of -75 hack difficulties, up from -20. Was tier 1, is now tier 3.\nImpact Modeling: Now provides a bonus of 30%, up from 15%.\n\nTEMPLAR\nSuit Up: Was tier 3, is now tier 2.\nTrial By Fire: Was tier 1, is now tier 2.\nGreater Resolve: Was tier 3, is now tier 2.\nFeedback: Was tier 1, is now tier 2.\nPursuit of Knowledge: Was tier 2, is now tier 1." 
+ListTitle="Переработка: Приказы Сопротивления"
+DescriptionTitle="Приказы Сопротивления"
+DescriptionEntry="A Better Barracks вносит некоторые изменения в механику приказов сопротивления. Некоторые перешли на уровни повыше или пониже, другие получили значительные усиления. Изменения были следующие:\n\nЖНЕЦЫ\nЗнатоки боеприпасов: был уровня 3, теперь уровня 2.\nСобиратели: был уровня 1, стал уровня 2\nБоевые Стрельбы: было уровня 2, теперь уровня 1.\nАнгелы-Хранители: было уровня 1, стало уровня 2.\nДобровольческая армия: было уровня 3, стало уровня 2.\nПромеж глаз: было уровня 1, стало уровня 2.\n\nЗАСТУПНИКИ\nСапёры: было уровня 3, стало уровня 2.\nСаботаж: было уровня 2, стало уровня 3.\nДвойной агент: было уровня 3, стало уровня 2.\nТактический анализ: больше не в игре.\nИнформационная Война: теперь даёт бонус -75 к сложности взлома вместо -20. Было уровня 1, стало уровня 3.\nТест на прочность: ускоряет процесс исследования на 30%, а не на 15%.\n\nХРАМОВНИКИ\nФорма одежды — боевая: было уровня 3, стало уровня 2.\nИспытание огнём: было уровня 1, стало уровня 2.\nСамоотверженность: было уровня 3, стало уровня 2.\nПсихологическая стойкость: было уровня 1, стало уровня 2.\nВ погоне за знанием: было уровня 2, стало уровня 1." 
 
 [OTTurnOrder X2EncyclopediaTemplate]
-ListTitle="Changed: Turn Order"
-DescriptionTitle="Turn Order"
-DescriptionEntry="A Better Barracks swaps the turn order around, making The Lost act before aliens. This has a couple consequences:\n\n- Aliens will no longer waste their Overwatch on The Lost.\n- XCOM is no longer able to overwatch aliens effectively when Lost are around because those will trigger the reaction shots first.\n- Alien units activated in the Lost turn are free to act on the alien turn that immediately follows. This makes engaging Lost while unrevealed aliens are around risky because it can lead to situations where the aliens get the drop on XCOM while those are occupied with the horde.\n\nThe Chosen turn is always after the alien turn, so the full turn order is XCOM > Lost > Alien > Chosen > Resistance. Rulers take their reactions only during the XCOM turn." 
+ListTitle="Изменения: Порядок Ходов"
+DescriptionTitle="Порядок Ходов"
+DescriptionEntry="A Better Barracks переключает порядок ходов, заставляя сгинувших двигаться перед пришельцам. Что мы имеем в результате:\n\n- Пришельцы больше не будут тратить свои ответные выстрелы на странников.\n- XCOM больше не сможет бить пришельцев ответными выстрелами, когда поблизости есть сгинувшие.\n- Активировавшиеся в ход сгинувших пришельцы смогут свободно действовать в следующий ход пришельцев. Таким образом, вступать в бой со сгинувшими при наличии нераскрытых отрядов пришельцев становится рисковано, так как это может привести к ситуациям, когда пришельцы нападают на занятый ордой XCOM из засады.\n\nИзбранные ходят после пришельцев, так что полный порядок хода следующий: XCOM > Сгинувшие > Пришельцы > Избранные > Сопротивление. Правители пришельцев могут реагировать только в ход XCOM." 
 
 [OTCoverDest X2EncyclopediaTemplate]
-ListTitle="Removed: Indestructable XCOM cover"
-DescriptionTitle="XCOM cover no longer indestructable"
-DescriptionEntry="In the unmodded game, missed shots from aliens can never destroy the cover of the soldier they intended to hit. This rule has been removed, there is no need for this player advantage. If the player can accidentally destroy the enemies cover, this should be possible the other way around as well." 
+ListTitle="Удалено: Неразрушимое укрытие XCOM"
+DescriptionTitle="Укрытие XCOM теперь разрушаемое"
+DescriptionEntry="В немодифицированной игре, промахи пришельцев никогда не уничтожают укрытие солдата XCOM, на которого был нацелен выстрел. Это правило больше недействительно, за ненужностью данного преимущества. Если игрок может случайно уничтожить укрытие врага, то и обратное должно быть возможно." 
 
 ; ------------------
-; CREDITS
+; БЛАГОДАРНОСТИ
 ; ------------------
 
 [Header_ABBCREDITS X2EncyclopediaTemplate]
-ListTitle="ABB: CREDITS AND ACKNOWLEDGEMENTS"
+ListTitle="ABB: БЛАГОДАРНОСТИ"
 
 [CRThankyou X2EncyclopediaTemplate]
-ListTitle="Thank you"
-DescriptionTitle="Credits and Acknowledgements"
-DescriptionEntry="Like all of my mods, A Better Barracks also builds heavily on the works done by other modders.\n\nOf special note are these mods and modders:\n\n2D Art by .vhs\nIf something isn't taken from another mod and it looks great, then chances are that it was made by .vhs specifically for A Better Barracks. This includes things like research panel art, perk icons, equipment art. Thanks so much, you made ABB look like a proper mod :)\n\nXModBase by xylth\nA fantastic resource for everyone who wants to create new perks.\n\nLong War 2 by Pavonis Interactive\nMany of the assets and perks in ABB come from the mods done by Pavonis, most notably the Perks from the Perk Pack and the Secondary Weapons.\n\nLong War Secondary Weapons for WotC by shiremct\nShiremct ported the LW2 secondaries to War of the Chosen. Without this work being done by him, i would not have been able to include them in ABB.\n\nTotal ADVENT Weaponry by CMDBob, WotC port by combatmedic02\nThe custom ADVENT weapon models are from the “Total ADVENT Weaponry” mod. I already used them in ABA, so this was an obvious thing to do here as well.\n\nRichards Classes by Richard\nMany of the perks and icons in ABB are taken from Richards Classes.\n\nSpectrum Green by Yzaxtol\nA lot of behind-the-scenes code was lifted from Spectrum. It has also been a catalyst for many of the ideas that went into ABB’s design.\n\nCollateral Demolition by Divine Lucubration\nThis mod turned Demolition into something that is actually useful. It’s integrated in full.\n\nClassless Overhaul by Ziodyne\nABB doesn’t directly use any assets or code from this mod, but the perk roulette was inspired by it.\n\nAlso i am deeply grateful for all the help that various people gave me in Discord, chat etc.\n\nThanks a lot,\nDerBK\n\n
+ListTitle="Спасибо"
+DescriptionTitle="БЛАГОДАРНОСТИ"
+DescriptionEntry="Как и все мои моды, A Better Barracks также был создан благодаря работам других модеров.\n\nОтдельная благодарность следующим модерам:\n\n2D Арт: .vhs\nЕсли 2D арт выглядит круто и при этом не взят из другого мода, велика вероятность, что его сделал .vhs для A Better Barracks. Это включает в себя такие вещи, как арты исследований, иконки способностей, арт снаряжения. Большое тебе спасибо, благодаря тебе ABB выглядит как настоящий мод :)\n\nXModBase by xylth\nA fantastic resource for everyone who wants to create new perks.\n\nLong War 2 by Pavonis Interactive\nMany of the assets and perks in ABB come from the mods done by Pavonis, most notably the Perks from the Perk Pack and the Secondary Weapons.\n\nLong War Secondary Weapons for WotC by shiremct\nShiremct ported the LW2 secondaries to War of the Chosen. Without this work being done by him, i would not have been able to include them in ABB.\n\nTotal ADVENT Weaponry by CMDBob, WotC port by combatmedic02\nThe custom ADVENT weapon models are from the “Total ADVENT Weaponry” mod. I already used them in ABA, so this was an obvious thing to do here as well.\n\nRichards Classes by Richard\nMany of the perks and icons in ABB are taken from Richards Classes.\n\nSpectrum Green by Yzaxtol\nA lot of behind-the-scenes code was lifted from Spectrum. It has also been a catalyst for many of the ideas that went into ABB’s design.\n\nCollateral Demolition by Divine Lucubration\nThis mod turned Demolition into something that is actually useful. It’s integrated in full.\n\nClassless Overhaul by Ziodyne\nABB doesn’t directly use any assets or code from this mod, but the perk roulette was inspired by it.\n\nAlso i am deeply grateful for all the help that various people gave me in Discord, chat etc.\n\nThanks a lot,\nDerBK\n\n

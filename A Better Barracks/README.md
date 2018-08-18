@@ -11,7 +11,7 @@ Adrenaline Surge — Всплеск Адреналина
 Agent — Агент
 Aid Protocol — Протокол Поддержки
 Aim — Прицел
-Airstrike — Удар с Воздуха
+Airstrike — Удар с воздуха
 Anatomy — Анатомия
 Arctic Warrior — Зимний Солдат
 Assassin — Убийца

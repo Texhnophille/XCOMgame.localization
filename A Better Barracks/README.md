@@ -103,6 +103,7 @@ Overwatch (Heavy weapon) — Боеготовность (Тяжёлое оруж
 Pack Rat — Барахольщик
 Paint Target — Подсветка Цели
 Parkour — Паркур
+Penetrator Scope — Бронебойный Прицел
 Perk — Способность
 Perforating Shots — Пробивные Выстрелы
 Phantom — Фантом

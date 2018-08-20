@@ -89,6 +89,7 @@ Lockdown — Блокировка
 Lone Wolf — Волк-Одиночка
 Low Profile — Низкий Профиль
 Magnum — Магнум
+Marksman's Stock — Стрелковый Приклад
 Mayhem — Хаос
 Mine Layer — Миномётчик
 Moving Target — Подвижная Мишень

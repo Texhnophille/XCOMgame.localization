@@ -31,10 +31,10 @@ LaunchedAbilityname="Выстрелить противопехотной гра�
 LaunchedAbilityHelpText="Выстрелить противопехотной гранатой в выбранную зону. Пробивает броню, не уничтожает укрытия."
 
 [TracerRounds X2AmmoTemplate]
-FriendlyName="Tracer Rounds"
-FriendlyNamePlural="Tracer Rounds"
-BriefSummary="Tracer rounds illuminate the path of the bullets, making it easier for teammates to fire at the marked target. Provides the Holotargeting ability."
-TacticalText="<Bullet/>Tracer rounds grant no innate bonus aim, but they do provide the Holotargeting perk that increases aim for other soldiers shooting at the target.<br>"
+FriendlyName="Трассирующие Патроны"
+FriendlyNamePlural="Трассирующие Патроны"
+BriefSummary="Трассера освещают траекторию полёта пуль, облегчая соратникам выцеливание врага. Даёт способность Голографическая Наводка."
+TacticalText="<Bullet/>Трассирующие патроны не дают бонуса к меткости, но дают способность Голографическая Наводка, улучшающую меткость других бойцов, атакующих эту цель.<br>"
 
 [Traumakit X2WeaponTemplate]
 FriendlyName="Traumakit"

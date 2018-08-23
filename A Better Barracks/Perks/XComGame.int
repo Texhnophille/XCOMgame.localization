@@ -27,9 +27,9 @@ LocHelpText="Открыть огонь по цели. Требует двух о
 LocLongDescription="Тяжёлые виды вооружения требуют двух очков действия для стрельбы."
 
 [FireShot X2AbilityTemplate]
-LocFriendlyName="Shoot Flammenwerfer"
-LocHelpText="Shoot at a target. Will light the target on fire if not immune. Can not headshot."
-LocLongDescription="Firing the primary weapon always ends a unit's turn. Fire immune enemies aren't affected by this shot at all. Does not count as a headshot on the Lost."
+LocFriendlyName="Выстрелить из Огнебоя"
+LocHelpText="Выстрелить по цели. Если цель восприимчива к огню — она загорится. Не считается выстрелом в голову для сгинувших."
+LocLongDescription="Выстрел из основного оружия всегда завершает ход бойца. Противники с иммунитетом к огню не получают никакого урона. Не считается выстрелом в голову для сгинувших."
 
 [SniperRifleOverwatch X2AbilityTemplate]
 LocFriendlyName="Боеготовность (Тяжёлое оружие)"
@@ -115,16 +115,16 @@ LocHelpText="Вы можете двигаться после совершени�
 LocLongDescription="Вы можете двигаться после совершения отдельного действия, которое обычно заканчивает ваш ход."
 
 [XMBExample_InspireAgility X2AbilityTemplate]
-LocFriendlyName="Inspire Agility"
-LocFlyOverText="Inspire Agility"
-LocHelpText="Give a friendly unit <Ability:+Dodge/> Dodge until the start of your next turn. Whenever you kill an enemy, you gain an extra charge."
-LocLongDescription="Give a friendly unit <Ability:+Dodge/> Dodge until the start of your next turn. Whenever you kill an enemy, you gain an extra charge."
+LocFriendlyName="Вдохновить на Ловкость"
+LocFlyOverText="Вдохновить на Ловкость"
+LocHelpText="Дать дружественному бойцу <Ability:+Dodge/> уклонения до конца хода. Вы получаете дополнительные заряды всякий раз, когда убиваете врага."
+LocLongDescription="Дать дружественному бойцу <Ability:+Dodge/> уклонения до конца хода. Вы получаете дополнительные заряды всякий раз, когда убиваете врага."
 
 [XMBExample_LightningHands X2AbilityTemplate]
-LocFriendlyName="Lightning Hands"
-LocFlyOverText="Lightning Hands"
-LocHelpText="Fire your pistol at a target. This attack does not cost an action."
-LocLongDescription="Fire your pistol at a target. This attack does not cost an action."
+LocFriendlyName="Руки-молнии"
+LocFlyOverText="Руки-молнии"
+LocHelpText="Выстрелить из пистолета по цели. Эта атака не тратит очко действия."
+LocLongDescription="Выстрелить из пистолета по цели. Эта атака не тратит очко действия."
 
 [XMBExample_Magnum X2AbilityTemplate]
 LocFriendlyName="Магнум"

@@ -44,7 +44,7 @@ TacticalText="<Bullet/> Медкомплект также можно испол�
 
 [NanoTraumakit X2WeaponTemplate]
 FriendlyName="НаноМедкомплект"
-FriendlyNamePlural="НаноМедкомплект"
+FriendlyNamePlural="НаноМедкомплекты"
 BriefSummary="Эту наноаптечку можно использовать на бегу, но носитель не может исцелять ею самого себя. Ею можно восстанавливать солдатов, которые лежат без сознания."
 TacticalText="<Bullet/> Медкомплект также можно использовать для удаления эффектов горения, отравления или кислоты.\n<Bullet/> Медкомплект также можно использовать для стабилизации истекающих кровью солдат.\n<Bullet/>Медкомплекты имеют два заряда, и если их использовать на союзниках, те должны находиться на соседних клетках.\n<Bullet/> Ношение медкомплекта даёт иммунитет к яду.\n<Bullet/> Не влияет на союзных роботов.\n"
 
@@ -80,29 +80,29 @@ FriendlyNamePlural="Техно-фрагменты"
 BriefSummary="Бесполезные и сломанные части оружия, добытые в бою. Хотя их нельзя добавить в арсенал напрямую, их можно разбить на оружейные фрагменты для улучшения нашего технического снаряжения."
 
 [Tier2UpgradeComponents X2ItemTemplate]
-FriendlyName="Upgrade Component (Tier 2)"
-FriendlyNamePlural="Upgrade Components (Tier 2)"
-BriefSummary="These pieces of alien magnetic weaponry are still intact and will do wonders when we want to adapt their tech for our own equipment."
+FriendlyName="Компонент Улучшения (Уровень 2)"
+FriendlyNamePlural="Компоненты Улучшения (Уровень 2)"
+BriefSummary="Эти фрагменты магнитного оружия пришельцев по-прежнему не тронуты, и с ними мы сможем адаптировать эту технологию для наших целей."
 
 [Tier3UpgradeComponents X2ItemTemplate]
-FriendlyName="Upgrade Component (Tier 3)"
-FriendlyNamePlural="Upgrade Components (Tier 3)"
-BriefSummary="These pieces of alien beam weapon technology are still intact. We can use them to adapt their tech for our own equipment."
+FriendlyName="Компонент Улучшения (Уровень 3)"
+FriendlyNamePlural="Компоненты Улучшения (Уровень 3)"
+BriefSummary="Эти фрагменты лучевого оружия пришельцев по-прежнему не тронуты. Мы можем адаптировать эту технологию для наших целей."
 
 [Medikit X2WeaponTemplate]
-FriendlyName="First Aid Kit"
-FriendlyNamePlural="First Aid Kits"
-BriefSummary="The Aid Kit contains a pressurized solution that, when exposed to air, acts as a sealant and insulator. Infused with painkillers and antiseptics, the Medikit can treat wounds and remove a variety of adverse conditions, including burns and poison."
-TacticalText="<Bullet/> A Medikit can restore <Ability:MEDIKITPERUSEHP/>HP to a single soldier.\n<Bullet/> A Medikit can also be used to remove Burning, Acid, and Poison effects from any soldier.\n<Bullet/> A Medikit can also be used to stabilize a soldier that is bleeding out.\n<Bullet/>A Medikit only has a single charge, and if used on allies, they must be in an adjacent tile.\n<Bullet/> Does not affect robotic allies.\n"
+FriendlyName="Аптечка"
+FriendlyNamePlural="Аптечки"
+BriefSummary="В аптечках содержится сжатый раствор, который при контакте с воздухом действует как фиксатор и изоляционный материал. Заряженная обезболивающими и антисептиками, аптечка может обработать самые разнообразные раны бойца, включая ожоги и яд."
+TacticalText="<Bullet/> Аптечка может восстановить <Ability:MEDIKITPERUSEHP/>ХП у одного солдата.\n<Bullet/> Аптечкой также можно снимать эффекты горения, яда или кислоты.\n<Bullet/> Аптечкой также можно стабилизировать солдата, истекающего кровью.\n<Bullet/>Аптечку можно использовать лишь единожды, и носителю надо находиться на соседней клетке с раненым.\n<Bullet/> Нельзя лечить роботов.\n"
 
 [NanoMedikit X2WeaponTemplate]
-FriendlyName="Nano Aid Kit"
-FriendlyNamePlural="Nano Aid Kits"
-BriefSummary="The Nano Aid Kit represents a substantial upgrade over our standard Medikit, increasing the health restored to injured soldiers."
-TacticalText="<Bullet/> A Nanomedikit can restore <Ability:NANOMEDIKITHEALHP/>HP to a single soldier.\n<Bullet/> Like the base Medikit, a Nanomedikit can remove negative environmental effects from soldiers and can stabilize soldiers that are bleeding out.\n<Bullet/> Does not affect robotic allies.\n"
+FriendlyName="Наноаптечка"
+FriendlyNamePlural="Наноаптечки"
+BriefSummary="Наноаптечка представляет собой значительно улучшенную версию аптечки, восстанавливая у солдат ещё больше здоровья."
+TacticalText="<Bullet/> Наноаптечка может восстановить <Ability:NANOMEDIKITHEALHP/>ХП у одного солдата.\n<Bullet/> Как и в случае с обычной аптечкой, эта может убирать негативные эффекты и стабилизировать истекающего кровью бойца.\n<Bullet/> Нельзя использовать на роботах.\n"
 
 [NanofiberVest X2EquipmentTemplate]
-FriendlyName="Sealed Nanoscale Vest"
-FriendlyNamePlural="Sealed Nanoscale Vests"
-BriefSummary="A light armor improvement derived from ADVENT armor. This item can be worn with all XCOM armors to increase soldier health and to provide immunity to poison."
-TacticalText="<Bullet/> Grants a small but possibly decisive boost to soldier health.\n<Bullet/> Provides immunity to poison.\n<Bullet/> Only one armor enhancement can be equipped at a time."
+FriendlyName="Изолированный Наночешуйчатый Жилет"
+FriendlyNamePlural="Изолированный Наночешуйчатые Жилеты"
+BriefSummary="Улучшение лёгкой брони на основе АДВЕНТа. Этот предмет можно носить в слоте брони, получив увеличенное здоровье и иммунитет к яду."
+TacticalText="<Bullet/> Даёт небольшой, но потенциально решающий прирост к здоровью солдата.\n<Bullet/> Даёт иммунитет к яду.\n<Bullet/> За раз можно иметь лишь одно улучшение брони."

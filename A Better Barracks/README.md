@@ -181,6 +181,7 @@ Vital Point Targeting — Поиск Уязвимостей
 Volatile Mix — Гремучая Смесь
 Volt — Вольт
 Walk Fire — Пристрелка
+Weakpoint Spotting — Сканирование Слабых Мест
 Weaponmaster — Знаток вооружения
 Whiplash — Удар Хлыстом
 Wrecking Ball — Таран
